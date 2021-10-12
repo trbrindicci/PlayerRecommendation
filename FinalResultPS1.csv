@@ -1,0 +1,2821 @@
+Player,Nation,Pos,Squad,Comp,Age,SimilarityScore
+Jesse Lingard,ENG,MFFW,West Ham,Premier League,27,91.61554414
+Pablo Sarabia,ESP,FWMF,Paris S-G,Ligue 1,28,91.41995921
+Marcus Rashford,ENG,FW,Manchester Utd,Premier League,22,89.62821134
+Stephan El Shaarawy,ITA,FWMF,Roma,Seria A,27,88.92905605
+Philipp Förster,GER,FWMF,Stuttgart,Bundesliga,25,88.76201086
+Vincenzo Grifo,ITA,MFFW,Freiburg,Bundesliga,27,88.41831187
+Marco Reus,GER,MFFW,Dortmund,Bundesliga,31,88.08186256
+Serge Gnabry,GER,FWMF,Bayern Munich,Bundesliga,25,87.96576135
+Nicolas Pépé,CIV,FW,Arsenal,Premier League,25,87.74924084
+Nicola Sansone,ITA,FWMF,Bologna,Seria A,28,87.47581939
+Christian Pulisic,USA,FWMF,Chelsea,Premier League,21,87.38428361
+João Félix,POR,FWMF,Atlético Madrid,La Liga,20,87.1940873
+Adil Aouchiche,FRA,MFFW,Saint-Étienne,Ligue 1,18,87.17031957
+Salih Özcan,GER,MFFW,Köln,Bundesliga,22,86.98343363
+Mohamed Salah,EGY,FW,Liverpool,Premier League,28,86.90890761
+Naomichi Ueda,JPN,DF,Nîmes,Ligue 1,25,86.90643288
+Moussa Diaby,FRA,FWMF,Leverkusen,Bundesliga,21,86.66874725
+Joaquín Correa,ARG,FW,Lazio,Seria A,25,86.65322511
+Raheem Sterling,ENG,FW,Manchester City,Premier League,25,86.58760275
+Yannick Carrasco,BEL,DFMF,Atlético Madrid,La Liga,26,86.47048042
+Kai Havertz,GER,MFFW,Chelsea,Premier League,21,86.44090711
+Hannes Wolf,AUT,MFFW,M'Gladbach,Bundesliga,21,86.39773916
+Kévin Zohi,MLI,FWMF,Strasbourg,Ligue 1,23,86.32571391
+Jeong Woo-yeong,KOR,FWMF,Freiburg,Bundesliga,20,86.07816463
+Ayoze Pérez,ESP,MFFW,Leicester City,Premier League,27,86.02755927
+Amer Gojak,BIH,MFFW,Torino,Seria A,23,85.97443762
+Mehdi Zerkane,ALG,MFFW,Bordeaux,Ligue 1,21,85.81845213
+Gelson Martins,POR,MFFW,Monaco,Ligue 1,25,85.69252992
+Fabio Carvalho,ENG,MFFW,Fulham,Premier League,17,85.44617576
+Amine Gouiri,FRA,FWMF,Nice,Ligue 1,20,85.37124749
+Junior Sambia,FRA,DFMF,Montpellier,Ligue 1,23,85.35847344
+Lukáš Haraslín,SVK,FWMF,Sassuolo,Seria A,24,85.27554415
+Marc Albrighton,ENG,DFFW,Leicester City,Premier League,30,85.10964742
+Josip Brekalo,CRO,FW,Wolfsburg,Bundesliga,22,85.10279892
+Yusuf Yazıcı,TUR,FWMF,Lille,Ligue 1,23,85.09862087
+Maxence Rivera,FRA,MFFW,Saint-Étienne,Ligue 1,18,85.09814441
+Lars Stindl,GER,MFFW,M'Gladbach,Bundesliga,31,84.9792843
+Duván Zapata,COL,FW,Atalanta,Seria A,29,84.64676256
+Jimmy Cabot,FRA,FWMF,Angers,Ligue 1,26,84.58275316
+Fidel,ESP,MFDF,Elche,La Liga,30,84.54399146
+Yeremi Pino,ESP,FWMF,Villarreal,La Liga,17,84.53461284
+Jérôme Hergault,FRA,DF,Lorient,Ligue 1,34,84.48875247
+Adam Marušić,MNE,DF,Lazio,Seria A,27,84.28357547
+Bruno Peres,BRA,DF,Roma,Seria A,30,84.1258386
+Gastón Pereiro,URU,MFFW,Cagliari,Seria A,25,83.99667847
+Josan,ESP,MFDF,Elche,La Liga,30,83.89837586
+Christopher Nkunku,FRA,FWMF,RB Leipzig,Bundesliga,22,83.88863134
+Yann Gboho,FRA,MFFW,Rennes,Ligue 1,19,83.8263084
+Jeremie Boga,CIV,FWMF,Sassuolo,Seria A,23,83.78560824
+Marcos Llorente,ESP,MFDF,Atlético Madrid,La Liga,25,83.6895279
+Bukayo Saka,ENG,FWDF,Arsenal,Premier League,18,83.64734884
+Ángel Correa,ARG,FWMF,Atlético Madrid,La Liga,25,83.43514262
+Valentin Eysseric,FRA,MFFW,Fiorentina,Seria A,28,83.39953916
+Ansu Fati,ESP,FW,Barcelona,La Liga,17,83.23757476
+Farid El Melali,ALG,FWMF,Angers,Ligue 1,23,83.18321969
+Diogo Jota,POR,FW,Liverpool,Premier League,23,83.1246363
+Ander Capa,ESP,DF,Athletic Club,La Liga,28,83.08336617
+Leon Bailey,JAM,FWMF,Leverkusen,Bundesliga,22,83.02249724
+Musa Barrow,GAM,FWMF,Bologna,Seria A,21,83.01684953
+Fabián Orellana,CHI,MFFW,Valladolid,La Liga,34,83.01296082
+Malick Thiaw,GER,DF,Schalke 04,Bundesliga,18,82.98148361
+Aboubakar Kamara,MTN,FWMF,Dijon,Ligue 1,25,82.95903759
+Kévin Rodrigues,POR,MFDF,Eibar,La Liga,26,82.93574789
+Andreas Skov Olsen,DEN,FWDF,Bologna,Seria A,20,82.92949327
+Alexis Claude-Maurice,FRA,MFFW,Nice,Ligue 1,22,82.90992978
+Pablo Maffeo,ESP,DF,Huesca,La Liga,23,82.88180208
+Gaetano Letizia,ITA,DF,Benevento,Seria A,30,82.85787061
+Gareth Bale,WAL,FW,Tottenham,Premier League,31,82.85172603
+Rony Lopes,POR,FWMF,Nice,Ligue 1,24,82.75450204
+Mathew Leckie,AUS,FWDF,Hertha BSC,Bundesliga,29,82.62098104
+Phil Foden,ENG,FWMF,Manchester City,Premier League,20,82.58092138
+Thorgan Hazard,BEL,FWMF,Dortmund,Bundesliga,27,82.5023573
+Valerio Verre,ITA,MF,Sampdoria,Seria A,26,82.49480363
+Fabian Schär,SUI,DF,Newcastle Utd,Premier League,28,82.48273709
+Gerard Deulofeu,ESP,FWMF,Udinese,Seria A,26,82.41188185
+Carles Pérez,ESP,FWMF,Roma,Seria A,22,82.39407202
+Ainsley Maitland-Niles,ENG,DF,Arsenal,Premier League,22,82.37730157
+Mërgim Vojvoda,KVX,DF,Torino,Seria A,25,82.34242939
+Matteo Pessina,ITA,MF,Atalanta,Seria A,23,82.28894978
+Karol Linetty,POL,MF,Torino,Seria A,25,82.25258329
+Lennart-Marten Czyborra,GER,DF,Genoa,Seria A,21,82.19342537
+Joaquín,ESP,FWMF,Betis,La Liga,39,82.09755045
+Sebastian Rudy,GER,MFDF,Hoffenheim,Bundesliga,30,82.03481144
+Rodrigo Palacio,ARG,FW,Bologna,Seria A,38,81.97776651
+Ricardo Pereira,POR,DF,Leicester City,Premier League,26,81.96880758
+Luis Muriel,COL,FW,Atalanta,Seria A,29,81.93843307
+Cristian Tello,ESP,FWMF,Betis,La Liga,28,81.90268252
+Raphael Dias Belloli,BRA,MF,Leeds United,Premier League,23,81.89324435
+Mason Greenwood,ENG,FW,Manchester Utd,Premier League,18,81.85326751
+Mattéo Guendouzi,FRA,MF,Hertha BSC,Bundesliga,21,81.8531821
+Ben Osborn,ENG,MFDF,Sheffield Utd,Premier League,25,81.76596315
+Enis Bardhi,MKD,MFFW,Levante,La Liga,25,81.71538898
+Toni Villa,ESP,MFFW,Valladolid,La Liga,25,81.66446347
+Vincent Le Goff,FRA,DF,Lorient,Ligue 1,30,81.64080612
+Thomas Delaine,FRA,DF,Metz,Ligue 1,28,81.64015523
+Riyad Mahrez,ALG,FW,Manchester City,Premier League,29,81.61776945
+Adrien Thomasson,FRA,MF,Strasbourg,Ligue 1,26,81.55838944
+Jaime Seoane,ESP,MF,Huesca,La Liga,23,81.53380386
+Brais Méndez,ESP,MFFW,Celta Vigo,La Liga,23,81.51836858
+Santiago Ascacíbar,ARG,MF,Hertha BSC,Bundesliga,23,81.49976216
+Nolito,ESP,MFFW,Celta Vigo,La Liga,33,81.46132961
+Moi Gómez,ESP,MFFW,Villarreal,La Liga,26,81.39431538
+Augusto Solari,ARG,MF,Celta Vigo,La Liga,28,81.30189314
+Robert Glatzel,GER,FW,Mainz 05,Bundesliga,26,81.26258289
+Sadio Mané,SEN,FW,Liverpool,Premier League,28,81.25253617
+Henrikh Mkhitaryan,ARM,FWMF,Roma,Seria A,31,81.22933938
+Ridle Baku,GER,FWDF,Wolfsburg,Bundesliga,22,81.17915252
+Matheus Pereira,BRA,MFFW,West Brom,Premier League,24,81.12513576
+Jonas Hofmann,GER,FWMF,M'Gladbach,Bundesliga,28,81.12280476
+Nahitan Nández,URU,MFDF,Cagliari,Seria A,24,81.09005553
+Pablo Hervías,ESP,DFMF,Valladolid,La Liga,27,81.04629588
+Gaetano Castrovilli,ITA,MF,Fiorentina,Seria A,23,81.04471578
+Lorenzo Pellegrini,ITA,MFFW,Roma,Seria A,24,81.04085972
+Ryan Sessegnon,ENG,DF,Hoffenheim,Bundesliga,20,80.97943219
+Christoph Baumgartner,AUT,MFFW,Hoffenheim,Bundesliga,20,80.91986373
+Lucas Moura,BRA,FWMF,Tottenham,Premier League,27,80.89080588
+Andrés Tello,COL,MFDF,Benevento,Seria A,23,80.86809732
+Sofiane Diop,FRA,MFFW,Monaco,Ligue 1,20,80.86806596
+Daniel Podence,POR,MFFW,Wolves,Premier League,24,80.86015674
+Piotr Zieliński,POL,MF,Napoli,Seria A,26,80.82387943
+Bryan,ESP,MFFW,Eibar,La Liga,19,80.75608927
+Lucas Paquetá,BRA,MF,Lyon,Ligue 1,22,80.75416149
+Jonathan Clauss,FRA,DF,Lens,Ligue 1,27,80.74996623
+Hirving Lozano,MEX,FW,Napoli,Seria A,25,80.70927166
+Franck Ribéry,FRA,FW,Fiorentina,Seria A,37,80.68631055
+Romain Hamouma,FRA,FW,Saint-Étienne,Ligue 1,33,80.65440619
+Leroy Sané,GER,FWMF,Bayern Munich,Bundesliga,24,80.60615046
+Samuel Chukwueze,NGA,MFFW,Villarreal,La Liga,21,80.60349
+Memphis Depay,NED,FW,Lyon,Ligue 1,26,80.5987887
+Vinicius Júnior,BRA,FW,Real Madrid,La Liga,20,80.59696416
+Federico Chiesa,ITA,DF,Fiorentina,Seria A,22,80.47272933
+Weston McKennie,USA,MF,Juventus,Seria A,21,80.43350057
+Dele Alli,ENG,MF,Tottenham,Premier League,24,80.29693171
+Séamus Coleman,IRL,DFMF,Everton,Premier League,31,80.29021563
+Gio Reyna,USA,FWMF,Dortmund,Bundesliga,17,80.24371492
+Hicham Boudaoui,ALG,MFFW,Nice,Ligue 1,20,80.1765669
+Cristian Ansaldi,ARG,DF,Torino,Seria A,33,80.12253537
+Nathan Redmond,ENG,MFFW,Southampton,Premier League,26,80.07921186
+Senad Lulić,BIH,DFMF,Lazio,Seria A,34,80.05739485
+Mattia De Sciglio,ITA,DF,Juventus,Seria A,27,80.0514186
+Toma Bašić,CRO,MF,Bordeaux,Ligue 1,23,80.04565962
+Aymen Barkok,MAR,MFFW,Eint Frankfurt,Bundesliga,22,80.0399023
+Jordan Ayew,GHA,FWMF,Crystal Palace,Premier League,28,80.0280697
+Cristián Zapata,COL,DF,Genoa,Seria A,33,79.91842885
+Sofiane Boufal,MAR,FWMF,Angers,Ligue 1,26,79.84008929
+Leandro Trossard,BEL,FWMF,Brighton,Premier League,25,79.83537751
+Pedro Neto,POR,FWMF,Wolves,Premier League,20,79.82465862
+Alfonso Pedraza,ESP,DF,Villarreal,La Liga,24,79.82287186
+Achraf Hakimi,MAR,DF,Inter,Seria A,21,79.79661662
+Hans Hateboer,NED,DF,Atalanta,Seria A,26,79.7005271
+Harvey Barnes,ENG,FWMF,Leicester City,Premier League,22,79.61641592
+Martín Merquelanz,ESP,FWMF,Real Sociedad,La Liga,25,79.60783729
+Abdoul Kader Bamba,FRA,FWMF,Nantes,Ligue 1,26,79.60321839
+Aitor Ruibal,ESP,FWMF,Betis,La Liga,24,79.45658256
+Jonathan Bamba,FRA,MF,Lille,Ligue 1,24,79.333982
+Adrián Cubas,PAR,MF,Nîmes,Ligue 1,24,79.3204473
+Mikel Oyarzabal,ESP,FWMF,Real Sociedad,La Liga,23,79.30508517
+Zinedine Ferhat,ALG,FWMF,Nîmes,Ligue 1,27,79.24873739
+Ferrán Torres,ESP,FWMF,Manchester City,Premier League,20,79.24230745
+Stefano Sturaro,ITA,MF,Hellas Verona,Seria A,27,79.18293489
+Răzvan Marin,ROU,MF,Cagliari,Seria A,24,79.15676848
+Conor Townsend,ENG,DF,West Brom,Premier League,27,79.13473461
+Kelechi Iheanacho,NGA,FW,Leicester City,Premier League,23,79.12296237
+Tariq Lamptey,ENG,DF,Brighton,Premier League,19,79.10683126
+Federico Bernardeschi,ITA,DFMF,Juventus,Seria A,26,79.09112868
+Darko Lazović,SRB,DF,Hellas Verona,Seria A,29,79.08099907
+Florian Miguel,FRA,DF,Nîmes,Ligue 1,23,79.0489332
+Isaac Lihadji,FRA,MFDF,Lille,Ligue 1,18,79.00940687
+Koffi Djidji,CIV,DF,Crotone,Seria A,27,78.99595753
+Amadou Traore,FRA,MFFW,Bordeaux,Ligue 1,18,78.97839683
+Gastón Ramírez,URU,MFFW,Sampdoria,Seria A,29,78.93591683
+Florent Mollet,FRA,MF,Montpellier,Ligue 1,28,78.91504565
+Ansgar Knauff,GER,FWMF,Dortmund,Bundesliga,18,78.90720976
+Miguel Almirón,PAR,MFFW,Newcastle Utd,Premier League,26,78.89587955
+Bram Nuytinck,NED,DF,Udinese,Seria A,30,78.85745994
+Pervis Estupiñán,ECU,DF,Villarreal,La Liga,22,78.84604765
+Serge Aurier,CIV,DF,Tottenham,Premier League,27,78.83393282
+Daniele Verde,ITA,FW,Spezia,Seria A,24,78.82354846
+Moanes Dabour,ISR,FW,Hoffenheim,Bundesliga,28,78.81364354
+Ruben Vargas,SUI,MFFW,Augsburg,Bundesliga,21,78.80768536
+Jamal Musiala,GER,FWMF,Bayern Munich,Bundesliga,17,78.77017899
+Charles Traore,MLI,DF,Nantes,Ligue 1,28,78.75614442
+Theodor Gebre Selassie,CZE,DF,Werder Bremen,Bundesliga,33,78.75348028
+Luke Thomas,ENG,DF,Leicester City,Premier League,19,78.72016212
+Dan Ndoye,SUI,FWMF,Nice,Ligue 1,19,78.68060742
+Luca Netz,GER,DFMF,Hertha BSC,Bundesliga,17,78.66194714
+Gleison Bremer,BRA,DF,Torino,Seria A,23,78.65203288
+Anwar El Ghazi,NED,FW,Aston Villa,Premier League,25,78.59814494
+Jonathan Schmid,FRA,DFMF,Freiburg,Bundesliga,30,78.5561967
+Daniel Bessa,ITA,MFFW,Hellas Verona,Seria A,27,78.52689822
+Kike Barja,ESP,MFFW,Osasuna,La Liga,23,78.48377589
+Marko Pjaca,CRO,FWMF,Genoa,Seria A,25,78.42958739
+Son,ESP,DFMF,Levante,La Liga,26,78.352857
+Demarai Gray,ENG,FW,Leverkusen,Bundesliga,24,78.3333759
+Gianluca Caprari,ITA,MFFW,Benevento,Seria A,27,78.31989622
+James Maddison,ENG,MFFW,Leicester City,Premier League,23,78.25277029
+Davide Zappacosta,ITA,DF,Genoa,Seria A,28,78.19913763
+Pavel Kadeřábek,CZE,DF,Hoffenheim,Bundesliga,28,78.17905822
+Anthony Elanga,SWE,FW,Manchester Utd,Premier League,18,78.08979233
+Samuel Kalu,NGA,FWMF,Bordeaux,Ligue 1,22,78.05263114
+Salvatore Molina,ITA,MFDF,Crotone,Seria A,28,78.03500512
+Saïd Benrahma,ALG,FWMF,West Ham,Premier League,24,77.99866822
+Sergio Carreira,ESP,DF,Celta Vigo,La Liga,19,77.98975466
+Aaron Hickey,SCO,DF,Bologna,Seria A,18,77.98263867
+Florian Wirtz,GER,MF,Leverkusen,Bundesliga,17,77.96414059
+Jack Harrison,ENG,MF,Leeds United,Premier League,23,77.95311813
+Morgan Gibbs-White,ENG,MFFW,Wolves,Premier League,20,77.89595286
+Domenico Berardi,ITA,FWMF,Sassuolo,Seria A,25,77.88135176
+Ashley Young,ENG,DF,Inter,Seria A,35,77.87127207
+Takefusa Kubo,JPN,MFFW,Villarreal,La Liga,19,77.84935667
+Imran Louza,MAR,MF,Nantes,Ligue 1,21,77.84141701
+Arber Zeneli,KVX,MFFW,Reims,Ligue 1,25,77.8411846
+Marcos Alonso,ESP,DF,Chelsea,Premier League,29,77.75978867
+Jerdy Schouten,NED,MF,Bologna,Seria A,23,77.73473108
+Eberechi Eze,ENG,MF,Crystal Palace,Premier League,22,77.6716727
+Julien Faussurier,FRA,DF,Brest,Ligue 1,33,77.62455364
+Rodrigo,ESP,MFFW,Leeds United,Premier League,29,77.61444886
+Franck Honorat,FRA,MFFW,Brest,Ligue 1,23,77.58720009
+Islam Slimani,ALG,FW,Lyon,Ligue 1,32,77.53814122
+Ludovic Blas,FRA,MFFW,Nantes,Ligue 1,22,77.40547411
+Kean Bryan,ENG,DF,Sheffield Utd,Premier League,23,77.40362418
+Kingsley Coman,FRA,FWMF,Bayern Munich,Bundesliga,24,77.33001985
+Ian Carlo Poveda,ENG,MFDF,Leeds United,Premier League,20,77.31775584
+Jayden Bogle,ENG,DF,Sheffield Utd,Premier League,20,77.31684987
+Matteo Politano,ITA,FW,Napoli,Seria A,26,77.25987907
+Jens Stryger Larsen,DEN,DF,Udinese,Seria A,29,77.21984855
+Jonás Ramalho,ESP,DF,Osasuna,La Liga,27,77.20319979
+Saša Lukić,SRB,MF,Torino,Seria A,23,77.18387412
+Lucas Deaux,FRA,MFDF,Nîmes,Ligue 1,31,77.17237857
+Yannick Gerhardt,GER,MFFW,Wolfsburg,Bundesliga,26,77.12182918
+David Pereira da Costa,POR,MFFW,Lens,Ligue 1,19,77.11911715
+Mikkel Damsgaard,DEN,MFFW,Sampdoria,Seria A,20,77.11764654
+Alexis Sánchez,CHI,FW,Inter,Seria A,31,77.07944372
+Ebrima Colley,GAM,FWMF,Hellas Verona,Seria A,20,77.07811526
+Gerard Moreno,ESP,FWMF,Villarreal,La Liga,28,77.06881163
+Mattia Zaccagni,ITA,MFFW,Hellas Verona,Seria A,25,77.02475898
+Pol Lirola,ESP,DF,Marseille,Ligue 1,22,76.98987397
+Andreas Pereira,BRA,MFFW,Lazio,Seria A,24,76.96075956
+Dwight McNeil,ENG,MF,Burnley,Premier League,20,76.95756957
+Mahdi Camara,FRA,MFDF,Saint-Étienne,Ligue 1,22,76.94234184
+Emiliano Rigoni,ARG,MFFW,Elche,La Liga,27,76.92450434
+Fede Vico,ESP,MFFW,Granada,La Liga,26,76.89845676
+Nicolas de Préville,FRA,FWMF,Bordeaux,Ligue 1,29,76.821277
+Lorenzo De Silvestri,ITA,DF,Bologna,Seria A,32,76.7342333
+Mike van der Hoorn,NED,DF,Arminia,Bundesliga,27,76.61867839
+Francisco Trincão,POR,FWMF,Barcelona,La Liga,20,76.6002094
+Nemanja Radonjić,SRB,FWDF,Hertha BSC,Bundesliga,24,76.58165676
+Junior Messias,BRA,MFFW,Crotone,Seria A,29,76.48009354
+Pablo Fornals,ESP,FWMF,West Ham,Premier League,24,76.45351619
+Steven Bergwijn,NED,FWMF,Tottenham,Premier League,22,76.45265832
+Juan Miranda,ESP,DF,Betis,La Liga,20,76.36045474
+Karim Benzema,FRA,FW,Real Madrid,La Liga,32,76.32724773
+Pedro,ESP,FWMF,Roma,Seria A,33,76.31272282
+Matheus Cunha,BRA,FWMF,Hertha BSC,Bundesliga,21,76.25771704
+David McGoldrick,IRL,FWMF,Sheffield Utd,Premier League,32,76.19581339
+Melayro Bogarde,NED,DFMF,Hoffenheim,Bundesliga,18,76.10476826
+Érik Lamela,ARG,FWMF,Tottenham,Premier League,28,76.09695417
+Alassane Pléa,FRA,FW,M'Gladbach,Bundesliga,27,76.08542913
+Renato Steffen,SUI,FWMF,Wolfsburg,Bundesliga,28,76.07107608
+Moussa Sissoko,FRA,MF,Tottenham,Premier League,30,76.06659448
+Mihailo Ristić,SRB,DF,Montpellier,Ligue 1,24,76.06100044
+Arnaud Souquet,FRA,DF,Montpellier,Ligue 1,28,76.0350965
+Romain Saïss,MAR,DF,Wolves,Premier League,30,75.98816958
+Fodé Ballo-Touré,SEN,DF,Monaco,Ligue 1,23,75.96773003
+Wilfried Zaha,CIV,FW,Crystal Palace,Premier League,27,75.89936723
+Dimitri Payet,FRA,FWMF,Marseille,Ligue 1,33,75.87395184
+Filip Kostić,SRB,DF,Eint Frankfurt,Bundesliga,27,75.85978252
+Daniel James,WAL,FW,Manchester Utd,Premier League,22,75.84288097
+Elif Elmas,MKD,MFFW,Napoli,Seria A,20,75.83575989
+Roberto Massimo,GER,DFFW,Stuttgart,Bundesliga,19,75.81771516
+Samu Castillejo,ESP,FW,Milan,Seria A,25,75.75661534
+Nahuel Estévez,ARG,MF,Spezia,Seria A,24,75.7343432
+Iago Aspas,ESP,FW,Celta Vigo,La Liga,32,75.70193835
+Raúl Jiménez,MEX,FW,Wolves,Premier League,29,75.70131073
+Alex Oxlade-Chamberlain,ENG,FWMF,Liverpool,Premier League,26,75.67486074
+Mehdi Léris,FRA,DFMF,Sampdoria,Seria A,22,75.67440648
+Ellyes Skhiri,TUN,MF,Köln,Bundesliga,25,75.65003696
+Gonzalo Castro,GER,MFFW,Stuttgart,Bundesliga,33,75.64544191
+Son Heung-min,KOR,FW,Tottenham,Premier League,28,75.62329801
+Jamal Lewis,NIR,DF,Newcastle Utd,Premier League,22,75.60858143
+Rubén Peña,ESP,DFMF,Villarreal,La Liga,29,75.51214383
+Mohamed Fares,ALG,DF,Lazio,Seria A,24,75.47250319
+Emanuel Vignato,ITA,FWMF,Bologna,Seria A,19,75.45958436
+Cristiano Ronaldo,POR,FW,Juventus,Seria A,35,75.44256121
+Marcel Hartel,GER,MF,Arminia,Bundesliga,24,75.42561496
+Antonín Barák,CZE,MFFW,Hellas Verona,Seria A,25,75.41268823
+Thomas Ouwejan,NED,DF,Udinese,Seria A,23,75.39416533
+Antoine Griezmann,FRA,FWMF,Barcelona,La Liga,29,75.38297134
+Tyrone Mings,ENG,DF,Aston Villa,Premier League,27,75.38073519
+Alessandro Florenzi,ITA,DF,Paris S-G,Ligue 1,29,75.38005483
+Romain Faivre,FRA,MFFW,Brest,Ligue 1,22,75.30928312
+Mouctar Diakhaby,FRA,DF,Valencia,La Liga,23,75.30905024
+Hakim Ziyech,MAR,FWMF,Chelsea,Premier League,27,75.29916803
+Jack Grealish,ENG,FWMF,Aston Villa,Premier League,24,75.23957997
+Karl Toko Ekambi,CMR,FW,Lyon,Ligue 1,27,75.20304857
+Kevin Mbabu,SUI,DF,Wolfsburg,Bundesliga,25,75.1418625
+Nadiem Amiri,GER,MF,Leverkusen,Bundesliga,23,75.05178363
+Diego Lainez,MEX,FW,Betis,La Liga,20,75.04765943
+Soualiho Meïté,FRA,MF,Milan,Seria A,26,75.01589906
+Sada Thioub,SEN,FWMF,Angers,Ligue 1,25,74.99743413
+Angelo Fulgini,FRA,MF,Angers,Ligue 1,23,74.9819705
+James Rodríguez,COL,FWMF,Everton,Premier League,29,74.97056333
+Jorge Pombo,ESP,FWMF,Cádiz,La Liga,26,74.93862334
+Geoffrey Kondogbia,CTA,MF,Valencia,La Liga,27,74.9253355
+Amadou Haidara,MLI,MFDF,RB Leipzig,Bundesliga,22,74.92237451
+Goran Pandev,MKD,FWMF,Genoa,Seria A,37,74.9208174
+Luis Henrique,BRA,DFFW,Marseille,Ligue 1,18,74.87926554
+Ademola Lookman,ENG,FWMF,Fulham,Premier League,22,74.86874854
+Eddy Salcedo,ITA,FWMF,Hellas Verona,Seria A,18,74.85293059
+Brahim Díaz,ESP,MFFW,Milan,Seria A,20,74.84193966
+Farid Boulaya,ALG,MFFW,Metz,Ligue 1,27,74.81371603
+Florian Thauvin,FRA,FWMF,Marseille,Ligue 1,27,74.80459169
+Tino Kadewere,ZIM,FW,Lyon,Ligue 1,24,74.79732157
+Roberto Firmino,BRA,FW,Liverpool,Premier League,28,74.78776686
+Hamed Junior Traorè,CIV,FWMF,Sassuolo,Seria A,20,74.73291073
+Giulio Maggiore,ITA,MF,Spezia,Seria A,22,74.64484076
+Jonas Hector,GER,MF,Köln,Bundesliga,30,74.60707382
+Andrea Conti,ITA,DF,Parma,Seria A,26,74.564684
+Mickaël Cuisance,FRA,FW,Bayern Munich,Bundesliga,20,74.52319094
+Anthony Martial,FRA,FW,Manchester Utd,Premier League,24,74.4908781
+Maxime Gonalons,FRA,MF,Granada,La Liga,31,74.47029182
+Dimitri Foulquier,FRA,DF,Granada,La Liga,27,74.46763035
+Wahbi Khazri,TUN,FW,Saint-Étienne,Ligue 1,29,74.46033086
+Arthur Masuaku,COD,DFFW,West Ham,Premier League,26,74.45314892
+Lamine Gueye,SEN,FWMF,Metz,Ligue 1,22,74.44835035
+Riccardo Orsolini,ITA,FWMF,Bologna,Seria A,23,74.43975743
+Héctor Bellerín,ESP,DF,Arsenal,Premier League,25,74.43684487
+Stevan Jovetić,MNE,FWMF,Monaco,Ligue 1,30,74.42736228
+Roberto Insigne,ITA,MFFW,Benevento,Seria A,26,74.40942166
+Dimitris Limnios,GRE,MFFW,Köln,Bundesliga,22,74.40562757
+Iñigo Lekue,ESP,DF,Athletic Club,La Liga,27,74.38906484
+Thierry Ambrose,FRA,FW,Metz,Ligue 1,23,74.38785444
+Munir El Haddadi,MAR,FW,Sevilla,La Liga,24,74.34458147
+Lucas Martínez Quarta,ARG,DF,Fiorentina,Seria A,24,74.34298147
+Timothy Weah,USA,FWMF,Lille,Ligue 1,20,74.32599953
+Carlos Soler,ESP,MF,Valencia,La Liga,23,74.31663379
+Álex Berenguer,ESP,MFFW,Athletic Club,La Liga,25,74.25106604
+Sandro Tonali,ITA,MF,Milan,Seria A,20,74.24740013
+Nicolas Viola,ITA,MF,Benevento,Seria A,30,74.23574569
+Simone Iacoponi,ITA,DF,Parma,Seria A,33,74.22301026
+Lukas Lerager,DEN,MF,Genoa,Seria A,27,74.17789319
+Aleksei Miranchuk,RUS,FWMF,Atalanta,Seria A,24,74.15592331
+Bertrand Traoré,BFA,FW,Aston Villa,Premier League,24,74.14288106
+Armand Lauriente,FRA,FWMF,Lorient,Ligue 1,21,74.12174078
+Seko Fofana,CIV,MF,Lens,Ligue 1,25,74.09649638
+Arnaud Kalimuendo,FRA,FW,Paris S-G,Ligue 1,18,74.07598604
+Andrej Kramarić,CRO,FWMF,Hoffenheim,Bundesliga,29,74.06380907
+Roberto López,ESP,MFFW,Real Sociedad,La Liga,20,73.98388
+Ludwig Augustinsson,SWE,DF,Werder Bremen,Bundesliga,26,73.97866452
+Paulinho,BRA,FW,Leverkusen,Bundesliga,20,73.97830713
+Joelinton,BRA,FWMF,Newcastle Utd,Premier League,23,73.96680004
+Houssem Aouar,FRA,MFFW,Lyon,Ligue 1,22,73.91186093
+Juan Brunetta,ARG,FWMF,Parma,Seria A,23,73.87678619
+Joshua King,NOR,MFFW,Everton,Premier League,28,73.84812817
+Christopher Trimmel,AUT,DF,Union Berlin,Bundesliga,33,73.82567097
+Patrick van Aanholt,NED,DF,Crystal Palace,Premier League,29,73.8223626
+Baptiste Santamaria,FRA,MF,Freiburg,Bundesliga,25,73.80380753
+Jony,ESP,MFFW,Osasuna,La Liga,29,73.76622216
+Mason Holgate,ENG,DF,Everton,Premier League,23,73.71728325
+Adam Ounas,ALG,MFFW,Cagliari,Seria A,23,73.70315038
+Breel Embolo,SUI,FWMF,M'Gladbach,Bundesliga,23,73.69564485
+Timothy Castagne,BEL,DF,Leicester City,Premier League,24,73.69484461
+Bernard,BRA,MFFW,Everton,Premier League,27,73.66014047
+Robert Gumny,POL,DF,Augsburg,Bundesliga,22,73.62566209
+Saidy Janko,GAM,DF,Valladolid,La Liga,24,73.60836117
+Marc Cucurella,ESP,MF,Getafe,La Liga,22,73.5755
+Timo Werner,GER,FW,Chelsea,Premier League,24,73.57059214
+Romain Del Castillo,FRA,MFFW,Rennes,Ligue 1,24,73.50323793
+Christian Günter,GER,DF,Freiburg,Bundesliga,27,73.4396122
+Sean Longstaff,ENG,MF,Newcastle Utd,Premier League,22,73.43231474
+Luca Marrone,ITA,DF,Crotone,Seria A,30,73.39945865
+Jan Bednarek,POL,DF,Southampton,Premier League,24,73.38999248
+Remi Oudin,FRA,FWMF,Bordeaux,Ligue 1,23,73.38924653
+Jordan Ferri,FRA,MF,Montpellier,Ligue 1,28,73.38568055
+Lassana Coulibaly,MLI,MFFW,Angers,Ligue 1,24,73.36128006
+Fabien Centonze,FRA,DF,Metz,Ligue 1,24,73.31595046
+Ousmane Dembélé,FRA,FWDF,Barcelona,La Liga,23,73.28618709
+Nemanja Radonjić,SRB,FW,Marseille,Ligue 1,24,73.28199483
+Amin Younes,GER,MFFW,Eint Frankfurt,Bundesliga,26,73.26050487
+Erik Durm,GER,DF,Eint Frankfurt,Bundesliga,28,73.25588476
+Jordan Veretout,FRA,MF,Roma,Seria A,27,73.23585794
+Manuel Lazzari,ITA,DF,Lazio,Seria A,26,73.19942351
+Robin Gosens,GER,DF,Atalanta,Seria A,26,73.1981773
+Angeliño,ESP,DFFW,RB Leipzig,Bundesliga,23,73.16621905
+Junior Dina Ebimbe,FRA,FWMF,Dijon,Ligue 1,19,73.11583366
+Massadio Haïdara,MLI,DF,Lens,Ligue 1,27,73.11033098
+Rúben Vezo,POR,DF,Levante,La Liga,26,73.09706893
+Christopher Lenz,GER,DF,Union Berlin,Bundesliga,25,73.09078039
+David Ferreiro,ESP,MFFW,Huesca,La Liga,32,73.08532556
+Joakim Mæhle,DEN,DF,Atalanta,Seria A,23,73.06947086
+Mehdi Chahiri,MAR,FWMF,Strasbourg,Ligue 1,24,73.04318268
+Hugo Mallo,ESP,DF,Celta Vigo,La Liga,29,72.97587189
+Julian Draxler,GER,MFFW,Paris S-G,Ligue 1,26,72.97308379
+Marius Wolf,GER,DFMF,Köln,Bundesliga,25,72.96679264
+Roberto Pereyra,ARG,MFFW,Udinese,Seria A,29,72.90527173
+Uroš Račić,SRB,MF,Valencia,La Liga,22,72.89864579
+Mateusz Klich,POL,MF,Leeds United,Premier League,30,72.85536885
+Pedro Pereira,POR,DF,Crotone,Seria A,22,72.85411818
+Ghislain Konan,CIV,DF,Reims,Ligue 1,24,72.84182996
+Gabriel Jesus,BRA,FW,Manchester City,Premier League,23,72.82250563
+Morgan Sanson,FRA,MF,Aston Villa,Premier League,25,72.78753594
+Mark Uth,GER,FWMF,Schalke 04,Bundesliga,28,72.77548164
+Leonardo Bittencourt,GER,MFFW,Werder Bremen,Bundesliga,26,72.76726602
+Renaud Ripart,FRA,MFFW,Nîmes,Ligue 1,27,72.74444644
+Manuel Sánchez,ESP,DF,Atlético Madrid,La Liga,19,72.71954179
+Valentino Lazaro,AUT,DFFW,M'Gladbach,Bundesliga,24,72.65041134
+Vitorino Hilton,BRA,DF,Montpellier,Ligue 1,42,72.64782458
+Stefan Lainer,AUT,DF,M'Gladbach,Bundesliga,27,72.59696002
+Nélson Semedo,POR,DF,Wolves,Premier League,26,72.59183881
+Leonardo Spinazzola,ITA,DF,Roma,Seria A,27,72.57119397
+Aleksandr Golovin,RUS,MFFW,Monaco,Ligue 1,24,72.53509148
+Emil Krafth,SWE,DF,Newcastle Utd,Premier League,25,72.50365661
+Yuya Osako,JPN,MFFW,Werder Bremen,Bundesliga,30,72.49885639
+Riccardo Saponara,ITA,FWMF,Spezia,Seria A,28,72.42931629
+Denis Vavro,SVK,DF,Huesca,La Liga,24,72.41591401
+Mathieu Cafaro,FRA,MFFW,Reims,Ligue 1,23,72.39940762
+Grady Diangana,ENG,MFFW,West Brom,Premier League,22,72.37462217
+Antonio Candreva,ITA,MF,Sampdoria,Seria A,33,72.3088859
+Donny van de Beek,NED,MFFW,Manchester Utd,Premier League,23,72.27178693
+Sébastien Corchia,FRA,DF,Nantes,Ligue 1,29,72.2652889
+Nicolas Pallois,FRA,DF,Nantes,Ligue 1,32,72.26068133
+Michael Keane,ENG,DF,Everton,Premier League,27,72.23746409
+Bruno Alves,POR,DF,Parma,Seria A,38,72.22241371
+Diogo Dalot,POR,DF,Milan,Seria A,21,72.21426985
+Ivan Cavaleiro,POR,FWMF,Fulham,Premier League,26,72.20784283
+Gaëtan Charbonnier,FRA,MFFW,Brest,Ligue 1,31,72.2055797
+Tomáš Souček,CZE,MF,West Ham,Premier League,25,72.17847057
+Dani Olmo,ESP,MFFW,RB Leipzig,Bundesliga,22,72.07203731
+Ivan Perišić,CRO,DFFW,Inter,Seria A,31,72.06591867
+Martinelli,BRA,FW,Arsenal,Premier League,19,72.06221913
+Cedric Teuchert,GER,FWMF,Union Berlin,Bundesliga,23,72.04781583
+Álvaro Odriozola,ESP,DF,Real Madrid,La Liga,24,72.02280929
+Ryan Fraser,SCO,FWMF,Newcastle Utd,Premier League,26,72.01430187
+Jorge de Frutos,ESP,MFFW,Levante,La Liga,23,72.00373596
+Haris Duljević,BIH,MFFW,Nîmes,Ligue 1,26,71.98300694
+Denis Bouanga,GAB,MFFW,Saint-Étienne,Ligue 1,25,71.96715141
+Matt Phillips,SCO,MFFW,West Brom,Premier League,29,71.94539254
+Alberto Soro,ESP,FWMF,Granada,La Liga,21,71.9344446
+Grégoire Defrel,MTQ,FWMF,Sassuolo,Seria A,29,71.89571563
+Borja Sainz,ESP,MFFW,Alavés,La Liga,19,71.84272563
+Takumi Minamino,JPN,MFFW,Southampton,Premier League,25,71.72471928
+Tyler Roberts,WAL,MFFW,Leeds United,Premier League,21,71.7186139
+Lucas Olaza,URU,DF,Celta Vigo,La Liga,26,71.68325937
+Filip Đuričić,SRB,MFFW,Sassuolo,Seria A,28,71.67930792
+Alberto Grassi,ITA,MFDF,Parma,Seria A,25,71.61167493
+Marcus Ingvartsen,DEN,MFFW,Union Berlin,Bundesliga,24,71.59877467
+Jasmin Kurtić,SVN,MF,Parma,Seria A,31,71.59443012
+Hiroki Sakai,JPN,DF,Marseille,Ligue 1,30,71.58233296
+Philipp Lienhart,AUT,DF,Freiburg,Bundesliga,24,71.57344551
+Takashi Inui,JPN,MFFW,Eibar,La Liga,32,71.55958334
+Jeffrey Schlupp,GHA,MF,Crystal Palace,Premier League,27,71.55662467
+José Luis Morales,ESP,FWMF,Levante,La Liga,33,71.53230603
+Mikel Balenziaga,ESP,DF,Athletic Club,La Liga,32,71.52396973
+Cristian Romero,ARG,DF,Atalanta,Seria A,22,71.49902984
+Saîf-Eddine Khaoui,TUN,FWMF,Marseille,Ligue 1,25,71.45964786
+Martin Terrier,FRA,FWMF,Rennes,Ligue 1,23,71.45000876
+Charlie Taylor,ENG,DF,Burnley,Premier League,26,71.38668841
+Roberto Soriano,ITA,MF,Bologna,Seria A,29,71.3736485
+Moses Simon,NGA,FWMF,Nantes,Ligue 1,25,71.34772435
+Flavien Tait,FRA,MFFW,Rennes,Ligue 1,27,71.34567223
+Wataru Endo,JPN,MF,Stuttgart,Bundesliga,27,71.33884161
+Otávio,BRA,MF,Bordeaux,Ligue 1,26,71.334144
+José María Giménez,URU,DF,Atlético Madrid,La Liga,25,71.30049129
+Thierry Correia,POR,DF,Valencia,La Liga,21,71.29994077
+James Justin,ENG,DF,Leicester City,Premier League,22,71.29489592
+Yassine Benrahou,FRA,MF,Nîmes,Ligue 1,21,71.28986068
+Stuart Dallas,NIR,DFMF,Leeds United,Premier League,29,71.28157386
+Miloš Vulić,SRB,MF,Crotone,Seria A,23,71.26397209
+Patrick Herrmann,GER,FW,M'Gladbach,Bundesliga,29,71.23889432
+Hélder Costa,POR,MFFW,Leeds United,Premier League,26,71.20996874
+László Bénes,SVK,MFFW,Augsburg,Bundesliga,22,71.1983872
+Omar Colley,GAM,DF,Sampdoria,Seria A,27,71.1976251
+Jonathan Burkardt,GER,FWDF,Mainz 05,Bundesliga,20,71.18018043
+Dodi Lukebakio,BEL,FWMF,Hertha BSC,Bundesliga,22,71.15125999
+Simone Verdi,ITA,MFFW,Torino,Seria A,28,71.1441739
+Jens Petter Hauge,NOR,FWMF,Milan,Seria A,20,71.13526026
+Aleix García,ESP,MF,Eibar,La Liga,23,71.12102668
+Daniel Caligiuri,ITA,MFDF,Augsburg,Bundesliga,32,71.09840835
+Rade Krunić,BIH,MFFW,Milan,Seria A,26,71.09549516
+Jakub Moder,POL,DFMF,Brighton,Premier League,21,71.05783698
+Lucas Boyé,ARG,FW,Elche,La Liga,24,71.04796035
+Maxwel Cornet,CIV,DFFW,Lyon,Ligue 1,23,71.01097622
+Gianluca Frabotta,ITA,DF,Juventus,Seria A,21,71.00486765
+Pierre Lees-Melou,FRA,MF,Nice,Ligue 1,27,70.99422644
+Andrea Rispoli,ITA,DF,Crotone,Seria A,31,70.99150469
+Roberto Gagliardini,ITA,MF,Inter,Seria A,26,70.9530036
+Elvis Rexhbeçaj,GER,MFFW,Köln,Bundesliga,22,70.89848801
+Lionel Carole,FRA,DF,Strasbourg,Ligue 1,29,70.87776279
+Davide Faraoni,ITA,DF,Hellas Verona,Seria A,28,70.85253527
+Carlos Fernández,ESP,FWMF,Real Sociedad,La Liga,24,70.83859228
+Alberto Cerri,ITA,FWMF,Cagliari,Seria A,24,70.81980123
+Stuart Armstrong,SCO,MF,Southampton,Premier League,28,70.76754201
+Rodrygo,BRA,FW,Real Madrid,La Liga,19,70.75849525
+Nehuén Paz,ARG,DF,Bologna,Seria A,27,70.75334549
+Robert Lewandowski,POL,FW,Bayern Munich,Bundesliga,31,70.72150277
+Gonzalo Melero,ESP,MFFW,Levante,La Liga,26,70.67050461
+Krepin Diatta,SEN,MFDF,Monaco,Ligue 1,21,70.66535495
+Steven Alzate,COL,MFDF,Brighton,Premier League,21,70.64941227
+Karim Bellarabi,GER,FWMF,Leverkusen,Bundesliga,30,70.63305089
+Paulo Otávio,BRA,DF,Wolfsburg,Bundesliga,25,70.62200483
+Hatem Ben Arfa,FRA,MFFW,Bordeaux,Ligue 1,33,70.60364989
+Ryan Fredericks,ENG,DFFW,West Ham,Premier League,27,70.5865252
+Mathias Pereira Lage,POR,FWMF,Angers,Ligue 1,23,70.57925052
+Domingos Quina,POR,MF,Granada,La Liga,20,70.53425718
+Adnan Januzaj,BEL,FWMF,Real Sociedad,La Liga,25,70.50987284
+Ömer Toprak,TUR,DF,Werder Bremen,Bundesliga,31,70.46714372
+Eldor Shomurodov,UZB,FW,Genoa,Seria A,25,70.45882365
+Daniele Baselli,ITA,MF,Torino,Seria A,28,70.43288313
+Keita Baldé,SEN,FW,Sampdoria,Seria A,25,70.42458284
+Marcus Thuram,FRA,FW,M'Gladbach,Bundesliga,22,70.42362091
+Rolando Mandragora,ITA,MF,Torino,Seria A,23,70.42029919
+Álex Fernández,ESP,MF,Cádiz,La Liga,27,70.4055664
+Allan Saint-Maximin,FRA,FWMF,Newcastle Utd,Premier League,23,70.3355263
+Quini,ESP,DF,Granada,La Liga,30,70.30512165
+Ander Barrenetxea,ESP,MFFW,Real Sociedad,La Liga,18,70.27379607
+Kalvin Phillips,ENG,MF,Leeds United,Premier League,24,70.2210796
+Daichi Kamada,JPN,MFFW,Eint Frankfurt,Bundesliga,23,70.19656899
+Zlatan Ibrahimović,SWE,FW,Milan,Seria A,38,70.17637178
+Matías Vecino,URU,MF,Inter,Seria A,28,70.15290969
+Iago,BRA,DF,Augsburg,Bundesliga,23,70.13352716
+Mounir Chouiar,FRA,FWMF,Dijon,Ligue 1,21,70.13120357
+Dries Mertens,BEL,FWMF,Napoli,Seria A,33,70.10091473
+Dejan Kulusevski,SWE,MFFW,Juventus,Seria A,20,70.0751274
+Birger Meling,NOR,DF,Nîmes,Ligue 1,25,70.02018179
+Sergej Milinković-Savić,SRB,MF,Lazio,Seria A,25,70.01609765
+Jacopo Segre,ITA,MF,Torino,Seria A,23,70.00818278
+Yunis Abdelhamid,MAR,DF,Reims,Ligue 1,32,69.98826729
+Jordan Amavi,FRA,DF,Marseille,Ligue 1,26,69.98390432
+Gylfi Sigurðsson,ISL,MF,Everton,Premier League,30,69.92801969
+Alfonso Espino,URU,DF,Cádiz,La Liga,28,69.91375896
+Marco Richter,GER,FWMF,Augsburg,Bundesliga,22,69.89754163
+Roland Sallai,HUN,MFFW,Freiburg,Bundesliga,23,69.86424549
+Cédric Soares,POR,DF,Arsenal,Premier League,28,69.85152408
+Tanguy Coulibaly,FRA,DFFW,Stuttgart,Bundesliga,19,69.79862586
+Pere Pons,ESP,MF,Alavés,La Liga,27,69.79037902
+Abdoulaye Doucouré,FRA,MF,Everton,Premier League,27,69.78100597
+Maximilian Eggestein,GER,MF,Werder Bremen,Bundesliga,23,69.75681895
+Thomas Delaney,DEN,MF,Dortmund,Bundesliga,28,69.75650318
+Carlos Clerc,ESP,DF,Levante,La Liga,28,69.74006114
+Kyle Walker-Peters,ENG,DF,Southampton,Premier League,23,69.73831631
+Cristiano Biraghi,ITA,DF,Fiorentina,Seria A,27,69.72972415
+Cucho,COL,FWMF,Getafe,La Liga,21,69.72952429
+Sergio Agüero,ARG,FWMF,Manchester City,Premier League,32,69.72727135
+Jon Morcillo,ESP,MFFW,Athletic Club,La Liga,21,69.70322624
+Alexander Sørloth,NOR,FW,RB Leipzig,Bundesliga,24,69.69842083
+Federico Barba,ITA,DF,Benevento,Seria A,26,69.6796537
+Bartosz Bereszyński,POL,DF,Sampdoria,Seria A,28,69.67825368
+João Pedro,BRA,FWMF,Cagliari,Seria A,28,69.65528876
+Jóhann Berg Guðmundsson,ISL,MF,Burnley,Premier League,29,69.60391637
+Robert Skov,DEN,FWDF,Hoffenheim,Bundesliga,24,69.59825334
+Nicolas Höfler,GER,MF,Freiburg,Bundesliga,30,69.5705143
+Tommaso Augello,ITA,DF,Sampdoria,Seria A,25,69.55583307
+Stephy Mavididi,ENG,FWMF,Montpellier,Ligue 1,22,69.54333406
+Gonçalo Guedes,POR,MFFW,Valencia,La Liga,23,69.53388275
+Valentin Mihaila,ROU,FWMF,Parma,Seria A,20,69.52545981
+Yunus Musah,USA,MF,Valencia,La Liga,17,69.49044084
+Giacomo Raspadori,ITA,FWMF,Sassuolo,Seria A,20,69.48492504
+Mikel Rico,ESP,MF,Huesca,La Liga,35,69.45916177
+Yuri Berchiche,ESP,DF,Athletic Club,La Liga,30,69.43405653
+Matt Doherty,IRL,DF,Tottenham,Premier League,28,69.3886704
+Rafael Tolói,ITA,DF,Atalanta,Seria A,29,69.38626452
+Vincent Manceau,FRA,DF,Angers,Ligue 1,31,69.37340861
+Jonathan Ikone,FRA,MFFW,Lille,Ligue 1,22,69.28699298
+Mohamed Simakan,FRA,DF,Strasbourg,Ligue 1,20,69.22982775
+Yoane Wissa,COD,FWMF,Lorient,Ligue 1,23,69.21391873
+Ahmad Benali,LBY,MF,Crotone,Seria A,28,69.18504422
+Tommaso Pobega,ITA,MF,Spezia,Seria A,21,69.15576229
+Andros Townsend,ENG,MFFW,Crystal Palace,Premier League,29,69.10728241
+Sasa Kalajdzic,AUT,FW,Stuttgart,Bundesliga,23,69.0866841
+Enock Kwateng,FRA,DF,Bordeaux,Ligue 1,23,69.07463986
+Kenny Lala,FRA,DF,Strasbourg,Ligue 1,28,69.05868781
+Luiz Araújo,BRA,MF,Lille,Ligue 1,24,69.05052989
+Ihlas Bebou,TOG,FW,Hoffenheim,Bundesliga,26,69.04726506
+Lukas Kübler,GER,DF,Freiburg,Bundesliga,27,69.03922966
+Romelu Lukaku,BEL,FW,Inter,Seria A,27,69.02986439
+André Silva,POR,FW,Eint Frankfurt,Bundesliga,24,69.01239119
+Charalambos Lykogiannis,GRE,DF,Cagliari,Seria A,26,68.99567772
+Jakub Jankto,CZE,MF,Sampdoria,Seria A,24,68.98762021
+John Fleck,SCO,MF,Sheffield Utd,Premier League,28,68.9755822
+Callum Hudson-Odoi,ENG,FWDF,Chelsea,Premier League,19,68.97144057
+Anthony Briançon,FRA,DF,Nîmes,Ligue 1,25,68.96573668
+Florian Sotoca,FRA,FW,Lens,Ligue 1,29,68.95265229
+Oihan Sancet,ESP,FWMF,Athletic Club,La Liga,20,68.92382906
+Danny Latza,GER,MF,Mainz 05,Bundesliga,30,68.91115313
+Allan,BRA,MF,Everton,Premier League,29,68.88983124
+Thomas Müller,GER,MF,Bayern Munich,Bundesliga,30,68.88159387
+Mathieu Debuchy,FRA,DF,Saint-Étienne,Ligue 1,35,68.84906903
+Lucas Perrin,FRA,DFFW,Marseille,Ligue 1,21,68.84863085
+Ángel Di María,ARG,FWMF,Paris S-G,Ligue 1,32,68.833518
+Martín Cáceres,URU,DF,Fiorentina,Seria A,33,68.82043778
+Ruslan Malinovskyi,UKR,FWMF,Atalanta,Seria A,27,68.81719384
+Federico Dimarco,ITA,DF,Hellas Verona,Seria A,22,68.80904137
+Thomas Foket,BEL,DF,Reims,Ligue 1,25,68.79864426
+Përparim Hetemaj,FIN,MF,Benevento,Seria A,33,68.77494275
+Nordi Mukiele,FRA,DF,RB Leipzig,Bundesliga,22,68.77183163
+Pedro Chirivella,ESP,MF,Nantes,Ligue 1,23,68.74175309
+Richarlison,BRA,FW,Everton,Premier League,23,68.71739621
+Ainsley Maitland-Niles,ENG,MF,West Brom,Premier League,22,68.7108693
+Jeremy Doku,BEL,MFFW,Rennes,Ligue 1,18,68.63196213
+Nassim Boujellab,MAR,MFFW,Schalke 04,Bundesliga,21,68.60083122
+Ashley Westwood,ENG,MF,Burnley,Premier League,30,68.59967516
+Paul Dummett,WAL,DF,Newcastle Utd,Premier League,28,68.58258604
+Lucas Ocampos,ARG,FW,Sevilla,La Liga,26,68.58253989
+Silas Katompa,COD,DFFW,Stuttgart,Bundesliga,21,68.56881803
+Rayan Cherki,FRA,FWMF,Lyon,Ligue 1,16,68.56209294
+Vladimír Coufal,CZE,DF,West Ham,Premier League,27,68.54206777
+Andoni Gorosabel,ESP,DF,Real Sociedad,La Liga,23,68.53892564
+Anderson Lucoqui,ANG,DF,Arminia,Bundesliga,23,68.53140931
+Arnaud Kalimuendo,FRA,FW,Lens,Ligue 1,18,68.52232061
+Andrea Favilli,ITA,FW,Hellas Verona,Seria A,23,68.52073222
+Suat Serdar,GER,MF,Schalke 04,Bundesliga,23,68.49563998
+Timo Becker,GER,DF,Schalke 04,Bundesliga,23,68.48984449
+Davide Calabria,ITA,DF,Milan,Seria A,23,68.48568738
+Sergio Álvarez,ESP,MFDF,Eibar,La Liga,28,68.46612932
+Javier Ontiveros,ESP,FWMF,Huesca,La Liga,22,68.45882374
+Laurent Abergel,FRA,MF,Lorient,Ligue 1,27,68.42053515
+Sehrou Guirassy,FRA,FW,Rennes,Ligue 1,24,68.38581806
+Antonio Sanabria,PAR,FW,Torino,Seria A,24,68.3827294
+Edimilson Fernandes,SUI,MFDF,Mainz 05,Bundesliga,24,68.36975656
+Ezri Konsa,ENG,DF,Aston Villa,Premier League,22,68.36583809
+Zeki Çelik,TUR,DF,Lille,Ligue 1,23,68.36156451
+Giacomo Bonaventura,ITA,MF,Fiorentina,Seria A,30,68.35968869
+Jeff Reine-Adélaïde,FRA,MFFW,Nice,Ligue 1,22,68.32434847
+Marvin Friedrich,GER,DF,Union Berlin,Bundesliga,24,68.30605421
+Mario Gaspar,ESP,DF,Villarreal,La Liga,29,68.27079421
+Emile Smith-Rowe,ENG,MFFW,Arsenal,Premier League,20,68.26517843
+Dennis Praet,BEL,MFFW,Leicester City,Premier League,26,68.23718999
+Marvelous Nakamba,ZIM,MF,Aston Villa,Premier League,26,68.2329715
+Gervinho,CIV,FW,Parma,Seria A,33,68.23032106
+David Abraham,ARG,DF,Eint Frankfurt,Bundesliga,34,68.19865883
+Rubén García,ESP,MFFW,Osasuna,La Liga,27,68.19412633
+Jota,POR,MFFW,Valladolid,La Liga,21,68.18250953
+Vladimír Darida,CZE,MF,Hertha BSC,Bundesliga,29,68.17203431
+Hakan Çalhanoğlu,TUR,MFFW,Milan,Seria A,26,68.11905585
+Raphael Dias Belloli,BRA,FWMF,Rennes,Ligue 1,23,68.11502548
+Arkadiusz Reca,POL,DF,Crotone,Seria A,25,68.11058483
+Jairo Izquierdo,ESP,MFDF,Cádiz,La Liga,26,68.09913324
+Ismail Jakobs,GER,DFMF,Köln,Bundesliga,20,68.06958503
+Milot Rashica,KVX,FWMF,Werder Bremen,Bundesliga,24,68.05078248
+Iker Muniain,ESP,MFFW,Athletic Club,La Liga,27,68.02853147
+Florian Kainz,AUT,FWMF,Köln,Bundesliga,27,68.01552251
+Álvaro Morata,ESP,FW,Juventus,Seria A,27,68.00335486
+Nampalys Mendy,SEN,MF,Leicester City,Premier League,28,67.99038738
+Ibrahim Amadou,FRA,MF,Angers,Ligue 1,27,67.96452123
+Youcef Attal,ALG,DFMF,Nice,Ligue 1,24,67.93637107
+Harry Kane,ENG,FW,Tottenham,Premier League,27,67.92288043
+Marius Bülter,GER,FWMF,Union Berlin,Bundesliga,27,67.90292381
+Marco Asensio,ESP,FWMF,Real Madrid,La Liga,24,67.84757396
+Nabil Fekir,FRA,MFFW,Betis,La Liga,27,67.84436441
+Julian Brandt,GER,FWMF,Dortmund,Bundesliga,24,67.83269206
+Lucas Höler,GER,FWMF,Freiburg,Bundesliga,26,67.82702376
+Gaël Kakuta,COD,MFFW,Lens,Ligue 1,29,67.81240146
+Moussa Niakhate,FRA,DF,Mainz 05,Bundesliga,24,67.81164186
+Tanguy Ndombele,FRA,MF,Tottenham,Premier League,23,67.81138866
+Pere Milla,ESP,FWMF,Elche,La Liga,27,67.8083691
+Dimitri Liénard,FRA,MF,Strasbourg,Ligue 1,32,67.7921671
+Geoffrey Kondogbia,CTA,MFFW,Atlético Madrid,La Liga,27,67.76932982
+Ben Johnson,ENG,DF,West Ham,Premier League,20,67.74725748
+Kike,ESP,FW,Eibar,La Liga,30,67.7450996
+Bersant Celina,KVX,MFFW,Dijon,Ligue 1,23,67.73866401
+Alexis Saelemaekers,BEL,FW,Milan,Seria A,21,67.73067401
+Ezgjan Alioski,MKD,DF,Leeds United,Premier League,28,67.71277342
+Sargis Adamyan,ARM,FWMF,Hoffenheim,Bundesliga,27,67.64900156
+Lucas Douath,FRA,MF,Saint-Étienne,Ligue 1,16,67.6373147
+Moussa Doumbia,MLI,MFFW,Reims,Ligue 1,25,67.62610156
+Kevin Volland,GER,FWMF,Monaco,Ligue 1,28,67.61540644
+Opa Nguette,SEN,FWMF,Metz,Ligue 1,26,67.5889201
+Matteo Ahlinvi,BEN,MF,Nîmes,Ligue 1,21,67.5869409
+José Campaña,ESP,MF,Levante,La Liga,27,67.57975478
+Luis Rioja,ESP,MFDF,Alavés,La Liga,26,67.5409535
+Habib Maïga,CIV,MF,Metz,Ligue 1,24,67.54011399
+Alessandro Deiola,ITA,MF,Cagliari,Seria A,24,67.4560574
+Adrián López,ESP,FWMF,Osasuna,La Liga,32,67.42045273
+Theo Walcott,ENG,MFFW,Southampton,Premier League,31,67.39275234
+Ciro Immobile,ITA,FW,Lazio,Seria A,30,67.35340906
+Enda Stevens,IRL,DF,Sheffield Utd,Premier League,30,67.3137353
+Ola Aina,NGA,DF,Fulham,Premier League,23,67.30916948
+Jon Guridi,ESP,MF,Real Sociedad,La Liga,25,67.29950306
+Pape Matar Sarr,SEN,MF,Metz,Ligue 1,17,67.27625327
+Cengiz Ünder,TUR,MFFW,Leicester City,Premier League,23,67.27562071
+Sandro Ramírez,ESP,FWMF,Huesca,La Liga,25,67.23338437
+Álex Moreno,ESP,DF,Betis,La Liga,27,67.21978341
+Ilija Nestorovski,MKD,FWMF,Udinese,Seria A,30,67.21037664
+Souleyman Doumbia,CIV,DF,Angers,Ligue 1,23,67.20390877
+Dion Moise Sahi,CIV,FWMF,Strasbourg,Ligue 1,18,67.16172964
+Claudio Terzi,ITA,DF,Spezia,Seria A,36,67.15077931
+Frederic Guilbert,FRA,DF,Strasbourg,Ligue 1,25,67.14556042
+Sergio Gómez,ESP,MFFW,Huesca,La Liga,19,67.12382017
+Romain Perraud,FRA,DF,Brest,Ligue 1,22,67.11988595
+Carles Aleñá,ESP,MFFW,Getafe,La Liga,22,67.0864891
+Justin Kluivert,NED,FWMF,Roma,Seria A,21,67.0715837
+Felix Agu,GER,DFFW,Werder Bremen,Bundesliga,20,67.0669634
+Adrien Hunou,FRA,FWMF,Rennes,Ligue 1,26,67.04694248
+Diego Farias,BRA,FW,Spezia,Seria A,30,67.02792697
+Ryan Bertrand,ENG,DF,Southampton,Premier League,30,67.01109884
+Wissam Ben Yedder,FRA,FW,Monaco,Ligue 1,29,67.00702499
+Myziane Maolida,FRA,FWMF,Nice,Ligue 1,21,66.98215483
+Yann Karamoh,FRA,FWMF,Parma,Seria A,22,66.97896579
+Kyle Edwards,ENG,MFFW,West Brom,Premier League,22,66.9750564
+Martin Erlic,CRO,DF,Spezia,Seria A,22,66.97247966
+Peter Pekarík,SVK,DF,Hertha BSC,Bundesliga,33,66.96473551
+Ernesto Torregrossa,ITA,FW,Sampdoria,Seria A,28,66.95106961
+Antonee Robinson,USA,DF,Fulham,Premier League,22,66.93737609
+Gary Cahill,ENG,DF,Crystal Palace,Premier League,34,66.92296718
+Andy Delort,ALG,FW,Montpellier,Ligue 1,28,66.92158105
+Timothee Pembele,FRA,DF,Paris S-G,Ligue 1,17,66.90954972
+Almamy Touré,MLI,DF,Eint Frankfurt,Bundesliga,24,66.90284151
+Ruben Loftus-Cheek,ENG,MFFW,Fulham,Premier League,24,66.90186863
+Mario Pašalić,CRO,MFFW,Atalanta,Seria A,25,66.88278846
+Saúl Ñíguez,ESP,MFDF,Atlético Madrid,La Liga,25,66.79749407
+Orel Mangala,BEL,MF,Stuttgart,Bundesliga,22,66.78039735
+Mateo Klimowicz,GER,FWMF,Stuttgart,Bundesliga,20,66.75761441
+Ludovic Ajorque,REU,FW,Strasbourg,Ligue 1,26,66.73152694
+Johan Mojica,COL,DFFW,Atalanta,Seria A,27,66.72697639
+Matteo Darmian,ITA,DF,Inter,Seria A,30,66.72132064
+Arnaud Nordin,FRA,MFFW,Saint-Étienne,Ligue 1,22,66.71244827
+Quentin Boisgard,FRA,MFFW,Lorient,Ligue 1,23,66.70454986
+Can Bozdogan,GER,MF,Schalke 04,Bundesliga,19,66.69634104
+Emmanuel Gyasi,GHA,FW,Spezia,Seria A,26,66.69486976
+Grischa Prömel,GER,MF,Union Berlin,Bundesliga,25,66.68257063
+Steven Zuber,SUI,DFMF,Eint Frankfurt,Bundesliga,28,66.67663132
+Marcel Sabitzer,AUT,MF,RB Leipzig,Bundesliga,26,66.66970447
+Coke,ESP,DF,Levante,La Liga,33,66.65042579
+Lucas Torró,ESP,MF,Osasuna,La Liga,26,66.60818064
+Mattias Svanberg,SWE,MF,Bologna,Seria A,21,66.54030335
+Jean-Paul Boëtius,NED,MFFW,Mainz 05,Bundesliga,26,66.51796302
+Aaron Wan-Bissaka,ENG,DF,Manchester Utd,Premier League,22,66.49849108
+Raúl Guti,ESP,MF,Elche,La Liga,23,66.44496163
+Niklas Stark,GER,DFMF,Hertha BSC,Bundesliga,25,66.43849974
+Bruno Fernandes,POR,MF,Manchester Utd,Premier League,25,66.41486192
+Aaron Ramsey,WAL,MF,Juventus,Seria A,29,66.41371857
+Jérémy Le Douaron,FRA,FWMF,Brest,Ligue 1,22,66.40365496
+Óscar Plano,ESP,MFFW,Valladolid,La Liga,29,66.37375876
+Georginio Rutter,FRA,FWMF,Rennes,Ligue 1,18,66.34061944
+Carlos Fernández,ESP,FW,Sevilla,La Liga,24,66.33725798
+Juraj Kucka,SVK,MFFW,Parma,Seria A,33,66.33521127
+Nathaniel Clyne,ENG,DF,Crystal Palace,Premier League,29,66.32628176
+Djibril Sow,SUI,MF,Eint Frankfurt,Bundesliga,23,66.3048505
+Conor Gallagher,ENG,MF,West Brom,Premier League,20,66.23448209
+Omar Mascarell,ESP,MF,Schalke 04,Bundesliga,27,66.21143685
+Ethan Ampadu,WAL,DFMF,Sheffield Utd,Premier League,19,66.18214525
+Armando Izzo,ITA,DF,Torino,Seria A,28,66.17772036
+Benjamin Bourigeaud,FRA,MFFW,Rennes,Ligue 1,26,66.13117215
+Joel Ward,ENG,DF,Crystal Palace,Premier League,30,66.11180737
+Ritsu Doan,JPN,MFFW,Arminia,Bundesliga,22,66.06809319
+Ross Barkley,ENG,MF,Aston Villa,Premier League,26,66.06478673
+Lorenzo Insigne,ITA,FW,Napoli,Seria A,29,66.02724768
+Andrei Girotto,BRA,DFMF,Nantes,Ligue 1,28,66.01305251
+Sam Lammers,NED,FWMF,Atalanta,Seria A,23,65.99701484
+Simon Sohm,SUI,MF,Parma,Seria A,19,65.95374323
+Nico Schlotterbeck,GER,DF,Union Berlin,Bundesliga,20,65.9336559
+Domenico Criscito,ITA,DF,Genoa,Seria A,33,65.93233791
+Alex Iwobi,NGA,FWDF,Everton,Premier League,24,65.93218234
+Jean-Ricner Bellegarde,FRA,MFFW,Strasbourg,Ligue 1,22,65.9220834
+Papu Gómez,ARG,MFFW,Sevilla,La Liga,32,65.91202998
+Iñigo Martínez,ESP,DF,Athletic Club,La Liga,29,65.90383159
+Aboubakar Kamara,MTN,FWDF,Fulham,Premier League,25,65.88677236
+Rick Karsdorp,NED,DF,Roma,Seria A,25,65.86719467
+Jordan Lotomba,SUI,DF,Nice,Ligue 1,21,65.82128733
+John Lundstram,ENG,MF,Sheffield Utd,Premier League,26,65.81351583
+Joël Veltman,NED,DF,Brighton,Premier League,28,65.78639013
+Fran Beltrán,ESP,MF,Celta Vigo,La Liga,21,65.76553491
+Paulo Dybala,ARG,FW,Juventus,Seria A,26,65.7622343
+Kamil Glik,POL,DF,Benevento,Seria A,32,65.76149974
+Bobby Reid,JAM,MFDF,Fulham,Premier League,27,65.75411996
+Jérôme Roussillon,FRA,DF,Wolfsburg,Bundesliga,27,65.7298541
+Christian Kouamé,CIV,FW,Fiorentina,Seria A,22,65.70759559
+Burak Yılmaz,TUR,FW,Lille,Ligue 1,35,65.70306282
+Leon Goretzka,GER,MF,Bayern Munich,Bundesliga,25,65.69801026
+Pierre-Emerick Aubameyang,GAB,FW,Arsenal,Premier League,31,65.6583591
+Obite N'Dicka,FRA,DF,Eint Frankfurt,Bundesliga,20,65.64688515
+Jeison Murillo,COL,DF,Celta Vigo,La Liga,28,65.63776055
+Dereck Kutesa,SUI,MFFW,Reims,Ligue 1,22,65.61117769
+Divock Origi,BEL,FW,Liverpool,Premier League,25,65.59753061
+Nacho Vidal,ESP,DF,Osasuna,La Liga,25,65.59645512
+Aaron Cresswell,ENG,DF,West Ham,Premier League,30,65.5713259
+Eren Dinkçi,GER,FWMF,Werder Bremen,Bundesliga,18,65.52765166
+Ondrej Duda,SVK,FWMF,Köln,Bundesliga,25,65.51108439
+Yussuf Poulsen,DEN,FW,RB Leipzig,Bundesliga,26,65.48564936
+Matthieu Udol,FRA,DF,Metz,Ligue 1,24,65.4811718
+Maximilian Mittelstädt,GER,DF,Hertha BSC,Bundesliga,23,65.47921061
+Robin Knoche,GER,DF,Union Berlin,Bundesliga,28,65.43899307
+Étienne Capoue,FRA,MF,Villarreal,La Liga,32,65.41022261
+Mason Mount,ENG,MFFW,Chelsea,Premier League,21,65.3958962
+Andrea Belotti,ITA,FW,Torino,Seria A,26,65.30823585
+Hwang Hee-chan,KOR,FWMF,RB Leipzig,Bundesliga,24,65.28975656
+Kike Pérez,ESP,MF,Valladolid,La Liga,23,65.27888107
+Ibrahima Diallo,FRA,MF,Southampton,Premier League,21,65.26595186
+Valère Germain,FRA,FW,Marseille,Ligue 1,30,65.26489096
+Jan Thielmann,GER,FWMF,Köln,Bundesliga,18,65.23782947
+Thomas Monconduit,FRA,MF,Lorient,Ligue 1,29,65.21131506
+Lamine Fomba,FRA,MF,Nîmes,Ligue 1,22,65.19903306
+Phillipp Mwene,AUT,DF,Mainz 05,Bundesliga,26,65.1844934
+Nick Woltemade,GER,FWMF,Werder Bremen,Bundesliga,18,65.12340326
+Keita Endo,JPN,MFFW,Union Berlin,Bundesliga,22,65.00424597
+Kieran Tierney,SCO,DF,Arsenal,Premier League,23,64.96191073
+Nikola Milenković,SRB,DF,Fiorentina,Seria A,22,64.95049929
+Amine Harit,MAR,MFFW,Schalke 04,Bundesliga,23,64.9170312
+Dominick Drexler,GER,MFFW,Köln,Bundesliga,30,64.91116987
+Theo Hernández,FRA,DF,Milan,Seria A,22,64.90228497
+Matty Cash,ENG,DF,Aston Villa,Premier League,22,64.89512712
+Ante Rebić,CRO,FW,Milan,Seria A,26,64.85284364
+Ruben Aguilar,FRA,DFFW,Monaco,Ligue 1,27,64.84501173
+Alfreð Finnbogason,ISL,FW,Augsburg,Bundesliga,31,64.84382416
+Enzo Le Fée,FRA,MFFW,Lorient,Ligue 1,20,64.81970011
+Rani Khedira,GER,MF,Augsburg,Bundesliga,26,64.81808561
+Sergio Reguilón,ESP,DF,Tottenham,Premier League,23,64.75693827
+Edin Džeko,BIH,FW,Roma,Seria A,34,64.71845241
+Oier Sanjurjo,ESP,MF,Osasuna,La Liga,34,64.70804341
+Malik Sellouki,FRA,FWMF,Nice,Ligue 1,20,64.69245123
+Stéphane Bahoken,CMR,FW,Angers,Ligue 1,28,64.64874825
+Óscar Duarte,CRC,DF,Levante,La Liga,31,64.64650088
+Levin Öztunalı,GER,DFFW,Mainz 05,Bundesliga,24,64.62619472
+Suso,ESP,FW,Sevilla,La Liga,26,64.61900369
+Papakouli Diop,SEN,MF,Eibar,La Liga,34,64.6113408
+Javi Martínez,ESP,MFFW,Osasuna,La Liga,20,64.60768304
+Reinier,BRA,MFFW,Dortmund,Bundesliga,18,64.59379292
+Miha Zajc,SVN,MF,Genoa,Seria A,26,64.59143324
+Alexandre Lacazette,FRA,FW,Arsenal,Premier League,29,64.58593217
+André Gomes,POR,MF,Everton,Premier League,27,64.56505115
+Riccardo Sottil,ITA,MFFW,Cagliari,Seria A,21,64.49058435
+Marc-Oliver Kempf,GER,DF,Stuttgart,Bundesliga,25,64.48973247
+Ben Mee,ENG,DF,Burnley,Premier League,30,64.46342588
+Gaëtan Laborde,FRA,FWMF,Montpellier,Ligue 1,26,64.46215538
+Raúl García,ESP,DFMF,Valladolid,La Liga,31,64.45881403
+Edu Expósito,ESP,MF,Eibar,La Liga,23,64.36835676
+Pierrick Capelle,FRA,MFDF,Angers,Ligue 1,33,64.35373091
+Max Lowe,ENG,DF,Sheffield Utd,Premier League,23,64.28533634
+Andrea Petagna,ITA,FW,Napoli,Seria A,25,64.24598764
+Giuseppe Pezzella,ITA,DF,Parma,Seria A,22,64.21737014
+Bryan Dabo,BFA,MF,Benevento,Seria A,28,64.20889496
+Jon Moncayola,ESP,MF,Osasuna,La Liga,22,64.19350338
+Jannes Horn,GER,DF,Köln,Bundesliga,23,64.16437248
+Jean-Philippe Mateta,FRA,FW,Mainz 05,Bundesliga,23,64.12681363
+Willian,BRA,FWMF,Arsenal,Premier League,31,64.1259035
+Téji Savanier,FRA,MF,Montpellier,Ligue 1,28,64.11790001
+Yacine Adli,FRA,MF,Bordeaux,Ligue 1,20,64.09741513
+Darwin Machís,VEN,FWMF,Granada,La Liga,27,64.06451475
+Jaime Mata,ESP,FW,Getafe,La Liga,31,64.02893524
+Josh Onomah,ENG,MF,Fulham,Premier League,23,64.02800534
+Dominik Kohr,GER,MF,Mainz 05,Bundesliga,26,64.00533095
+Roberto Torres,ESP,MFFW,Osasuna,La Liga,31,63.99332145
+Ignacio Pussetto,ARG,FW,Udinese,Seria A,24,63.98614572
+Kevin De Bruyne,BEL,MF,Manchester City,Premier League,29,63.97784987
+José Luis Gayà,ESP,DF,Valencia,La Liga,25,63.95823118
+Jonathan David,CAN,FW,Lille,Ligue 1,20,63.93842211
+Callum Robinson,IRL,FWMF,West Brom,Premier League,25,63.92181407
+Daniel Wass,DEN,MFDF,Valencia,La Liga,31,63.90729021
+Benjamin Stambouli,FRA,MFDF,Schalke 04,Bundesliga,29,63.90727082
+Sebastiaan Bornauw,BEL,DF,Köln,Bundesliga,21,63.8916187
+Stefano Sensi,ITA,MF,Inter,Seria A,24,63.89048463
+Antonio Puertas,ESP,FWMF,Granada,La Liga,28,63.79444932
+Shane Long,IRL,FW,Southampton,Premier League,33,63.79426841
+Lautaro Martínez,ARG,FW,Inter,Seria A,22,63.79181584
+Ignatius Ganago,CMR,FW,Lens,Ligue 1,21,63.77918554
+Takehiro Tomiyasu,JPN,DF,Bologna,Seria A,21,63.77145186
+Ishak Belfodil,ALG,FW,Hoffenheim,Bundesliga,28,63.76513695
+Michail Antonio,JAM,FW,West Ham,Premier League,30,63.74193883
+Jaïro Riedewald,NED,MF,Crystal Palace,Premier League,23,63.71780878
+Max Kruse,GER,FWMF,Union Berlin,Bundesliga,32,63.7126923
+Clément Michelin,FRA,DF,Lens,Ligue 1,23,63.66081591
+M'Bala Nzola,ANG,FW,Spezia,Seria A,23,63.64683783
+Aihen Muñoz,ESP,DF,Real Sociedad,La Liga,22,63.63623919
+Luka Milivojević,SRB,MF,Crystal Palace,Premier League,29,63.62159707
+Takefusa Kubo,JPN,MFFW,Getafe,La Liga,19,63.61355197
+Lisandro Magallán,ARG,DF,Crotone,Seria A,26,63.60920721
+Christian Benteke,BEL,FW,Crystal Palace,Premier League,29,63.60758596
+Ximo Navarro,ESP,DF,Alavés,La Liga,30,63.57789408
+Romano Schmid,AUT,FWMF,Werder Bremen,Bundesliga,20,63.56545046
+Noah Katterbach,GER,DF,Köln,Bundesliga,19,63.5642895
+Sofyan Amrabat,MAR,MF,Fiorentina,Seria A,23,63.56038008
+Adrien Rabiot,FRA,MF,Juventus,Seria A,25,63.51708893
+Pasquale Schiattarella,ITA,MF,Benevento,Seria A,33,63.50317274
+Dennis Geiger,GER,MF,Hoffenheim,Bundesliga,22,63.47446099
+Taiwo Awoniyi,NGA,FW,Union Berlin,Bundesliga,22,63.45076608
+Soualiho Meïté,FRA,MF,Torino,Seria A,26,63.42349251
+Lucas Pérez,ESP,FW,Alavés,La Liga,31,63.41879991
+Giorgos Kiriakopoulos,GRE,DF,Sassuolo,Seria A,24,63.40025956
+Dani Raba,ESP,MF,Villarreal,La Liga,24,63.39613408
+Hernani,BRA,MF,Parma,Seria A,26,63.37647068
+Vitinha,POR,MF,Wolves,Premier League,20,63.36931205
+Jude Bellingham,ENG,MF,Dortmund,Bundesliga,17,63.33027816
+Sergiño Dest,USA,DF,Barcelona,La Liga,19,63.32812385
+Giovani Lo Celso,ARG,MF,Tottenham,Premier League,24,63.32441275
+Tobias Strobl,GER,MF,Augsburg,Bundesliga,30,63.32401331
+Douglas Costa,BRA,MFFW,Juventus,Seria A,29,63.31409671
+Kevin Möhwald,GER,MF,Werder Bremen,Bundesliga,27,63.31284557
+Karim Onisiwo,AUT,FW,Mainz 05,Bundesliga,28,63.29890192
+Neal Maupay,FRA,FWMF,Brighton,Premier League,23,63.26220203
+Faitout Maouassa,FRA,DF,Rennes,Ligue 1,22,63.23726343
+Issiaga Sylla,GUI,DF,Lens,Ligue 1,26,63.20523135
+Morten Thorsby,NOR,MF,Sampdoria,Seria A,24,63.19272219
+Ollie Watkins,ENG,FW,Aston Villa,Premier League,24,63.18688821
+Filippo Melegoni,ITA,MFDF,Genoa,Seria A,21,63.17466633
+Nathan Tella,ENG,FWMF,Southampton,Premier League,21,63.06848636
+Mathías Olivera,URU,DF,Getafe,La Liga,22,63.02656629
+Santi Mina,ESP,FW,Celta Vigo,La Liga,24,62.99433962
+Sead Kolašinac,BIH,DFMF,Schalke 04,Bundesliga,27,62.99245482
+Arkadiusz Milik,POL,FW,Marseille,Ligue 1,26,62.98730623
+Mickael Malsa,MTQ,MF,Levante,La Liga,24,62.91501517
+Josh Maja,NGA,FWMF,Fulham,Premier League,21,62.90296777
+Lucas Tousart,FRA,MF,Hertha BSC,Bundesliga,23,62.87485623
+Abdoulaye Touré,FRA,MF,Nantes,Ligue 1,26,62.86379125
+Yangel Herrera,VEN,MF,Granada,La Liga,22,62.84979004
+Patrick Burner,MTQ,DF,Nîmes,Ligue 1,24,62.83512007
+Joselu,ESP,FW,Alavés,La Liga,30,62.83007667
+Eliot Matazo,BEL,MF,Monaco,Ligue 1,18,62.80712434
+Emil Forsberg,SWE,FWMF,RB Leipzig,Bundesliga,28,62.80630295
+Unai Núñez,ESP,DF,Athletic Club,La Liga,23,62.77112008
+Andrew Gravillon,FRA,DF,Lorient,Ligue 1,22,62.75157587
+Jacob Murphy,ENG,DFMF,Newcastle Utd,Premier League,25,62.69375387
+Cheikhou Kouyaté,SEN,DF,Crystal Palace,Premier League,30,62.65615446
+Ibrahima Niane,SEN,FW,Metz,Ligue 1,21,62.65306037
+Hugo Ekitike,FRA,MFFW,Reims,Ligue 1,18,62.64569101
+Douglas Luiz,BRA,MF,Aston Villa,Premier League,22,62.6430475
+Kerem Demirbay,GER,MF,Leverkusen,Bundesliga,27,62.64268345
+Jean-Eudes Aholou,CIV,MF,Strasbourg,Ligue 1,26,62.63819062
+Simon Banza,FRA,FW,Lens,Ligue 1,23,62.61988363
+Nacho,ESP,DF,Real Madrid,La Liga,30,62.6169089
+Jannik Vestergaard,DEN,DF,Southampton,Premier League,27,62.53980246
+Federico Bonazzoli,ITA,FW,Sampdoria,Seria A,23,62.52922072
+Caio Henrique Oliveira Silva,BRA,DF,Monaco,Ligue 1,23,62.52857489
+Dan Burn,ENG,DF,Brighton,Premier League,28,62.52599968
+Salvador Ferrer,ESP,DF,Spezia,Seria A,22,62.50818356
+Sébastien Haller,CIV,FW,West Ham,Premier League,26,62.50206539
+Daishawn Redan,NED,FWMF,Hertha BSC,Bundesliga,19,62.49413113
+Óscar Rodríguez Arnaiz,ESP,MFFW,Sevilla,La Liga,22,62.44462622
+Georginio Wijnaldum,NED,MF,Liverpool,Premier League,29,62.3983511
+Yannik Keitel,GER,MF,Freiburg,Bundesliga,20,62.39269087
+Max Kilman,ENG,DF,Wolves,Premier League,23,62.38718702
+Niclas Eliasson,SWE,MFFW,Nîmes,Ligue 1,24,62.38421475
+Fodé Doucouré,MLI,DF,Reims,Ligue 1,19,62.37350136
+Maximilian Philipp,GER,MF,Wolfsburg,Bundesliga,26,62.37225625
+Oliver McBurnie,SCO,FW,Sheffield Utd,Premier League,24,62.30494595
+Luis Alberto,ESP,MF,Lazio,Seria A,27,62.2906802
+Rafael Leão,POR,FW,Milan,Seria A,21,62.25746564
+Graziano Pellè,ITA,FW,Parma,Seria A,35,62.2252505
+Corentin Jean,FRA,FWMF,Lens,Ligue 1,25,62.22176288
+Moussa Dembélé,FRA,FW,Lyon,Ligue 1,24,62.21911727
+Jeffrey Gouweleeuw,NED,DF,Augsburg,Bundesliga,29,62.2123155
+Lucas Olaza,URU,DF,Valladolid,La Liga,26,62.19120869
+Tolgay Arslan,GER,MF,Udinese,Seria A,29,62.19119018
+George Baldock,ENG,DF,Sheffield Utd,Premier League,27,62.13848788
+Randal Kolo Muani,FRA,FW,Nantes,Ligue 1,21,62.1055413
+Pablo Piatti,ARG,MFFW,Elche,La Liga,31,62.08166143
+Daniel Didavi,GER,FWMF,Stuttgart,Bundesliga,30,62.05607163
+Admir Mehmedi,SUI,MFFW,Wolfsburg,Bundesliga,29,62.00947881
+Rafael Czichos,GER,DF,Köln,Bundesliga,30,61.92590907
+Marco Parolo,ITA,DFMF,Lazio,Seria A,35,61.92374756
+Daniel Congré,FRA,DF,Montpellier,Ligue 1,35,61.90671844
+João Moutinho,POR,MF,Wolves,Premier League,33,61.88445593
+Scott McTominay,SCO,MF,Manchester Utd,Premier League,23,61.87603116
+Romain Philippoteaux,FRA,MFFW,Brest,Ligue 1,32,61.79035462
+Solly March,ENG,DF,Brighton,Premier League,26,61.78435922
+Nahuel Molina,ARG,DF,Udinese,Seria A,22,61.7737237
+Leander Dendoncker,BEL,MFDF,Wolves,Premier League,25,61.77074026
+Timothy Chandler,USA,DF,Eint Frankfurt,Bundesliga,30,61.75972542
+Adam Lallana,ENG,MFFW,Brighton,Premier League,32,61.72848056
+Danny Ings,ENG,FW,Southampton,Premier League,28,61.72707484
+Marco Majouga,FRA,MFFW,Nîmes,Ligue 1,19,61.7267809
+Florian Neuhaus,GER,MF,M'Gladbach,Bundesliga,23,61.71166757
+Trézéguet,EGY,FW,Aston Villa,Premier League,25,61.70004569
+Josh Sargent,USA,FWMF,Werder Bremen,Bundesliga,20,61.69458002
+Fernando Forestieri,ITA,FWMF,Udinese,Seria A,30,61.66379779
+Mama Samba Baldé,GNB,FW,Dijon,Ligue 1,24,61.65707366
+Fabián Balbuena,PAR,DF,West Ham,Premier League,28,61.65698369
+Dennis Man,ROU,FWMF,Parma,Seria A,21,61.65493513
+Luca Ceppitelli,ITA,DF,Cagliari,Seria A,30,61.65220215
+Ciaran Clark,IRL,DF,Newcastle Utd,Premier League,30,61.65111866
+Amos Pieper,GER,DF,Arminia,Bundesliga,22,61.61833771
+Leandro Barreiro Martins,LUX,MF,Mainz 05,Bundesliga,20,61.58642297
+Sergi Enrich,ESP,FW,Eibar,La Liga,30,61.46639778
+Papu Gómez,ARG,FWMF,Atalanta,Seria A,32,61.45046304
+Krzysztof Piątek,POL,FW,Hertha BSC,Bundesliga,25,61.43958117
+Jérémy Morel,MAD,DF,Lorient,Ligue 1,36,61.42799072
+Damián Suárez,URU,DF,Getafe,La Liga,32,61.40971884
+Che Adams,SCO,FW,Southampton,Premier League,24,61.4088974
+Sheraldo Becker,SUR,FWMF,Union Berlin,Bundesliga,25,61.40650314
+Joakim Nilsson,SWE,DF,Arminia,Bundesliga,26,61.4047762
+Kevin Denkey,TOG,FW,Nîmes,Ligue 1,19,61.39669056
+Dušan Vlahović,SRB,FW,Fiorentina,Seria A,20,61.3564779
+Jeremy Toljan,GER,DF,Sassuolo,Seria A,25,61.32418585
+Mauro Arambarri,URU,MF,Getafe,La Liga,24,61.32104707
+Guido Carrillo,ARG,FW,Elche,La Liga,29,61.29832691
+Vedat Muriqi,KVX,FW,Lazio,Seria A,26,61.26864061
+Makoto Hasebe,JPN,DFMF,Eint Frankfurt,Bundesliga,36,61.20763606
+Trevoh Chalobah,ENG,DFMF,Lorient,Ligue 1,21,61.20533542
+Robbie Brady,IRL,MF,Burnley,Premier League,28,61.15437219
+Christian Gebauer,AUT,MFFW,Arminia,Bundesliga,26,61.13247628
+Wesley Lautoa,NCL,MFDF,Dijon,Ligue 1,32,61.11549409
+Manuel Prietl,AUT,MF,Arminia,Bundesliga,28,61.07829526
+Nicola Murru,ITA,DF,Torino,Seria A,25,61.07482177
+Emerson,BRA,DF,Betis,La Liga,21,61.07352186
+Borna Sosa,CRO,DF,Stuttgart,Bundesliga,22,61.05915897
+Corentin Tolisso,FRA,MF,Bayern Munich,Bundesliga,25,61.0288889
+Nathanael Mbuku,FRA,MFFW,Reims,Ligue 1,18,61.02777528
+Naouirou Ahamada,FRA,MF,Stuttgart,Bundesliga,18,60.99732701
+Manolo Gabbiadini,ITA,FW,Sampdoria,Seria A,28,60.99580535
+Moussa Djenepo,MLI,MF,Southampton,Premier League,22,60.9765122
+Aarón Martín,ESP,DF,Mainz 05,Bundesliga,23,60.96181613
+Ángel Montoro,ESP,MF,Granada,La Liga,32,60.94726386
+Amadou Diawara,GUI,MF,Roma,Seria A,23,60.91845192
+Papa Ndiaga Yade,SEN,FWMF,Metz,Ligue 1,20,60.8777084
+Adama Traoré,ESP,FW,Wolves,Premier League,24,60.83266157
+Robert Andrich,GER,MF,Union Berlin,Bundesliga,25,60.80551952
+Yayah Kallon,SLE,FWMF,Genoa,Seria A,19,60.79145884
+Shkodran Mustafi,GER,DF,Schalke 04,Bundesliga,28,60.79088244
+Romain Thomas,FRA,DF,Angers,Ligue 1,32,60.79018618
+Ben Godfrey,ENG,DF,Everton,Premier League,22,60.77075071
+Luke Shaw,ENG,DF,Manchester Utd,Premier League,25,60.76100027
+Gianluca Scamacca,ITA,FW,Genoa,Seria A,21,60.75821742
+Abdul Majeed Waris,GHA,FWMF,Strasbourg,Ligue 1,28,60.75633045
+Boubacar Kamara,FRA,MF,Marseille,Ligue 1,20,60.75591892
+William,BRA,DFFW,Schalke 04,Bundesliga,25,60.75293769
+Habib Diallo,SEN,FW,Strasbourg,Ligue 1,25,60.75215802
+Eden Hazard,BEL,FWMF,Real Madrid,La Liga,29,60.75197839
+Vagner Gonçalves,CPV,FWMF,Metz,Ligue 1,24,60.70017939
+Ronaël Pierre-Gabriel,FRA,DF,Brest,Ligue 1,22,60.66047408
+Lucas Leiva,BRA,MF,Lazio,Seria A,33,60.65939502
+Hal Robson-Kanu,WAL,FWMF,West Brom,Premier League,31,60.64996442
+Jeff Hendrick,IRL,MF,Newcastle Utd,Premier League,28,60.63637212
+Erik Thommy,GER,DFFW,Stuttgart,Bundesliga,25,60.59760413
+Isaac Hayden,ENG,MFDF,Newcastle Utd,Premier League,25,60.57074183
+Manuel Gulde,GER,DF,Freiburg,Bundesliga,29,60.52885104
+Recio,ESP,MF,Eibar,La Liga,29,60.52181235
+Fábio Silva,POR,FW,Wolves,Premier League,18,60.52123229
+Gonçalo Paciência,POR,FW,Schalke 04,Bundesliga,25,60.50558774
+Gabriel Paulista,BRA,DF,Valencia,La Liga,29,60.4899962
+Mikel Vesga,ESP,MF,Athletic Club,La Liga,27,60.4817675
+Andre-Frank Zambo Anguissa,CMR,MF,Fulham,Premier League,24,60.47959388
+Paolo Ghiglione,ITA,DFMF,Genoa,Seria A,23,60.47750134
+Iñaki Williams,ESP,FW,Athletic Club,La Liga,26,60.42255693
+Luca Vignali,ITA,DF,Spezia,Seria A,24,60.40820918
+Youssoufa Moukoko,GER,FWMF,Dortmund,Bundesliga,15,60.36193748
+Dominic Calvert-Lewin,ENG,FW,Everton,Premier League,23,60.35915743
+Emre Mor,TUR,FWMF,Celta Vigo,La Liga,23,60.33392129
+Nacho,ESP,DF,Valladolid,La Liga,31,60.33386457
+John McGinn,SCO,MF,Aston Villa,Premier League,25,60.30390321
+Matt Targett,ENG,DF,Aston Villa,Premier League,24,60.27440246
+Federico Valverde,URU,MF,Real Madrid,La Liga,22,60.2701334
+Semi Ajayi,NGA,DF,West Brom,Premier League,26,60.26682494
+Niclas Füllkrug,GER,FWMF,Werder Bremen,Bundesliga,27,60.25276488
+Vincent Pajot,FRA,MF,Metz,Ligue 1,29,60.22421968
+Francesco Caputo,ITA,FW,Sassuolo,Seria A,32,60.18499655
+Óscar de Marcos,ESP,DFMF,Athletic Club,La Liga,31,60.16484593
+Timothée Kolodziejczak,FRA,DF,Saint-Étienne,Ligue 1,28,60.15812881
+Kévin Gameiro,FRA,FW,Valencia,La Liga,33,60.14366299
+Xavier Chavalerin,FRA,MF,Reims,Ligue 1,29,60.1376092
+Rubén Sobrino,ESP,FWMF,Cádiz,La Liga,28,60.1334777
+Alessandro Tuia,ITA,DF,Benevento,Seria A,30,60.12708563
+Aleksandar Mitrović,SRB,FW,Fulham,Premier League,25,60.11776461
+Muzinga Ngonda,COD,DF,Dijon,Ligue 1,25,60.0724431
+Mijat Gaćinović,SRB,DFMF,Hoffenheim,Bundesliga,25,60.06575655
+Martin Ødegaard,NOR,MF,Arsenal,Premier League,21,60.03711222
+James Ward-Prowse,ENG,MF,Southampton,Premier League,25,60.0129521
+Jimmy Dunne,IRL,DF,Burnley,Premier League,22,59.99908126
+Paul Pogba,FRA,MFFW,Manchester Utd,Premier League,27,59.995534
+Kenedy,BRA,FWMF,Granada,La Liga,24,59.97589726
+Fábio,BRA,DF,Nantes,Ligue 1,30,59.95977647
+Harrison Reed,ENG,MF,Fulham,Premier League,25,59.95854149
+Boulaye Dia,SEN,FWMF,Reims,Ligue 1,23,59.94545843
+Franco Vázquez,ARG,FWMF,Sevilla,La Liga,31,59.89427971
+Ricardo Rodríguez,SUI,DF,Torino,Seria A,27,59.88014706
+Thiago Mendes,BRA,MF,Lyon,Ligue 1,28,59.87383024
+Warren Tchimbembé,CGO,MFFW,Metz,Ligue 1,22,59.86774988
+Marco Sau,ITA,MFFW,Benevento,Seria A,32,59.85759599
+Bartosz Bialek,POL,FWMF,Wolfsburg,Bundesliga,18,59.84919552
+Portu,ESP,FWMF,Real Sociedad,La Liga,28,59.81719149
+Edinson Cavani,URU,FW,Manchester Utd,Premier League,33,59.81209635
+Sergi Guardiola,ESP,FW,Valladolid,La Liga,29,59.8057728
+Stefan Posch,AUT,DF,Hoffenheim,Bundesliga,23,59.8018284
+Adam Webster,ENG,DF,Brighton,Premier League,25,59.76948919
+Pedro León,ESP,MFFW,Eibar,La Liga,33,59.74942858
+Manu Vallejo,ESP,FWMF,Valencia,La Liga,23,59.71984608
+Olivier Giroud,FRA,FW,Chelsea,Premier League,33,59.71089601
+Andrés Guardado,MEX,MF,Betis,La Liga,33,59.70994291
+Simeon Nwankwo,NGA,FW,Crotone,Seria A,28,59.67157454
+Valon Berisha,KVX,MF,Reims,Ligue 1,27,59.66651019
+Ismaël Traoré,CIV,DF,Angers,Ligue 1,33,59.66547385
+Marco Friedl,AUT,DF,Werder Bremen,Bundesliga,22,59.64691214
+Keinan Davis,ENG,FWMF,Aston Villa,Premier League,22,59.587471
+Simone Bastoni,ITA,DF,Spezia,Seria A,23,59.58489144
+Riccardo Improta,ITA,MFDF,Benevento,Seria A,26,59.5723696
+Federico Chiesa,ITA,MFDF,Juventus,Seria A,22,59.5553341
+Antonin Bobichon,FRA,MFFW,Angers,Ligue 1,24,59.44160136
+Daniel Amartey,GHA,DF,Leicester City,Premier League,25,59.41118011
+Fernando Llorente,ESP,FWMF,Napoli,Seria A,35,59.39950616
+Joseba Zaldúa,ESP,DF,Real Sociedad,La Liga,28,59.39303754
+Terem Moffi,NGA,FW,Lorient,Ligue 1,21,59.29298586
+Eddie Nketiah,ENG,FW,Arsenal,Premier League,21,59.28119476
+Joe Willock,ENG,MF,Newcastle Utd,Premier League,20,59.23217568
+Pape Gueye,FRA,MF,Marseille,Ligue 1,21,59.22038745
+Walace,BRA,MF,Udinese,Seria A,25,59.16128185
+Tete Morente,ESP,MFFW,Elche,La Liga,23,59.13200519
+Lee Kangin,KOR,FWMF,Valencia,La Liga,19,59.12961219
+Pascal Groß,GER,MFDF,Brighton,Premier League,29,59.09893522
+Ante Budimir,CRO,FW,Osasuna,La Liga,29,59.07085635
+Wout Weghorst,NED,FW,Wolfsburg,Bundesliga,27,59.06931835
+Jay Rodriguez,ENG,FWMF,Burnley,Premier League,31,59.05144447
+Benjamin André,FRA,MF,Lille,Ligue 1,29,59.00721649
+Irvin Cardona,FRA,FWMF,Brest,Ligue 1,22,59.00256715
+Éder Militão,BRA,DF,Real Madrid,La Liga,22,59.00015244
+Javairô Dilrosun,NED,FWMF,Hertha BSC,Bundesliga,22,58.92020813
+Facundo Roncaglia,ARG,DF,Osasuna,La Liga,33,58.90610386
+Harry Maguire,ENG,DF,Manchester Utd,Premier League,27,58.90099028
+Marvin Zeegelaar,NED,DF,Udinese,Seria A,29,58.89149966
+Miguel Trauco,PER,DF,Saint-Étienne,Ligue 1,27,58.78254496
+Allan Nyom,CMR,MFDF,Getafe,La Liga,32,58.74740735
+Rodrigo De Paul,ARG,MF,Udinese,Seria A,26,58.73917839
+Matthew Lowton,ENG,DF,Burnley,Premier League,31,58.73479674
+Leonardo Balerdi,ARG,DF,Marseille,Ligue 1,21,58.71731356
+David Timor,ESP,MFDF,Getafe,La Liga,30,58.67855036
+Simone Zaza,ITA,FW,Torino,Seria A,29,58.67308867
+Victor Lindelöf,SWE,DF,Manchester Utd,Premier League,26,58.66193401
+David Silva,ESP,MF,Real Sociedad,La Liga,34,58.65112819
+Robert Snodgrass,SCO,MFFW,West Brom,Premier League,32,58.65023096
+Rubén Alcaraz,ESP,MF,Valladolid,La Liga,29,58.62598521
+Luka Jović,SRB,FWMF,Eint Frankfurt,Bundesliga,22,58.58021849
+Didier Ibrahim Ndong,GAB,MF,Dijon,Ligue 1,26,58.55815159
+Ben Chilwell,ENG,DF,Chelsea,Premier League,23,58.54876238
+Denis Cheryshev,RUS,MF,Valencia,La Liga,29,58.54738971
+Daniel Brosinski,GER,DF,Mainz 05,Bundesliga,32,58.5469989
+Alexander Isak,SWE,FW,Real Sociedad,La Liga,20,58.54578912
+Jorge Molina,ESP,FWMF,Granada,La Liga,38,58.53616395
+Jack Stephens,ENG,DF,Southampton,Premier League,26,58.52945503
+Kevin Agudelo,COL,FW,Spezia,Seria A,21,58.52915361
+Frédéric Sammaritano,FRA,FWMF,Dijon,Ligue 1,34,58.52899808
+Fouad Chafik,MAR,DF,Dijon,Ligue 1,33,58.51058689
+Jota,ESP,MF,Alavés,La Liga,29,58.50607755
+Jadon Sancho,ENG,FWMF,Dortmund,Bundesliga,20,58.49762898
+Rodrigo Battaglia,ARG,MF,Alavés,La Liga,29,58.49316562
+Igor Zubeldia,ESP,DF,Real Sociedad,La Liga,23,58.49176708
+Yannick Cahuzac,FRA,MF,Lens,Ligue 1,35,58.46073063
+Josip Iličić,SVN,FWMF,Atalanta,Seria A,32,58.43709346
+El Bilal Touré,MLI,FWMF,Reims,Ligue 1,18,58.40199284
+Bernardo Silva,POR,MFFW,Manchester City,Premier League,25,58.36474931
+Jimmy Briand,FRA,FW,Bordeaux,Ligue 1,34,58.34385279
+Fabio Quagliarella,ITA,FW,Sampdoria,Seria A,37,58.33431748
+Ibrahima Sissoko,FRA,MF,Strasbourg,Ligue 1,22,58.31711622
+Tomás Rincón,VEN,MF,Torino,Seria A,32,58.28366867
+Boubakar Kouyaté,MLI,DF,Metz,Ligue 1,23,58.26954949
+Modibo Sagnan,FRA,DFMF,Real Sociedad,La Liga,21,58.26058218
+Rayan Aït Nouri,FRA,DF,Angers,Ligue 1,19,58.24184391
+Wilfried Singo,CIV,DF,Torino,Seria A,19,58.20726857
+Mattia Bani,ITA,DF,Parma,Seria A,26,58.19329001
+Alejandro Pozo Pozo,ESP,DFMF,Eibar,La Liga,21,58.18415013
+Benito Raman,BEL,FWMF,Schalke 04,Bundesliga,25,58.14704312
+Adrien Tameze,CMR,MF,Hellas Verona,Seria A,26,57.98315457
+Hwang Ui-jo,KOR,FWMF,Bordeaux,Ligue 1,27,57.969931
+Gastón Brugman,URU,MF,Parma,Seria A,27,57.96429137
+Juan Mata,ESP,FWMF,Manchester Utd,Premier League,32,57.95342463
+Iñigo Pérez,ESP,MFDF,Osasuna,La Liga,32,57.93804213
+Sepe Elye Wahi,FRA,FW,Montpellier,Ligue 1,17,57.93085691
+Davie Selke,GER,FW,Werder Bremen,Bundesliga,25,57.91812385
+Hugo Guillamón,ESP,DF,Valencia,La Liga,20,57.87056255
+Denis Zakaria,SUI,MFDF,M'Gladbach,Bundesliga,23,57.85647974
+Ángel Rodríguez,ESP,FWMF,Getafe,La Liga,33,57.81499437
+Juanmi,ESP,FWMF,Betis,La Liga,27,57.81437093
+Cédric Brunner,SUI,DF,Arminia,Bundesliga,26,57.80096921
+Iglesias,ESP,DFMF,Getafe,La Liga,22,57.78700911
+Ramy Bensebaini,ALG,DF,M'Gladbach,Bundesliga,25,57.76487599
+Roger Ibanez,BRA,DF,Roma,Seria A,21,57.728538
+Steve Mounié,BEN,FW,Brest,Ligue 1,25,57.65567925
+Mikel Merino,ESP,MF,Real Sociedad,La Liga,24,57.64492592
+Hassane Kamara,CIV,DF,Nice,Ligue 1,25,57.60858931
+Robin Quaison,SWE,FWMF,Mainz 05,Bundesliga,26,57.58923957
+Mehdi Bourabia,MAR,MF,Sassuolo,Seria A,28,57.5875266
+Joel Pohjanpalo,FIN,FW,Union Berlin,Bundesliga,25,57.5836647
+Hianga Mananga Mbock,FRA,MF,Brest,Ligue 1,20,57.57825204
+Alessandro Schöpf,AUT,FWMF,Schalke 04,Bundesliga,26,57.55946631
+John Brooks,USA,DF,Wolfsburg,Bundesliga,27,57.51465782
+Jonathan Calleri,ARG,FW,Osasuna,La Liga,26,57.50304011
+Andreas Voglsammer,GER,FWMF,Arminia,Bundesliga,28,57.44876383
+Reece Oxford,ENG,DF,Augsburg,Bundesliga,21,57.32335416
+Martin Hinteregger,AUT,DF,Eint Frankfurt,Bundesliga,27,57.31132117
+Youri Tielemans,BEL,MF,Leicester City,Premier League,23,57.30648761
+Roger Assalé,CIV,FWMF,Dijon,Ligue 1,26,57.29774362
+Rogério,BRA,DF,Sassuolo,Seria A,22,57.29449801
+Luis Suárez,URU,FW,Atlético Madrid,La Liga,33,57.26017782
+Chris Wood,NZL,FW,Burnley,Premier League,28,57.25311707
+Iago Falque,ESP,MFFW,Benevento,Seria A,30,57.21936653
+Fernando,BRA,MF,Sevilla,La Liga,33,57.20967282
+Victorien Angban,CIV,MF,Metz,Ligue 1,23,57.18342844
+Jamaal Lascelles,ENG,DF,Newcastle Utd,Premier League,26,57.16492559
+Tosin Adarabioyo,ENG,DF,Fulham,Premier League,22,57.15799258
+Jarrod Bowen,ENG,FWMF,West Ham,Premier League,23,57.12948216
+Alexis Mac Allister,ARG,MFFW,Brighton,Premier League,21,57.11129869
+Joris Chotard,FRA,MF,Montpellier,Ligue 1,18,57.09712131
+Moise Kean,ITA,FW,Paris S-G,Ligue 1,20,57.07360253
+Danilo D'Ambrosio,ITA,DF,Inter,Seria A,31,57.07254608
+Manuel Lanzini,ARG,MFFW,West Ham,Premier League,27,57.05506549
+Tahith Chong,NED,FWMF,Werder Bremen,Bundesliga,20,57.0417796
+Denis Suárez,ESP,MF,Celta Vigo,La Liga,26,57.01062341
+Danilo Larangeira,BRA,DF,Bologna,Seria A,36,56.95125902
+Sanjin Prcić,BIH,MF,Strasbourg,Ligue 1,26,56.94552985
+Sander Berge,NOR,MF,Sheffield Utd,Premier League,22,56.91645094
+Yvan Neyou,CMR,MF,Saint-Étienne,Ligue 1,23,56.90337716
+Borja García,ESP,MFFW,Huesca,La Liga,29,56.89563595
+Kingsley Ehizibue,NED,DF,Köln,Bundesliga,25,56.88127205
+Alberto Perea,ESP,MF,Cádiz,La Liga,29,56.88032352
+Manu García,ESP,MF,Alavés,La Liga,34,56.82267146
+Khéphren Thuram-Ulie,FRA,MF,Nice,Ligue 1,19,56.80310659
+Loris Benito,SUI,DF,Bordeaux,Ligue 1,28,56.79592843
+Henry Onyekuru,NGA,FW,Monaco,Ligue 1,23,56.77765508
+Unai López,ESP,MF,Athletic Club,La Liga,24,56.76461403
+Pedri,ESP,MF,Barcelona,La Liga,17,56.75285443
+Adrien Silva,POR,MF,Sampdoria,Seria A,31,56.69348317
+Miguel Baeza,ESP,MFFW,Celta Vigo,La Liga,20,56.68180636
+Conor Coady,ENG,DF,Wolves,Premier League,27,56.68005886
+Emmanuel Rivière,FRA,FWMF,Crotone,Seria A,30,56.65565204
+Marshall Munetsi,ZIM,MFDF,Reims,Ligue 1,24,56.64018796
+Takumi Minamino,JPN,MFFW,Liverpool,Premier League,25,56.60829342
+Felipe Caicedo,ECU,FW,Lazio,Seria A,31,56.58608057
+Gabriele Zappa,ITA,DF,Cagliari,Seria A,20,56.57185705
+Antonio Sanabria,PAR,FW,Betis,La Liga,24,56.56200856
+Zaydou Youssouf,FRA,MF,Saint-Étienne,Ligue 1,21,56.55242584
+Josh Brownhill,ENG,MF,Burnley,Premier League,24,56.53369006
+Casemiro,BRA,MF,Real Madrid,La Liga,28,56.37825084
+John Guidetti,SWE,FWMF,Alavés,La Liga,28,56.33185944
+Lois Diony,FRA,FW,Angers,Ligue 1,27,56.32648285
+Charles Aránguiz,CHI,MF,Leverkusen,Bundesliga,31,56.27827314
+Jean Lucas,BRA,MF,Brest,Ligue 1,22,56.24748693
+Adrien Truffert,FRA,DFMF,Rennes,Ligue 1,18,56.20721749
+Nikola Kalinić,CRO,FW,Hellas Verona,Seria A,32,56.19056494
+Nicolò Barella,ITA,MF,Inter,Seria A,23,56.18391734
+Dani Escriche,ESP,FWMF,Huesca,La Liga,22,56.18259821
+Darío Benedetto,ARG,FW,Marseille,Ligue 1,30,56.13425368
+Riccardo Gagliolo,SWE,DF,Parma,Seria A,30,56.11101619
+Karlan Grant,ENG,FWMF,West Brom,Premier League,22,56.10317096
+Håvard Nordtveit,NOR,DF,Hoffenheim,Bundesliga,30,56.0998713
+Eduardo Camavinga,FRA,MF,Rennes,Ligue 1,17,56.08667287
+Leonardo Pavoletti,ITA,FW,Cagliari,Seria A,31,56.08032559
+Wylan Cyprien,FRA,MF,Parma,Seria A,25,56.06896655
+Matthew Hoppe,USA,FW,Schalke 04,Bundesliga,19,56.06162839
+Nacho Monreal,ESP,DF,Real Sociedad,La Liga,34,55.99218024
+Roque Mesa,ESP,MF,Valladolid,La Liga,31,55.98704395
+Artur Ioniță,MDA,MF,Benevento,Seria A,29,55.94606147
+Pedro Obiang,EQG,MF,Sassuolo,Seria A,28,55.93880959
+Kasper Dolberg,DEN,FW,Nice,Ligue 1,22,55.92832089
+Ivan Šaponjić,SRB,FW,Cádiz,La Liga,22,55.92161414
+Moussa Koné,SEN,FW,Nîmes,Ligue 1,23,55.9128386
+Sergio Escudero,ESP,DF,Sevilla,La Liga,30,55.91122819
+Carlos Bacca,COL,FW,Villarreal,La Liga,33,55.76152919
+Matteo Ricci,ITA,MF,Spezia,Seria A,26,55.75991863
+Maxime Busi,BEL,DF,Parma,Seria A,20,55.75217858
+Steven Fortes,CPV,DF,Lens,Ligue 1,28,55.70646097
+Manu Trigueros,ESP,MF,Villarreal,La Liga,28,55.68580927
+Fabio Depaoli,ITA,DF,Atalanta,Seria A,23,55.67396927
+Jessic Ngankam,GER,FW,Hertha BSC,Bundesliga,20,55.66736755
+Youssouf Sabaly,SEN,DF,Bordeaux,Ligue 1,27,55.66449166
+Raphaël Varane,FRA,DF,Real Madrid,La Liga,27,55.58902388
+Moussa Dembélé,FRA,FWMF,Atlético Madrid,La Liga,24,55.58560031
+Jonjo Shelvey,ENG,MF,Newcastle Utd,Premier League,28,55.56926289
+Waldo Rubio,ESP,FWMF,Valladolid,La Liga,24,55.52488786
+Pierre-Yves Hamel,FRA,FW,Lorient,Ligue 1,26,55.50155284
+Thomas Lemar,FRA,MFFW,Atlético Madrid,La Liga,24,55.47428833
+Erik Pieters,NED,DFMF,Burnley,Premier League,31,55.47374258
+Enes Ünal,TUR,FW,Getafe,La Liga,23,55.45831391
+Miguel Veloso,POR,MF,Hellas Verona,Seria A,34,55.45009091
+Salvi,ESP,MFFW,Cádiz,La Liga,29,55.42215236
+Eric Dier,ENG,DF,Tottenham,Premier League,26,55.41417153
+Jawad El Yamiq,MAR,DF,Valladolid,La Liga,28,55.41062571
+Stefan Ilsanker,AUT,MFDF,Eint Frankfurt,Bundesliga,31,55.40790317
+Fabian Klos,GER,FW,Arminia,Bundesliga,32,55.40634238
+James Lea Siliki,CMR,MF,Rennes,Ligue 1,24,55.39149184
+Jordan Torunarigha,GER,DF,Hertha BSC,Bundesliga,22,55.35553226
+Klaas-Jan Huntelaar,NED,FW,Schalke 04,Bundesliga,36,55.33532268
+Renan Lodi,BRA,DF,Atlético Madrid,La Liga,22,55.2903232
+Nicolás González,ARG,FWDF,Stuttgart,Bundesliga,22,55.26602857
+Roger Martí,ESP,FW,Levante,La Liga,29,55.26512658
+Patrik Schick,CZE,FW,Leverkusen,Bundesliga,24,55.25620378
+Ashley Barnes,ENG,FW,Burnley,Premier League,30,55.25596353
+Giovanni Di Lorenzo,ITA,DF,Napoli,Seria A,26,55.21278084
+Lucas Alario,ARG,FW,Leverkusen,Bundesliga,27,55.18718375
+Rubén Rochina,ESP,MF,Levante,La Liga,29,55.1749512
+Sacha Boey,FRA,DF,Dijon,Ligue 1,19,55.16555454
+Luis Milla,ESP,MF,Granada,La Liga,25,55.14358128
+Ádám Szalai,HUN,FW,Mainz 05,Bundesliga,32,55.13792359
+Youssouf Fofana,FRA,MF,Monaco,Ligue 1,21,55.11643508
+Gabriel Dos Santos,BRA,DF,Arsenal,Premier League,22,55.08472643
+David Luiz,BRA,DF,Arsenal,Premier League,33,55.05622068
+Moussa Konaté,SEN,FW,Dijon,Ligue 1,27,55.05244945
+João Victor Santos Sá,BRA,FW,Wolfsburg,Bundesliga,26,55.03590321
+Valentin Rongier,FRA,MF,Marseille,Ligue 1,25,55.02285914
+Niccolò Zanellato,ITA,MF,Crotone,Seria A,22,55.00671828
+Paulo Oliveira,POR,DF,Eibar,La Liga,28,54.9653711
+Roberto Piccoli,ITA,FW,Spezia,Seria A,19,54.94890789
+Facundo Medina,ARG,DF,Lens,Ligue 1,21,54.89192977
+Michael Gregoritsch,AUT,FWMF,Augsburg,Bundesliga,26,54.89132013
+Kyle Bartley,ENG,DF,West Brom,Premier League,29,54.85414969
+Jean-Manuel Mbom,GER,MFDF,Werder Bremen,Bundesliga,20,54.84754935
+Darnell Furlong,ENG,DF,West Brom,Premier League,24,54.81655834
+Jean-Philippe Mateta,FRA,FW,Crystal Palace,Premier League,23,54.73100288
+Domingos Duarte,POR,DF,Granada,La Liga,25,54.71288263
+Mario Hermoso,ESP,DF,Atlético Madrid,La Liga,25,54.70164352
+Nemanja Maksimović,SRB,MF,Getafe,La Liga,25,54.68522316
+Ivan Radovanović,SRB,DFMF,Genoa,Seria A,31,54.66670539
+Ohis Felix Uduokhai,GER,DF,Augsburg,Bundesliga,22,54.64906726
+Rubén Duarte,ESP,DF,Alavés,La Liga,24,54.64140875
+Juan Carlos,ESP,MFFW,Huesca,La Liga,29,54.64130183
+Konstantinos Mavropanos,GRE,DF,Stuttgart,Bundesliga,22,54.62182022
+Iván Alejo,ESP,MFFW,Cádiz,La Liga,25,54.59240482
+Michy Batshuayi,BEL,FW,Crystal Palace,Premier League,26,54.57013757
+Kevin Lasagna,ITA,FW,Udinese,Seria A,27,54.55261944
+Aïssa Mandi,ALG,DF,Betis,La Liga,28,54.5437485
+Dani Gómez,ESP,FW,Levante,La Liga,22,54.54010449
+Hugo Magnetti,FRA,MF,Brest,Ligue 1,22,54.47250501
+Danny Welbeck,ENG,FW,Brighton,Premier League,29,54.43844603
+Eric Maxim Choupo-Moting,CMR,FWMF,Bayern Munich,Bundesliga,31,54.43378006
+Waldemar Anton,GER,DF,Stuttgart,Bundesliga,24,54.41713151
+Raúl Albiol,ESP,DF,Villarreal,La Liga,34,54.3881967
+Tony Mauricio,FRA,MF,Lens,Ligue 1,26,54.3779516
+Brandon Soppy,FRA,DF,Rennes,Ligue 1,18,54.3532115
+Sebastian Andersson,SWE,FW,Köln,Bundesliga,29,54.29945624
+Martin Braithwaite,DEN,FW,Barcelona,La Liga,29,54.26090185
+Aaron Leya Iseka,BEL,FW,Metz,Ligue 1,22,54.2050232
+Erling Haaland,NOR,FW,Dortmund,Bundesliga,20,54.19616282
+Pascal Struijk,NED,DFMF,Leeds United,Premier League,20,54.18886598
+Borja Mayoral,ESP,FW,Real Madrid,La Liga,23,54.1694076
+Gerzino Nyamsi,FRA,DF,Rennes,Ligue 1,23,54.14215334
+Omar Alderete,PAR,DF,Hertha BSC,Bundesliga,23,54.13267285
+Ferland Mendy,FRA,DF,Real Madrid,La Liga,25,54.12123585
+Eduardo Henrique,BRA,MF,Crotone,Seria A,25,54.08938794
+Maxime Lopez,FRA,FWMF,Marseille,Ligue 1,22,54.07744454
+Fabian Kunze,GER,MF,Arminia,Bundesliga,22,54.07732477
+Luuk de Jong,NED,FW,Sevilla,La Liga,29,54.07131289
+Maximilian Arnold,GER,MF,Wolfsburg,Bundesliga,26,54.046307
+Facundo Pellistri,URU,MFFW,Alavés,La Liga,18,54.02909398
+Dwight Gayle,ENG,FWMF,Newcastle Utd,Premier League,29,53.9871757
+Charles Abi,FRA,FWMF,Saint-Étienne,Ligue 1,20,53.97744901
+Dani García,ESP,MF,Athletic Club,La Liga,30,53.92552008
+Milan Badelj,CRO,MF,Genoa,Seria A,31,53.90309663
+Christian Eriksen,DEN,MF,Inter,Seria A,28,53.89364252
+Kieran Trippier,ENG,DF,Atlético Madrid,La Liga,29,53.82555685
+Mattia Destro,ITA,FW,Genoa,Seria A,29,53.8139848
+Ryad Boudebouz,ALG,MFFW,Saint-Étienne,Ligue 1,30,53.79516692
+Tammy Abraham,ENG,FW,Chelsea,Premier League,22,53.78661341
+Maya Yoshida,JPN,DF,Sampdoria,Seria A,31,53.74307187
+Domagoj Bradarić,CRO,DF,Lille,Ligue 1,20,53.71088789
+Cristian Battocchio,ITA,MFFW,Brest,Ligue 1,28,53.70708045
+Benjamin Mendy,FRA,DF,Manchester City,Premier League,26,53.67960277
+Jon Bautista,ESP,FWMF,Real Sociedad,La Liga,25,53.66358775
+Callum Wilson,ENG,FW,Newcastle Utd,Premier League,28,53.60388809
+Florian Lejeune,FRA,DF,Alavés,La Liga,29,53.57906722
+Guido Rodríguez,ARG,MF,Betis,La Liga,26,53.56944433
+Mert Müldür,TUR,DF,Sassuolo,Seria A,21,53.56043174
+Pedro Mosquera,ESP,MF,Huesca,La Liga,32,53.53011405
+Valon Behrami,SUI,MF,Genoa,Seria A,35,53.53011405
+Paul Lasne,FRA,MF,Brest,Ligue 1,31,53.52821932
+Ivan Ilić,SRB,MF,Hellas Verona,Seria A,19,53.40698336
+Mihai Dobre,ROU,FWMF,Dijon,Ligue 1,21,53.39890237
+Jerry St. Juste,NED,DF,Mainz 05,Bundesliga,23,53.39153189
+Stefano Okaka,ITA,FW,Udinese,Seria A,30,53.37516005
+Maxi Gómez,URU,FW,Valencia,La Liga,23,53.34476235
+Sergio Córdova,VEN,FWMF,Arminia,Bundesliga,22,53.31993359
+Bruno González,ESP,DF,Valladolid,La Liga,30,53.31937875
+Senou Coulibaly,MLI,DF,Dijon,Ligue 1,25,53.31234639
+Édgar Méndez,ESP,MFFW,Alavés,La Liga,30,53.27866975
+Chris Basham,ENG,DFMF,Sheffield Utd,Premier League,32,53.23341364
+Morgan Schneiderlin,FRA,MF,Nice,Ligue 1,30,53.21730555
+Mario Lemina,GAB,MF,Fulham,Premier League,26,53.18750381
+Víctor Díaz,ESP,DF,Granada,La Liga,32,53.17249953
+Rúben Neves,POR,MF,Wolves,Premier League,23,53.16971172
+Sebastian Walukiewicz,POL,DF,Cagliari,Seria A,20,53.16803656
+Enric Gallego,ESP,FW,Osasuna,La Liga,33,53.16031063
+Maranhão,BRA,FW,Valladolid,La Liga,23,53.13760143
+Lys Mousset,FRA,FWMF,Sheffield Utd,Premier League,24,53.1074025
+José Mari,ESP,MF,Cádiz,La Liga,32,53.0581775
+Thomas Mangani,FRA,MF,Angers,Ligue 1,33,53.05070182
+Darko Brašanac,SRB,MF,Osasuna,La Liga,28,53.04131816
+Adrian Grbić,AUT,FW,Lorient,Ligue 1,23,53.01643479
+Idriss Saadi,ALG,FWMF,Strasbourg,Ligue 1,28,53.00160854
+Isaac Carcelen,ESP,DF,Cádiz,La Liga,27,52.96933766
+Kevin Lasagna,ITA,FW,Hellas Verona,Seria A,27,52.90896901
+Pape Abou Cisse,SEN,DF,Saint-Étienne,Ligue 1,24,52.90695805
+Míchel,ESP,MF,Valladolid,La Liga,32,52.86990982
+Janik Haberer,GER,MFFW,Freiburg,Bundesliga,26,52.8573537
+Andreas Cornelius,DEN,FW,Parma,Seria A,27,52.80606925
+Gianluca Mancini,ITA,DF,Roma,Seria A,24,52.80341856
+Nico Elvedi,SUI,DF,M'Gladbach,Bundesliga,23,52.80258905
+Sven Schipplock,GER,FWMF,Arminia,Bundesliga,31,52.76306847
+Philipp Klement,GER,MFFW,Stuttgart,Bundesliga,27,52.71066716
+Marcelo,BRA,DF,Lyon,Ligue 1,33,52.66658369
+Jacob Ramsey,ENG,MFFW,Aston Villa,Premier League,19,52.65007075
+Martín Zubimendi,ESP,MF,Real Sociedad,La Liga,21,52.61712335
+Ermedin Demirović,BIH,FW,Freiburg,Bundesliga,22,52.58378758
+Clément Grenier,FRA,MF,Rennes,Ligue 1,29,52.57535135
+Patrick Bamford,ENG,FW,Leeds United,Premier League,26,52.55448809
+Dylan Bronn,TUN,DF,Metz,Ligue 1,25,52.51114447
+André Hahn,GER,FWMF,Augsburg,Bundesliga,29,52.49294368
+José Callejón,ESP,FWMF,Fiorentina,Seria A,33,52.45702996
+Marcus Coco,FRA,MFFW,Nantes,Ligue 1,24,52.4126645
+Paweł Dawidowicz,POL,DF,Hellas Verona,Seria A,25,52.36919379
+Alejandro Blanco,ESP,MF,Valencia,La Liga,21,52.29559245
+Jorge Pulido,ESP,DF,Huesca,La Liga,29,52.22711857
+Arne Maier,GER,MF,Arminia,Bundesliga,21,52.22299088
+Harry Winks,ENG,MF,Tottenham,Premier League,24,52.21849102
+Xeka,POR,MF,Lille,Ligue 1,25,52.14854234
+Dimitris Siovas,GRE,DF,Huesca,La Liga,31,52.13659644
+Adolfo Gaich,ARG,FW,Benevento,Seria A,21,52.11050115
+Diego Demme,GER,MF,Napoli,Seria A,28,52.10388325
+Stefan Savić,MNE,DF,Atlético Madrid,La Liga,29,52.09898748
+Rodrigo Becão,BRA,DF,Udinese,Seria A,24,52.05695462
+Cheick Doucouré,MLI,MF,Lens,Ligue 1,20,52.03738018
+Aurélien Tchouaméni,FRA,MF,Monaco,Ligue 1,20,52.02008441
+Ozan Kabak,TUR,DF,Schalke 04,Bundesliga,20,51.98081425
+Brain Oddei,ITA,FWMF,Sassuolo,Seria A,17,51.90736335
+Pierre Højbjerg,DEN,MF,Tottenham,Premier League,24,51.86714428
+Quique,ESP,FWMF,Eibar,La Liga,30,51.84342724
+Yves Bissouma,MLI,MF,Brighton,Premier League,23,51.81526071
+Jean-Philippe Krasso,FRA,FW,Saint-Étienne,Ligue 1,23,51.78461967
+Rhian Brewster,ENG,FW,Sheffield Utd,Premier League,20,51.77399871
+Borja Iglesias,ESP,FW,Betis,La Liga,27,51.74729749
+Florian Niederlechner,GER,FW,Augsburg,Bundesliga,29,51.72955873
+Sergio León,ESP,FW,Levante,La Liga,31,51.72346843
+Bruno Ecuele Manga,GAB,DF,Dijon,Ligue 1,32,51.68276084
+Youssef En-Nesyri,MAR,FW,Sevilla,La Liga,23,51.67557967
+Luke Ayling,ENG,DF,Leeds United,Premier League,28,51.63337721
+N'Golo Kanté,FRA,MF,Chelsea,Premier League,29,51.58826692
+Victor Osimhen,NGA,FW,Napoli,Seria A,21,51.56761311
+Carlos Akapo,EQG,DF,Cádiz,La Liga,27,51.50005258
+Pietro Pellegri,ITA,FWMF,Monaco,Ligue 1,19,51.46306973
+Danny da Costa,GER,DF,Mainz 05,Bundesliga,27,51.43461212
+Cebio Soukou,BEN,FWMF,Arminia,Bundesliga,27,51.4301503
+Kwadwo Asamoah,GHA,DFMF,Cagliari,Seria A,31,51.34303236
+Álvaro Negredo,ESP,FW,Cádiz,La Liga,34,51.30283068
+Sebastiano Luperto,ITA,DF,Crotone,Seria A,23,51.28491815
+Sergio Canales,ESP,MFFW,Betis,La Liga,29,51.26588361
+Ivan Rakitić,CRO,MF,Sevilla,La Liga,32,51.2522062
+Lucas Vázquez,ESP,DFFW,Real Madrid,La Liga,29,51.22778045
+Roberto Soldado,ESP,FW,Granada,La Liga,35,51.20250724
+Javi Galán,ESP,DF,Huesca,La Liga,25,51.17266954
+Colin Dagba,FRA,DF,Paris S-G,Ligue 1,21,51.1636795
+Luis Rojas,CHI,MFFW,Crotone,Seria A,18,51.10066974
+Leon Dajaku,GER,FW,Union Berlin,Bundesliga,19,51.01218519
+Jhon Córdoba,COL,FW,Hertha BSC,Bundesliga,27,50.99587364
+Ermin Bičakčić,BIH,DF,Hoffenheim,Bundesliga,30,50.99313926
+Declan Rice,ENG,MF,West Ham,Premier League,21,50.99055499
+Joe Willock,ENG,MF,Arsenal,Premier League,20,50.98930321
+Paul Nebel,GER,MFFW,Mainz 05,Bundesliga,17,50.98123625
+Samir Santos,BRA,DF,Udinese,Seria A,25,50.94878085
+Victor Mollejo,ESP,MFDF,Getafe,La Liga,19,50.89891142
+Jonathan Panzo,ENG,DF,Dijon,Ligue 1,19,50.89192734
+Franck Kessié,CIV,MF,Milan,Seria A,23,50.80783802
+Luca Siligardi,ITA,FWMF,Parma,Seria A,32,50.80767946
+Neeskens Kebano,COD,FWMF,Fulham,Premier League,28,50.67122037
+Sinaly Diomande,CIV,DF,Lyon,Ligue 1,19,50.64142729
+Luis Javier Suárez,COL,FWMF,Granada,La Liga,22,50.61068132
+Fabien Lemoine,FRA,MF,Lorient,Ligue 1,33,50.60754511
+Alireza Jahanbakhsh,IRN,FWMF,Brighton,Premier League,26,50.60692053
+Giangiacomo Magnani,ITA,DF,Hellas Verona,Seria A,24,50.60517132
+Tiemoué Bakayoko,FRA,MF,Napoli,Seria A,25,50.5907286
+Michel Vlap,NED,MFFW,Arminia,Bundesliga,23,50.4909988
+Asier Villalibre,ESP,FW,Athletic Club,La Liga,22,50.48015044
+Arturo Vidal,CHI,MF,Inter,Seria A,33,50.46606719
+Danilo Cataldi,ITA,MF,Lazio,Seria A,25,50.43413876
+Andy Carroll,ENG,FW,Newcastle Utd,Premier League,31,50.40605985
+Marko Rog,CRO,MF,Cagliari,Seria A,25,50.39222843
+Gennaro Acampora,ITA,MFFW,Spezia,Seria A,26,50.30156441
+Paul Baysse,FRA,DF,Bordeaux,Ligue 1,32,50.26600056
+Marten de Roon,NED,MF,Atalanta,Seria A,29,50.20273401
+Anthony Lozano,HON,FWMF,Cádiz,La Liga,27,50.17600879
+Mitchell Dijks,NED,DF,Bologna,Seria A,27,50.15899479
+Manolo Portanova,ITA,DFMF,Genoa,Seria A,20,50.15583785
+Sebastian Griesbeck,GER,MF,Union Berlin,Bundesliga,29,50.15479963
+Cheick Doukouré,CIV,MF,Levante,La Liga,27,50.08189006
+Diadie Samassékou,MLI,MF,Hoffenheim,Bundesliga,24,50.05646588
+Niels Nkounkou,FRA,DFFW,Everton,Premier League,19,50.00858274
+Kevin Strootman,NED,MF,Marseille,Ligue 1,30,49.99773405
+Gonzalo Verdú,ESP,DF,Elche,La Liga,31,49.97772696
+Luca Pellegrini,ITA,DFMF,Genoa,Seria A,21,49.9642268
+Marco John,GER,DF,Hoffenheim,Bundesliga,18,49.91529874
+Aurélien Scheidler,FRA,FW,Dijon,Ligue 1,22,49.84944168
+Oliver Norwood,NIR,MF,Sheffield Utd,Premier League,29,49.83789578
+Danny da Costa,GER,DF,Eint Frankfurt,Bundesliga,27,49.73694001
+Toño,ESP,DF,Levante,La Liga,30,49.71234645
+Jesús Navas,ESP,DF,Sevilla,La Liga,34,49.68307243
+Jonny Castro,ESP,DF,Wolves,Premier League,26,49.66978442
+Bryan Reynolds,USA,DF,Roma,Seria A,19,49.65947656
+Alexander Hack,GER,DF,Mainz 05,Bundesliga,26,49.63900319
+Matteo Ruggeri,ITA,DF,Atalanta,Seria A,18,49.62393525
+Carlos Neva,ESP,DF,Granada,La Liga,24,49.57936434
+Nils Petersen,GER,FW,Freiburg,Bundesliga,31,49.53123937
+Wilfred Ndidi,NGA,MFDF,Leicester City,Premier League,23,49.49575463
+Andrea Carboni,ITA,DF,Cagliari,Seria A,19,49.47395424
+Óliver Torres,ESP,MFFW,Sevilla,La Liga,25,49.45275477
+Davy Pröpper,NED,MF,Brighton,Premier League,28,49.3984101
+Renato Tapia,PER,MF,Celta Vigo,La Liga,25,49.38141744
+Luca Caldirola,ITA,DF,Benevento,Seria A,29,49.33205945
+Jacopo Dezi,ITA,FWMF,Parma,Seria A,28,49.31024857
+Matěj Vydra,CZE,FW,Burnley,Premier League,28,49.28610447
+Mohamed Elneny,EGY,MF,Arsenal,Premier League,28,49.26189203
+Keagan Dolly,RSA,MF,Montpellier,Ligue 1,27,49.17652904
+Olivier Ntcham,FRA,MF,Marseille,Ligue 1,24,49.1259919
+Karim Aribi,ALG,FW,Nîmes,Ligue 1,26,49.09493935
+Bastian Oczipka,GER,DF,Schalke 04,Bundesliga,31,49.07908877
+Erick Pulgar,CHI,MF,Fiorentina,Seria A,26,49.06700578
+Kalifa Coulibaly,MLI,FW,Nantes,Ligue 1,28,49.06346694
+Alex Telles,BRA,DF,Manchester Utd,Premier League,27,49.06017177
+Enzo Millot,FRA,MF,Monaco,Ligue 1,18,49.05634485
+Kaj Sierhuis,NED,FW,Reims,Ligue 1,22,49.0373941
+Vicente Esquerdo,ESP,MF,Valencia,La Liga,21,49.03609807
+Robson Bambu,BRA,DF,Nice,Ligue 1,22,49.0323897
+Oier Zarraga,ESP,MF,Athletic Club,La Liga,21,49.01787078
+Matteo Darmian,ITA,DF,Parma,Seria A,30,48.95566535
+Romaine Sawyers,SKN,MF,West Brom,Premier League,28,48.94878944
+Anthony Gordon,ENG,FWMF,Everton,Premier League,19,48.94383779
+Jacopo Petriccione,ITA,MF,Crotone,Seria A,25,48.94200356
+Aníbal Chalá,ECU,DF,Dijon,Ligue 1,24,48.9416099
+Yuto Nagatomo,JPN,DF,Marseille,Ligue 1,33,48.93717301
+Matthias Ginter,GER,DF,M'Gladbach,Bundesliga,26,48.89341921
+Ki-Jana Hoever,NED,DF,Wolves,Premier League,18,48.87995207
+Shon Weissman,ISR,FW,Valladolid,La Liga,24,48.87205656
+Edoardo Goldaniga,ITA,DF,Genoa,Seria A,26,48.74691717
+Yıldırım Mert Çetin,TUR,DF,Hellas Verona,Seria A,23,48.73045056
+Gianluca Lapadula,PER,FW,Benevento,Seria A,30,48.71024761
+Bryan Cristante,ITA,DFMF,Roma,Seria A,25,48.70834766
+Fernando Llorente,ESP,FW,Udinese,Seria A,35,48.69923782
+Radja Nainggolan,BEL,MF,Inter,Seria A,32,48.69350626
+Pau Torres,ESP,DF,Villarreal,La Liga,23,48.61824156
+Layvin Kurzawa,FRA,DF,Paris S-G,Ligue 1,27,48.61653476
+Christian Groß,GER,MFDF,Werder Bremen,Bundesliga,31,48.56828216
+Felix Klaus,GER,DFMF,Wolfsburg,Bundesliga,27,48.56584987
+Marquinhos,BRA,DF,Paris S-G,Ligue 1,26,48.54556968
+Jordan Marié,FRA,MF,Dijon,Ligue 1,28,48.5106846
+Albin Ekdal,SWE,MF,Sampdoria,Seria A,31,48.49561669
+Nelson Sissoko,FRA,DF,Saint-Étienne,Ligue 1,23,48.46250879
+Milan Škriniar,SVK,DF,Inter,Seria A,25,48.42329014
+Ben White,ENG,DFMF,Brighton,Premier League,22,48.38924724
+Harold Moukoudi,CMR,DF,Saint-Étienne,Ligue 1,22,48.35733063
+Marin Pongračić,CRO,DF,Wolfsburg,Bundesliga,22,48.35498185
+Reinhold Yabo,GER,MFFW,Arminia,Bundesliga,28,48.34477471
+Petar Musa,CRO,FW,Union Berlin,Bundesliga,22,48.33854435
+Cala,ESP,DF,Cádiz,La Liga,30,48.32950068
+Mohammed Salisu,GHA,DF,Southampton,Premier League,21,48.31244347
+Gonzalo Escalante,ARG,MF,Lazio,Seria A,27,48.30595586
+Aimen Moueffek,FRA,DFMF,Saint-Étienne,Ligue 1,19,48.27933005
+Davide Biraschi,ITA,DF,Genoa,Seria A,26,48.27169924
+Mads Pedersen,DEN,DF,Augsburg,Bundesliga,23,48.26218308
+Ben Davies,WAL,DF,Tottenham,Premier League,27,48.24899711
+Marcos Acuña,ARG,DF,Sevilla,La Liga,28,48.23872104
+Robin Le Normand,FRA,DF,Real Sociedad,La Liga,23,48.23838584
+Dedryck Boyata,BEL,DF,Hertha BSC,Bundesliga,29,48.23687606
+Nicolò Rovella,ITA,MF,Genoa,Seria A,18,48.21439389
+Willian José,BRA,FW,Wolves,Premier League,28,48.20340262
+Rodrigo,ESP,FWMF,Betis,La Liga,20,48.17407888
+Umut Bozok,TUR,FWMF,Lorient,Ligue 1,23,48.12095992
+Jonathan Delaplace,FRA,DF,Lorient,Ligue 1,34,48.1170076
+Xaver Schlager,AUT,MF,Wolfsburg,Bundesliga,22,48.1140838
+Yoshinori Mutō,JPN,FWMF,Eibar,La Liga,28,48.0949829
+Rúben Vinagre,POR,DF,Wolves,Premier League,21,48.06199754
+Yan Brice Eteki,CMR,MF,Granada,La Liga,22,48.04025885
+Marvin Plattenhardt,GER,DF,Hertha BSC,Bundesliga,28,48.03521
+Kévin N'Doram,FRA,MF,Metz,Ligue 1,24,48.0098317
+Nicolás Domínguez,ARG,MF,Bologna,Seria A,22,48.00526854
+Eddy Sylvestre,FRA,FWMF,Nice,Ligue 1,20,47.99584151
+Ronald Araújo,URU,DF,Barcelona,La Liga,21,47.97606032
+Jean-Daniel Akpa-Akpro,CIV,MF,Lazio,Seria A,27,47.96738042
+Rodrigo Bentancur,URU,MF,Juventus,Seria A,23,47.94266334
+Facundo Ferreyra,ARG,FW,Celta Vigo,La Liga,29,47.90894607
+Julien Laporte,FRA,DF,Lorient,Ligue 1,26,47.90464992
+Çağlar Söyüncü,TUR,DF,Leicester City,Premier League,24,47.86724158
+Houboulang Mendes,FRA,DF,Lorient,Ligue 1,22,47.86359621
+Antonio Barreca,ITA,DF,Fiorentina,Seria A,25,47.85598404
+Philippe Coutinho,BRA,MFFW,Barcelona,La Liga,28,47.85485641
+Lyanco,BRA,DF,Torino,Seria A,23,47.81593059
+Leo Dubois,FRA,DF,Lyon,Ligue 1,25,47.80819126
+Keven Schlotterbeck,GER,DF,Freiburg,Bundesliga,23,47.80079886
+Neymar,BRA,MFFW,Paris S-G,Ligue 1,28,47.79652502
+Oliver Burke,SCO,FW,Sheffield Utd,Premier League,23,47.76297482
+Daam Foulon,BEL,DF,Benevento,Seria A,21,47.73969001
+Andri Fannar Baldursson,ISL,MF,Bologna,Seria A,18,47.7354537
+Bobby Adekanye,NED,FWMF,Cádiz,La Liga,21,47.71633429
+Cifu,ESP,DF,Elche,La Liga,29,47.69387416
+Florian Hübner,GER,DF,Union Berlin,Bundesliga,29,47.69336467
+Kévin Monnet-Paquet,FRA,MFFW,Saint-Étienne,Ligue 1,31,47.68205375
+Stefano Sturaro,ITA,MF,Genoa,Seria A,27,47.66569099
+Fred,BRA,MF,Manchester Utd,Premier League,27,47.61162343
+James Tarkowski,ENG,DF,Burnley,Premier League,27,47.57456247
+Mariano,DOM,FW,Real Madrid,La Liga,26,47.53746194
+Antonio Barragán,ESP,DF,Elche,La Liga,33,47.53627825
+Lewis Dunk,ENG,DF,Brighton,Premier League,28,47.52891939
+Kilian Ludewig,GER,DF,Schalke 04,Bundesliga,20,47.52199604
+Salif Sané,SEN,DF,Schalke 04,Bundesliga,29,47.42149203
+Riccardo Marchizza,ITA,DF,Spezia,Seria A,22,47.39259748
+Mark Noble,ENG,MF,West Ham,Premier League,33,47.37837232
+Mahmoud Dahoud,GER,MF,Dortmund,Bundesliga,24,47.34727642
+Koke,ESP,MF,Atlético Madrid,La Liga,28,47.3344268
+Oriol Romeu,ESP,MF,Southampton,Premier League,28,47.28082038
+Issouf Sissokho,MLI,MF,Bordeaux,Ligue 1,18,47.27927542
+Billy Sharp,ENG,FW,Sheffield Utd,Premier League,34,47.23292883
+Loren Morón,ESP,FWMF,Betis,La Liga,26,47.21560174
+Pol Lirola,ESP,DFFW,Fiorentina,Seria A,22,47.16771252
+Lazar Samardzic,GER,MFFW,RB Leipzig,Bundesliga,18,47.16012964
+Pedro López Muñoz,ESP,DF,Huesca,La Liga,36,47.15709508
+Conor Hourihane,IRL,MF,Aston Villa,Premier League,29,47.15146833
+Andy Pelmard,FRA,DF,Nice,Ligue 1,20,47.14118427
+Steven Skrzybski,GER,FWDF,Schalke 04,Bundesliga,27,47.12543239
+Willem Geubbels,FRA,FWMF,Monaco,Ligue 1,18,47.088557
+Florian Grillitsch,AUT,MFDF,Hoffenheim,Bundesliga,24,47.01452746
+Ibrahima Traoré,GUI,FWDF,M'Gladbach,Bundesliga,32,46.94933836
+Łukasz Piszczek,POL,DF,Dortmund,Bundesliga,35,46.94389196
+Kevin Vázquez,ESP,DF,Celta Vigo,La Liga,27,46.92680243
+Naby Keïta,GUI,MF,Liverpool,Premier League,25,46.882918
+Matteo Lovato,ITA,DF,Hellas Verona,Seria A,20,46.84066686
+Federico Fernández,ARG,DF,Newcastle Utd,Premier League,31,46.83159115
+Nathan de Medina,BEL,DF,Arminia,Bundesliga,22,46.804425
+Wout Faes,BEL,DF,Reims,Ligue 1,22,46.78234503
+Vincent Laurini,FRA,DF,Parma,Seria A,31,46.78170146
+Martin Agirregabiria,ESP,DFMF,Alavés,La Liga,24,46.76590003
+Giuseppe Mastinu,ITA,FWMF,Spezia,Seria A,28,46.66556741
+Paolo Faragò,ITA,DF,Bologna,Seria A,27,46.64377356
+Gaëtan Paquiez,FRA,DF,Nîmes,Ligue 1,26,46.63773524
+Federico Fazio,ARG,DF,Roma,Seria A,33,46.6232204
+Diego Costa,ESP,FW,Atlético Madrid,La Liga,31,46.57329881
+Lukas Klünter,GER,DF,Hertha BSC,Bundesliga,24,46.57200827
+Matt Ritchie,SCO,DFMF,Newcastle Utd,Premier League,30,46.51163771
+Owen Otasowie,USA,MFFW,Wolves,Premier League,19,46.50859228
+Deyverson,BRA,FW,Alavés,La Liga,29,46.49268742
+Yassine Benzia,ALG,MFFW,Dijon,Ligue 1,25,46.45383954
+Alex Ferrari,ITA,DF,Sampdoria,Seria A,26,46.38207762
+Francisco Portillo,ESP,MFFW,Getafe,La Liga,30,46.37604174
+Niko Gießelmann,GER,DF,Union Berlin,Bundesliga,28,46.36798717
+Bridge Ndilu,FRA,MFFW,Nantes,Ligue 1,20,46.30499092
+Christian Gentner,GER,MF,Union Berlin,Bundesliga,34,46.3017477
+Atakan Karazor,GER,DFMF,Stuttgart,Bundesliga,23,46.26319232
+Víctor Laguardia,ESP,DF,Alavés,La Liga,30,46.21062651
+Martín Montoya,ESP,DF,Betis,La Liga,29,46.19942937
+Jon Ander Garrido,ESP,MF,Cádiz,La Liga,30,46.18259296
+Juan Sánchez Miño,ARG,DFMF,Elche,La Liga,30,46.13924713
+Matthijs de Ligt,NED,DF,Juventus,Seria A,20,46.08112946
+Wendell,BRA,DF,Leverkusen,Bundesliga,27,46.07795071
+Jamie Vardy,ENG,FW,Leicester City,Premier League,33,46.06549806
+Maxence Lacroix,FRA,DF,Wolfsburg,Bundesliga,20,46.05237262
+Jason,ESP,MFDF,Valencia,La Liga,26,46.03666152
+Denis Odoi,BEL,DF,Fulham,Premier League,32,46.03193722
+Dennis Appiah,FRA,DF,Nantes,Ligue 1,28,46.02836023
+Darko Churlinov,MKD,DFFW,Stuttgart,Bundesliga,20,45.95001203
+Yeray Álvarez,ESP,DF,Athletic Club,La Liga,25,45.88679366
+Wilitty Younoussa,CMR,MFDF,Dijon,Ligue 1,18,45.88072155
+Paco Alcácer,ESP,FW,Villarreal,La Liga,26,45.87684876
+Casimir Ninga,CHA,FW,Angers,Ligue 1,27,45.82745252
+Lorenzo Venuti,ITA,DF,Fiorentina,Seria A,25,45.82352909
+Jamie Shackleton,ENG,MFDF,Leeds United,Premier League,20,45.81283916
+Ambroise Oyongo,CMR,DF,Montpellier,Ligue 1,29,45.77930008
+Rafa Soares,POR,DF,Eibar,La Liga,25,45.7743013
+Javier Manquillo,ESP,DF,Newcastle Utd,Premier League,26,45.71941139
+Jack Cork,ENG,MF,Burnley,Premier League,31,45.68237579
+M'Baye Niang,SEN,FW,Rennes,Ligue 1,25,45.6805799
+Luis Pérez,ESP,DF,Valladolid,La Liga,25,45.62788123
+Pierre Kunde,CMR,MF,Mainz 05,Bundesliga,25,45.61145709
+Kenan Kodro,BIH,FWMF,Athletic Club,La Liga,26,45.55959129
+Mohamed Ali Cho,FRA,FWMF,Angers,Ligue 1,16,45.54453655
+Amad Diallo,CIV,FW,Manchester Utd,Premier League,18,45.51475429
+Axel Witsel,BEL,MF,Dortmund,Bundesliga,31,45.48021552
+Miloš Veljković,SRB,DF,Werder Bremen,Bundesliga,24,45.45536598
+Fabián Ruiz Peña,ESP,MF,Napoli,Seria A,24,45.4504308
+Nicolas Cozza,FRA,DF,Montpellier,Ligue 1,21,45.44166058
+Alfred Duncan,GHA,MF,Cagliari,Seria A,27,45.4117247
+Ismaëlben Boura,FRA,DF,Lens,Ligue 1,19,45.40782474
+Francesco Cassata,ITA,DFMF,Genoa,Seria A,23,45.40507624
+Lucas Digne,FRA,DF,Everton,Premier League,27,45.38570608
+Lino Tempelmann,GER,MFDF,Freiburg,Bundesliga,21,45.37209321
+Jóan Símun Edmundsson,FRO,MFFW,Arminia,Bundesliga,29,45.35088015
+Nikola Vukčević,MNE,MF,Levante,La Liga,28,45.27887702
+Reiss Nelson,ENG,FW,Arsenal,Premier League,20,45.23889428
+Filip Krovinović,CRO,MF,West Brom,Premier League,24,45.18937512
+Tom Lacoux,FRA,MF,Bordeaux,Ligue 1,18,45.162418
+Ibrahima Mbaye,SEN,DF,Bologna,Seria A,25,45.14161596
+Melvin Bard,FRA,DF,Lyon,Ligue 1,19,45.10385077
+Kévin Malcuit,MAR,MFFW,Napoli,Seria A,29,45.05998362
+Christian Oliva,URU,MF,Valencia,La Liga,24,45.02133868
+Borja Valero,ESP,MFFW,Fiorentina,Seria A,35,44.94735701
+Fikayo Tomori,ENG,DF,Milan,Seria A,22,44.90249189
+Pape Cheikh Diop,SEN,MF,Dijon,Ligue 1,22,44.88902741
+Kwon Chang-hoon,KOR,MFFW,Freiburg,Bundesliga,26,44.87598346
+Andrea Masiello,ITA,DF,Genoa,Seria A,34,44.85994106
+Lucien Agoume,FRA,MF,Spezia,Seria A,18,44.84188818
+Sofiane Alakouch,FRA,DF,Nîmes,Ligue 1,22,44.83372316
+Alex Baena,ESP,MF,Villarreal,La Liga,19,44.8190223
+Tyler Adams,USA,DFMF,RB Leipzig,Bundesliga,21,44.80096468
+Deyovaisio Zeefuik,NED,DFMF,Hertha BSC,Bundesliga,22,44.79449575
+Moreto Cassamã,GNB,MF,Reims,Ligue 1,22,44.77913166
+Wesley Fofana,FRA,DF,Saint-Étienne,Ligue 1,19,44.73966793
+Stefan Bell,GER,DF,Mainz 05,Bundesliga,28,44.71836924
+Haris Belkebla,ALG,MF,Brest,Ligue 1,26,44.6972686
+Julian Ryerson,NOR,DFMF,Union Berlin,Bundesliga,22,44.69593595
+Giuseppe Cuomo,ITA,DF,Crotone,Seria A,22,44.61542814
+Craig Dawson,ENG,DF,West Ham,Premier League,30,44.6116682
+Javi López,ESP,DFMF,Alavés,La Liga,18,44.60545604
+Juan Cuadrado,COL,DFMF,Juventus,Seria A,32,44.60137457
+Mehmet-Can Aydin,GER,DF,Schalke 04,Bundesliga,18,44.5716264
+Helibelton Palacios,COL,DF,Elche,La Liga,27,44.5288228
+Lukas Klostermann,GER,DF,RB Leipzig,Bundesliga,24,44.49905586
+Stéphane Diarra,FRA,FWMF,Lorient,Ligue 1,21,44.47974514
+Bosko Sutalo,CRO,DF,Atalanta,Seria A,20,44.42712442
+Rob Holding,ENG,DF,Arsenal,Premier League,24,44.42636057
+Adam Ounas,ALG,FWMF,Crotone,Seria A,23,44.4191166
+Lionel Messi,ARG,FWMF,Barcelona,La Liga,33,44.38546863
+Daniel Jebbison,ENG,FW,Sheffield Utd,Premier League,17,44.31050907
+Christian Maggio,ITA,DF,Benevento,Seria A,38,44.30520042
+Alexis Flips,FRA,MF,Reims,Ligue 1,20,44.28040111
+Rolando Mandragora,ITA,MF,Udinese,Seria A,23,44.23854557
+Benno Schmitz,GER,DF,Köln,Bundesliga,25,44.15602002
+Rafa Mir,ESP,FW,Huesca,La Liga,23,44.13993734
+Manolo Portanova,ITA,FWMF,Juventus,Seria A,20,44.12869162
+Konrad Laimer,AUT,DFFW,RB Leipzig,Bundesliga,23,44.00804701
+Alessandro Tripaldelli,ITA,DF,Cagliari,Seria A,21,43.97776156
+Aarón Martín,ESP,DF,Celta Vigo,La Liga,23,43.97413544
+James McCarthy,IRL,MF,Crystal Palace,Premier League,29,43.96118934
+Kévin Malcuit,MAR,DF,Fiorentina,Seria A,29,43.94345622
+Mamor Niang,SEN,FWMF,Getafe,La Liga,18,43.91691877
+Abdoulaye Bamba,CIV,DF,Angers,Ligue 1,30,43.83530379
+Yordan Osorio,VEN,DF,Parma,Seria A,26,43.83519162
+Tom Cairney,SCO,MF,Fulham,Premier League,29,43.83275332
+Thomas Partey,GHA,MF,Arsenal,Premier League,27,43.82591078
+Marley Aké,FRA,FW,Marseille,Ligue 1,19,43.81787384
+James Milner,ENG,MFDF,Liverpool,Premier League,34,43.81741284
+Dara O'Shea,IRL,DF,West Brom,Premier League,21,43.8127817
+Maxime Poundjé,FRA,DF,Bordeaux,Ligue 1,27,43.76710482
+Curtis Jones,ENG,MF,Liverpool,Premier League,19,43.75057156
+Mehdi Abeid,ALG,MF,Nantes,Ligue 1,27,43.69536875
+Antonio Rüdiger,GER,DF,Chelsea,Premier League,27,43.64122872
+Okay Yokuşlu,TUR,MF,Celta Vigo,La Liga,26,43.63510312
+Denis Drăguș,ROU,FWMF,Crotone,Seria A,21,43.62243797
+Tom Davies,ENG,MF,Everton,Premier League,22,43.58647325
+Giovanni Simeone,ARG,FW,Cagliari,Seria A,25,43.55706333
+Shinji Okazaki,JPN,FWMF,Huesca,La Liga,34,43.55149515
+Sava Cestic,SRB,DF,Köln,Bundesliga,19,43.54330598
+Alexander Djiku,GHA,DFMF,Strasbourg,Ligue 1,25,43.53114841
+Timothy Fosu-Mensah,NED,DF,Leverkusen,Bundesliga,22,43.48541073
+Emmanuel Dennis,NGA,FW,Köln,Bundesliga,22,43.44533971
+Šime Vrsaljko,CRO,DF,Atlético Madrid,La Liga,28,43.44096712
+Felix Passlack,GER,DF,Dortmund,Bundesliga,22,43.42682526
+Saidou Sow,GUI,DF,Saint-Étienne,Ligue 1,18,43.28885207
+DeAndre Yedlin,USA,DF,Newcastle Utd,Premier League,27,43.28235107
+Guus Til,NED,FW,Freiburg,Bundesliga,22,43.26789004
+Alex Sandro,BRA,DF,Juventus,Seria A,29,43.16438353
+Alexis Trouillet,FRA,MF,Nice,Ligue 1,19,43.13604305
+Josema,ESP,DF,Elche,La Liga,24,43.10801375
+Akaki Gogia,GER,FWMF,Union Berlin,Bundesliga,28,43.0683155
+Joaquín Muñoz,ESP,FW,Huesca,La Liga,21,43.02908023
+Alfon,ESP,MF,Celta Vigo,La Liga,21,43.01082471
+José Fontán,ESP,DF,Celta Vigo,La Liga,20,43.00855503
+Eugeni Valderrama,ESP,FWMF,Huesca,La Liga,26,43.007976
+Charlie Austin,ENG,FW,West Brom,Premier League,31,43.00068772
+Álex Berenguer,ESP,MF,Torino,Seria A,25,42.99298289
+Pedro Mendes,POR,DF,Montpellier,Ligue 1,29,42.98795654
+Jaume Costa,ESP,DFMF,Villarreal,La Liga,32,42.96149195
+Josh Maja,NGA,FW,Bordeaux,Ligue 1,21,42.9526714
+Raphael Framberger,GER,DF,Augsburg,Bundesliga,24,42.94786682
+Vittorio Parigini,ITA,FWDF,Genoa,Seria A,24,42.88911487
+Omenuke Mfulu,COD,MF,Elche,La Liga,26,42.87212852
+Kelyan Guessoum,FRA,DF,Nîmes,Ligue 1,21,42.87104675
+Marc Bartra,ESP,DF,Betis,La Liga,29,42.83724202
+Fredrik Jensen,FIN,FWMF,Augsburg,Bundesliga,22,42.77621211
+Iyenoma Udogie,ITA,DFMF,Hellas Verona,Seria A,17,42.74174208
+Sam Field,ENG,MF,West Brom,Premier League,22,42.70864638
+Thomas Fontaine,MAD,DF,Lorient,Ligue 1,29,42.70688785
+Luca Mora,ITA,MFFW,Spezia,Seria A,32,42.66804381
+Jeremie Frimpong,NED,DFFW,Leverkusen,Bundesliga,19,42.65144204
+Diego Llorente,ESP,DF,Leeds United,Premier League,26,42.64760075
+Baptiste Santamaria,FRA,MF,Angers,Ligue 1,25,42.64684664
+Andriy Yarmolenko,UKR,FWMF,West Ham,Premier League,30,42.63570448
+Alberto Moreno,ESP,DF,Villarreal,La Liga,28,42.62633182
+Federico Ceccherini,ITA,DF,Fiorentina,Seria A,28,42.61724214
+Josh Benson,ENG,MF,Burnley,Premier League,20,42.5320411
+Remo Freuler,SUI,MF,Atalanta,Seria A,28,42.50708304
+Pedro Bigas,ESP,DF,Eibar,La Liga,29,42.48765089
+Ahmed Elmohamady,EGY,DF,Aston Villa,Premier League,32,42.48634597
+Brendan Chardonnet,FRA,DF,Brest,Ligue 1,25,42.4422629
+Hidde ter Avest,NED,DF,Udinese,Seria A,23,42.43630832
+Youssef Maziz,FRA,MFFW,Metz,Ligue 1,22,42.41345817
+Fabrizio Caligara,ITA,MF,Cagliari,Seria A,20,42.39047648
+Lilian Brassier,FRA,DF,Brest,Ligue 1,20,42.38027681
+Berat Djimsiti,ALB,DF,Atalanta,Seria A,27,42.3675083
+Kevin Bonifazi,ITA,DF,Udinese,Seria A,24,42.31726168
+Jean-Eudes Aholou,CIV,MF,Monaco,Ligue 1,26,42.31100278
+Gonzalo Villar,ESP,MF,Roma,Seria A,22,42.24371376
+Jean-Victor Makengo,FRA,MF,Udinese,Seria A,22,42.23166352
+Juan Manuel Ramos,URU,DF,Spezia,Seria A,23,42.19488258
+Blendi Idrizi,KVX,MF,Schalke 04,Bundesliga,22,42.16210066
+Alessandro Bastoni,ITA,DF,Inter,Seria A,21,42.15863591
+Anthony Caci,FRA,DF,Strasbourg,Ligue 1,23,42.08126469
+Tomás Pina Isla,ESP,MF,Alavés,La Liga,32,42.0600302
+Giuseppe Caso,ITA,MF,Genoa,Seria A,21,42.03432654
+Wesley Fofana,FRA,DF,Leicester City,Premier League,19,42.01825201
+Granit Xhaka,SUI,MFDF,Arsenal,Premier League,27,41.98086005
+Lucas Hernández,FRA,DF,Bayern Munich,Bundesliga,24,41.96325733
+Leonardo Bonucci,ITA,DF,Juventus,Seria A,33,41.95564282
+Stefan Mitrović,SRB,DF,Strasbourg,Ligue 1,30,41.95544125
+Fernando Niño,ESP,FW,Villarreal,La Liga,19,41.95228084
+Davide Santon,ITA,DF,Roma,Seria A,29,41.94204878
+Jack Robinson,ENG,DF,Sheffield Utd,Premier League,26,41.92994317
+Mbaye Diagne,SEN,FW,West Brom,Premier League,28,41.88291817
+İlkay Gündoğan,GER,MF,Manchester City,Premier League,29,41.82986935
+Reece James,ENG,DF,Chelsea,Premier League,20,41.82566631
+Nicolas Nkoulou,CMR,DF,Torino,Seria A,30,41.75509121
+Dani Calvo,ESP,DF,Elche,La Liga,26,41.72623832
+Jules Koundé,FRA,DF,Sevilla,La Liga,21,41.72111617
+Dominique Heintz,GER,DF,Freiburg,Bundesliga,26,41.70000772
+Kevin Akpoguma,NGA,DF,Hoffenheim,Bundesliga,25,41.68831421
+Ibai Gómez,ESP,MF,Athletic Club,La Liga,30,41.67335943
+Carlos Gruezo,ECU,MF,Augsburg,Bundesliga,25,41.65559838
+Youssouf Koné,MLI,DFFW,Elche,La Liga,25,41.62366318
+Alessio Romagnoli,ITA,DF,Milan,Seria A,25,41.60555249
+Kelechi Nwakali,NGA,MFFW,Huesca,La Liga,22,41.58772304
+Arthur Zagre,FRA,DFMF,Dijon,Ligue 1,18,41.54171487
+Jean-Charles Castelletto,CMR,DF,Nantes,Ligue 1,25,41.50167182
+Unai Vencedor Paris,ESP,MF,Athletic Club,La Liga,19,41.49089302
+Scott Dann,ENG,DF,Crystal Palace,Premier League,33,41.48930012
+Franklin Wadja,CMR,MFFW,Lorient,Ligue 1,25,41.46618072
+Jacopo Sala,ITA,DF,Spezia,Seria A,28,41.44272547
+Nino,ESP,MFFW,Elche,La Liga,40,41.421084
+Benjamin Henrichs,GER,DFMF,RB Leipzig,Bundesliga,23,41.3594688
+Simone Edera,ITA,DFMF,Torino,Seria A,23,41.33484083
+Branislav Ivanović,SRB,DF,West Brom,Premier League,36,41.29474044
+Kerim Calhanoglu,GER,DF,Schalke 04,Bundesliga,17,41.28404987
+Tim Ream,USA,DF,Fulham,Premier League,32,41.27842986
+Maxence Caqueret,FRA,MF,Lyon,Ligue 1,20,41.26147176
+Vladimir Golemić,SVN,DF,Crotone,Seria A,29,41.1946278
+Patrick Cutrone,ITA,FW,Wolves,Premier League,22,41.16440958
+James McArthur,SCO,MF,Crystal Palace,Premier League,32,41.15024299
+Amir Rrahmani,KVX,DF,Napoli,Seria A,26,41.1303134
+Florentino Luís,POR,MF,Monaco,Ligue 1,20,41.08447234
+Diego Godín,URU,DF,Cagliari,Seria A,34,41.06087462
+Andrea Pinamonti,ITA,FW,Inter,Seria A,21,41.0608636
+Elseid Hysaj,ALB,DF,Napoli,Seria A,26,41.05624715
+Juan Bernat,ESP,DF,Paris S-G,Ligue 1,27,41.0035001
+Ragnar Ache,GER,FWDF,Eint Frankfurt,Bundesliga,22,41.00171189
+Lorenzo Tonelli,ITA,DF,Sampdoria,Seria A,30,40.98925691
+Johan Mojica,COL,DF,Elche,La Liga,27,40.97810067
+Kieran Gibbs,ENG,DF,West Brom,Premier League,30,40.88599066
+Julian Chabot,GER,DF,Spezia,Seria A,22,40.87398035
+Julian Baumgartlinger,AUT,MF,Leverkusen,Bundesliga,32,40.85694124
+Ragnar Klavan,EST,DF,Cagliari,Seria A,34,40.84293533
+Okay Yokuşlu,TUR,MF,West Brom,Premier League,26,40.79676445
+Jean-Kevin Duverne,FRA,DF,Brest,Ligue 1,23,40.77895053
+Rober Correa,ESP,DF,Eibar,La Liga,27,40.7164635
+Hamari Traoré,MLI,DF,Rennes,Ligue 1,28,40.71359431
+Paul Akouokou,CIV,MF,Betis,La Liga,22,40.70617317
+Kevin Strootman,NED,MF,Genoa,Seria A,30,40.6222407
+Andrea Poli,ITA,MF,Bologna,Seria A,30,40.61648798
+Morgan Sanson,FRA,MF,Marseille,Ligue 1,25,40.52538861
+Sven Bender,GER,DF,Leverkusen,Bundesliga,31,40.52299436
+Diego González,ESP,DF,Elche,La Liga,25,40.51210795
+Esteban Burgos,ARG,DF,Eibar,La Liga,28,40.42177747
+Ramiro Funes Mori,ARG,DF,Villarreal,La Liga,29,40.42019973
+Marash Kumbulla,ALB,DF,Roma,Seria A,20,40.24067186
+Jake Livermore,ENG,MF,West Brom,Premier League,30,40.18592891
+Guillem Molina,ESP,DF,Valencia,La Liga,20,40.17425303
+Yerry Mina,COL,DF,Everton,Premier League,25,40.02800987
+Tyrick Mitchell,ENG,DF,Crystal Palace,Premier League,20,40.02130795
+Dani Carvajal,ESP,DF,Real Madrid,La Liga,28,40.00408181
+Ardian Ismajli,ALB,DF,Spezia,Seria A,23,39.98858942
+Luka Modrić,CRO,MF,Real Madrid,La Liga,34,39.9829266
+Cesc Fàbregas,ESP,MF,Monaco,Ligue 1,33,39.97992253
+Reinildo Mandava,MOZ,DF,Lille,Ligue 1,26,39.97759752
+Joaquín Fernández,ESP,DF,Valladolid,La Liga,24,39.96791108
+Nemanja Radoja,SRB,MF,Levante,La Liga,27,39.90083778
+Nabil Bentaleb,ALG,MF,Schalke 04,Bundesliga,25,39.87306178
+Loïc Bade,FRA,DF,Lens,Ligue 1,20,39.84556043
+Matija Nastasić,SRB,DF,Schalke 04,Bundesliga,27,39.82375884
+Benjamin Pavard,FRA,DF,Bayern Munich,Bundesliga,24,39.76163183
+Jeison Lucumí,COL,FWMF,Elche,La Liga,25,39.74311907
+Renato Sanches,POR,MF,Lille,Ligue 1,22,39.69213733
+Dan Nlundulu,ENG,FW,Southampton,Premier League,21,39.68883188
+César Azpilicueta,ESP,DF,Chelsea,Premier League,30,39.60407878
+Kevin Stöger,AUT,MFFW,Mainz 05,Bundesliga,26,39.54380842
+Daniel Ginczek,GER,FWMF,Wolfsburg,Bundesliga,29,39.49580345
+Romain Philippoteaux,FRA,FW,Nîmes,Ligue 1,32,39.48668328
+Mário Rui,POR,DF,Napoli,Seria A,29,39.4297119
+Issa Diop,FRA,DF,West Ham,Premier League,23,39.40076981
+Fernando Marçal,BRA,DF,Wolves,Premier League,31,39.38089245
+Angelo Ogbonna,ITA,DF,West Ham,Premier League,32,39.37181514
+Dani Ceballos,ESP,MF,Arsenal,Premier League,23,39.35541904
+Kurt Zouma,FRA,DF,Chelsea,Premier League,25,39.34289077
+Lucas Torreira,URU,MFFW,Atlético Madrid,La Liga,24,39.32880997
+Ibrahima Konaté,FRA,DF,RB Leipzig,Bundesliga,21,39.25207164
+Bastos,ANG,DF,Lazio,Seria A,29,39.22662919
+Sylvain Marveaux,FRA,MFFW,Lorient,Ligue 1,34,39.22054459
+Kasper Schmeichel,DEN,GK,Leicester City,Premier League,33,39.21981655
+Iván Marcone,ARG,MF,Elche,La Liga,30,39.17624559
+Willian José,BRA,FW,Real Sociedad,La Liga,28,39.17250457
+Calum Chambers,ENG,DF,Arsenal,Premier League,25,39.17062223
+Jacob Bruun Larsen,DEN,FW,Hoffenheim,Bundesliga,21,39.15481531
+Joël Matip,CMR,DF,Liverpool,Premier League,28,39.12363266
+Aaron Connolly,IRL,FW,Brighton,Premier League,20,39.085954
+Filip Malbašić,SRB,FWMF,Cádiz,La Liga,27,38.98256233
+Sven Botman,NED,DF,Lille,Ligue 1,20,38.94512386
+Antoine Valerio,FRA,MF,Nîmes,Ligue 1,20,38.93407906
+Toby Alderweireld,BEL,DF,Tottenham,Premier League,31,38.90889672
+Nils Seufert,GER,MFFW,Arminia,Bundesliga,23,38.77951732
+Cristiano Piccini,ITA,DF,Atalanta,Seria A,27,38.75762415
+Adama Soumaoro,FRA,DF,Bologna,Seria A,28,38.75568026
+Ozan Kabak,TUR,DF,Liverpool,Premier League,20,38.73715563
+Fabinho,BRA,DFMF,Liverpool,Premier League,26,38.72665506
+Ilaix,ESP,MF,Barcelona,La Liga,17,38.7187239
+Sébastien Cibois,FRA,GK,Brest,Ligue 1,22,38.66734801
+Mattia Bani,ITA,DF,Genoa,Seria A,26,38.63487228
+Bruno Guimarães,BRA,MF,Lyon,Ligue 1,22,38.62008227
+Lars Bender,GER,DF,Leverkusen,Bundesliga,31,38.55227099
+Juan Cruz Armada,ESP,DF,Osasuna,La Liga,28,38.53670852
+Christoph Kramer,GER,MF,M'Gladbach,Bundesliga,29,38.52773715
+Kortney Hause,ENG,DF,Aston Villa,Premier League,25,38.50679875
+Koray Günter,GER,DF,Hellas Verona,Seria A,25,38.46364489
+Willy Boly,CIV,DF,Wolves,Premier League,29,38.36613674
+Bandiougou Fadiga,FRA,FWMF,Paris S-G,Ligue 1,19,38.35619658
+Fernandinho,BRA,MF,Manchester City,Premier League,35,38.34649969
+Gabriele Moncini,ITA,FW,Benevento,Seria A,24,38.32255761
+Joe Bryan,ENG,DFFW,Fulham,Premier League,26,38.31052764
+Djené,TOG,DF,Getafe,La Liga,28,38.30284285
+Masaya Okugawa,JPN,MFFW,Arminia,Bundesliga,24,38.11185089
+Andrew Robertson,SCO,DF,Liverpool,Premier League,26,38.03770582
+Willi Orban,HUN,DF,RB Leipzig,Bundesliga,27,38.00710202
+Pascal Stenzel,GER,DF,Stuttgart,Bundesliga,24,37.92534092
+Yun Il-lok,KOR,MFFW,Montpellier,Ligue 1,28,37.87722237
+Joseph Aidoo,GHA,DF,Celta Vigo,La Liga,24,37.8697811
+Ibrahima Diallo,FRA,MF,Brest,Ligue 1,21,37.83960747
+Davy Klaassen,NED,MF,Werder Bremen,Bundesliga,27,37.79209938
+Loïck Landre,FRA,DF,Nîmes,Ligue 1,28,37.7735876
+José Luis Palomino,ARG,DF,Atalanta,Seria A,30,37.72822309
+Germán Sánchez,ESP,DF,Granada,La Liga,33,37.7221476
+Ștefan Radu,ROU,DF,Lazio,Seria A,33,37.51052809
+Nemanja Gudelj,SRB,MFDF,Sevilla,La Liga,28,37.44991287
+Boubakary Soumaré,FRA,MF,Lille,Ligue 1,21,37.44717752
+Pierre Kalulu,FRA,DF,Milan,Seria A,20,37.43583134
+Lamine Koné,CIV,DF,Strasbourg,Ligue 1,31,37.37703057
+Carlos Vinícius,BRA,FW,Tottenham,Premier League,25,37.35929997
+Giuseppe Di Serio,ITA,FWMF,Benevento,Seria A,19,37.32397588
+Patric,ESP,DF,Lazio,Seria A,27,37.30205346
+Dalbert Henrique,BRA,DF,Rennes,Ligue 1,26,37.19191772
+Jonathan Gradit,FRA,DF,Lens,Ligue 1,27,37.17727322
+Jacques Siwe,FRA,FW,Dijon,Ligue 1,19,37.14198301
+Hamza Choudhury,ENG,MF,Leicester City,Premier League,22,37.13989898
+Kasim Nuhu,GHA,DF,Hoffenheim,Bundesliga,25,37.04833203
+Jens Jønsson,DEN,MF,Cádiz,La Liga,27,37.04652194
+Niklas Moisander,FIN,DF,Werder Bremen,Bundesliga,34,37.01169474
+Daniel Parejo,ESP,MF,Villarreal,La Liga,31,37.0074306
+Bas Dost,NED,FW,Eint Frankfurt,Bundesliga,31,36.98209461
+Anthony Modeste,FRA,FWMF,Köln,Bundesliga,32,36.95193183
+Duje Ćaleta-Car,CRO,DF,Marseille,Ligue 1,23,36.94171109
+William Carvalho,POR,MF,Betis,La Liga,28,36.91365837
+Ahmed Kutucu,TUR,FWMF,Schalke 04,Bundesliga,20,36.80712936
+João Cancelo,POR,DF,Manchester City,Premier League,26,36.76210313
+Simon Kjær,DEN,DF,Milan,Seria A,31,36.74651472
+Toluwalas Arokodare,NGA,FW,Köln,Bundesliga,19,36.6690818
+Antonino La Gumina,ITA,FW,Sampdoria,Seria A,24,36.62180343
+Marcelo Brozović,CRO,MF,Inter,Seria A,27,36.61860289
+Idrissa Doumbia,CIV,MF,Huesca,La Liga,22,36.60499152
+Luca Cigarini,ITA,MF,Crotone,Seria A,34,36.54733339
+Kostas Manolas,GRE,DF,Napoli,Seria A,29,36.53276909
+Gabriel Silva,BRA,DF,Saint-Étienne,Ligue 1,29,36.47085551
+Wesley Hoedt,NED,DF,Lazio,Seria A,26,36.4533864
+Daniele Rugani,ITA,DF,Rennes,Ligue 1,26,36.42236793
+Dion Lopy,SEN,MF,Reims,Ligue 1,18,36.39528319
+Felipe,BRA,DF,Atlético Madrid,La Liga,31,36.21420064
+Marcos Mauro López Gutiérrez,ARG,DF,Cádiz,La Liga,29,36.20200473
+Jonny Evans,NIR,DF,Leicester City,Premier League,32,36.16696467
+John Egan,IRL,DF,Sheffield Utd,Premier League,27,36.14834615
+Thibault De Smet,BEL,DF,Reims,Ligue 1,22,36.13204716
+Yan Valery,FRA,DFMF,Southampton,Premier League,21,36.10069406
+Isco,ESP,MFFW,Real Madrid,La Liga,28,35.87765678
+Max Meyer,GER,MF,Köln,Bundesliga,24,35.87646064
+Álex Cantero,ESP,FW,Levante,La Liga,20,35.84213688
+Joshua Zirkzee,NED,FWMF,Parma,Seria A,19,35.82175836
+Liam Cooper,SCO,DF,Leeds United,Premier League,28,35.70942137
+Sergio Herrera,ESP,GK,Osasuna,La Liga,27,35.66577349
+Sebastien De Maio,FRA,DF,Udinese,Seria A,33,35.62260179
+Jordi Alba,ESP,DF,Barcelona,La Liga,31,35.5674694
+Diego Carlos,BRA,DF,Sevilla,La Liga,27,35.43712832
+Daley Sinkgraven,NED,DF,Leverkusen,Bundesliga,25,35.38716691
+Japhet Tanganga,ENG,DF,Tottenham,Premier League,21,35.30716346
+Jérôme Boateng,GER,DF,Bayern Munich,Bundesliga,31,35.26263135
+Ander Guevara,ESP,MF,Real Sociedad,La Liga,23,35.21512445
+Óscar Mingueza,ESP,DF,Barcelona,La Liga,21,35.06721937
+Ezequiel Ávila,ARG,MFFW,Osasuna,La Liga,26,34.95648533
+Eric Bailly,CIV,DF,Manchester Utd,Premier League,26,34.95458817
+Ross Barkley,ENG,MF,Chelsea,Premier League,26,34.94746661
+Ismaël Bennacer,ALG,MF,Milan,Seria A,22,34.94503708
+Rodrigo Ely,BRA,DF,Alavés,La Liga,26,34.87603974
+Fali,ESP,DFMF,Cádiz,La Liga,26,34.85989254
+Andrea Ranocchia,ITA,DF,Inter,Seria A,32,34.84385908
+Thomas Meunier,BEL,DF,Dortmund,Bundesliga,28,34.76690947
+Álvaro Giménez,ESP,FWMF,Cádiz,La Liga,29,34.72877663
+Iñigo Córdoba,ESP,FWMF,Athletic Club,La Liga,23,34.71412787
+Robin Koch,GER,DFMF,Leeds United,Premier League,24,34.6142072
+Trent Alexander-Arnold,ENG,DF,Liverpool,Premier League,21,34.5955422
+Sebastian Rode,GER,MF,Eint Frankfurt,Bundesliga,29,34.58581958
+Alessandro Deiola,ITA,MF,Spezia,Seria A,24,34.51802996
+Damien Le Tallec,FRA,MFDF,Montpellier,Ligue 1,30,34.48374171
+Rafinha,BRA,MF,Paris S-G,Ligue 1,27,34.45148667
+Erick Cabaco,URU,DF,Getafe,La Liga,25,34.42069991
+Renaud Emond,BEL,FWMF,Nantes,Ligue 1,28,34.39015775
+Andrey Galabinov,BUL,FW,Spezia,Seria A,31,34.36477546
+Aritz Elustondo,ESP,DF,Real Sociedad,La Liga,26,34.31880025
+Steffen Tigges,GER,FWDF,Dortmund,Bundesliga,22,34.31478857
+Anastasios Donis,GRE,MF,Reims,Ligue 1,23,34.30055251
+Oscar Wendt,SWE,DF,M'Gladbach,Bundesliga,34,34.29986606
+Petar Škuletić,SRB,FWMF,Montpellier,Ligue 1,30,34.25816933
+Joachim Andersen,DEN,DF,Lyon,Ligue 1,24,34.15268419
+Raúl García,ESP,FWMF,Athletic Club,La Liga,34,34.14668953
+Mexer,MOZ,DF,Bordeaux,Ligue 1,31,34.13495844
+Jorge Miramón,ESP,DF,Levante,La Liga,31,34.10246439
+Nayef Aguerd,MAR,DF,Rennes,Ligue 1,24,34.0302198
+Niklas Süle,GER,DF,Bayern Munich,Bundesliga,24,33.93069775
+Sidy Sarr,SEN,MF,Nîmes,Ligue 1,24,33.8303952
+Damien Da Silva,FRA,DF,Rennes,Ligue 1,32,33.82126701
+Merih Demiral,TUR,DF,Juventus,Seria A,22,33.72298664
+Chema,ESP,DFMF,Getafe,La Liga,28,33.70218782
+Fabio Depaoli,ITA,MF,Sampdoria,Seria A,23,33.68963806
+Anaitz Arbilla,ESP,DF,Eibar,La Liga,33,33.62796221
+Tiago Djaló,POR,DF,Lille,Ligue 1,20,33.58548728
+Víctor Rodríguez,ESP,MF,Elche,La Liga,31,33.57583045
+Pablo,BRA,DF,Bordeaux,Ligue 1,29,33.54202681
+Thilo Kehrer,GER,DF,Paris S-G,Ligue 1,23,33.52553347
+Chris Richards,USA,DF,Hoffenheim,Bundesliga,20,33.50845392
+John Boye,GHA,DF,Metz,Ligue 1,33,33.47927315
+Vlad Chiricheș,ROU,DF,Sassuolo,Seria A,30,33.43251995
+Stefan de Vrij,NED,DF,Inter,Seria A,28,33.43015848
+Noah Joel Sarenren Bazee,NGA,FWMF,Augsburg,Bundesliga,23,33.38479453
+Kevin Kampl,SVN,MF,RB Leipzig,Bundesliga,29,33.31581372
+Laurent Koscielny,FRA,DF,Bordeaux,Ligue 1,34,33.30754915
+Ľubomír Tupta,SVK,MF,Hellas Verona,Seria A,22,33.23775917
+Karim Rekik,NED,DF,Sevilla,La Liga,25,33.21509976
+Mouhamadou Drammeh,FRA,MF,Reims,Ligue 1,21,33.17379706
+Rabbi Matondo,WAL,FWMF,Schalke 04,Bundesliga,19,33.13556476
+Vicente Iborra,ESP,MF,Villarreal,La Liga,32,33.1347609
+Dilane Bakwa,FRA,FWMF,Bordeaux,Ligue 1,17,33.09288976
+David Alaba,AUT,DFMF,Bayern Munich,Bundesliga,28,33.06533335
+Kaan Ayhan,TUR,DF,Sassuolo,Seria A,25,32.96635472
+Sofian Chakla,MAR,DF,Villarreal,La Liga,26,32.84763146
+Néstor Araujo,MEX,DF,Celta Vigo,La Liga,28,32.66012029
+Pablo Hernández,ESP,MFFW,Leeds United,Premier League,35,32.63419562
+José Fonte,POR,DF,Lille,Ligue 1,36,32.5453115
+Toni Lato,ESP,DF,Valencia,La Liga,22,32.53332008
+Kalidou Koulibaly,SEN,DF,Napoli,Seria A,29,32.46405402
+Steeve-Mike Ebongue,FRA,MF,Genoa,Seria A,19,32.42285372
+Juan Foyth,ARG,DFMF,Villarreal,La Liga,22,32.37649595
+Léo Sena,BRA,MF,Spezia,Seria A,24,32.33136694
+Mario Mandžukić,CRO,FW,Milan,Seria A,34,32.25371449
+Dayot Upamecano,FRA,DF,RB Leipzig,Bundesliga,21,32.17929299
+Alphonso Davies,CAN,DF,Bayern Munich,Bundesliga,19,32.16758592
+Joshua Kimmich,GER,MF,Bayern Munich,Bundesliga,25,32.11894594
+Cristiano Piccini,ITA,DF,Valencia,La Liga,27,32.11727392
+Presnel Kimpembe,FRA,DF,Paris S-G,Ligue 1,24,32.10466805
+Rúben Dias,POR,DF,Manchester City,Premier League,23,32.08606034
+Álvaro González,ESP,DF,Marseille,Ligue 1,30,32.07773414
+José Ángel,ESP,DF,Eibar,La Liga,30,31.81294184
+Damian Kądzior,POL,FWMF,Eibar,La Liga,28,31.77614274
+Noah Fatar,FRA,FWMF,Angers,Ligue 1,18,31.70328192
+Jonas Martin,FRA,MF,Rennes,Ligue 1,30,31.6680931
+Alkhaly Momo Cissé,GUI,DFFW,Stuttgart,Bundesliga,17,31.64459275
+Jean-Clair Todibo,FRA,DF,Nice,Ligue 1,20,31.60139256
+Samuel Di Carmine,ITA,FW,Hellas Verona,Seria A,31,31.57939711
+Yvann Macon,FRA,DF,Saint-Étienne,Ligue 1,21,31.57393918
+Axel Disasi,FRA,DF,Monaco,Ligue 1,22,31.56390572
+Roberto Inglese,ITA,FW,Parma,Seria A,28,31.54967202
+Jason Denayer,BEL,DF,Lyon,Ligue 1,25,31.53493884
+Marcelo,BRA,DF,Real Madrid,La Liga,32,31.53322046
+Andreas Christensen,DEN,DF,Chelsea,Premier League,24,31.52029717
+Gian Marco Ferrari,ITA,DF,Sassuolo,Seria A,28,31.49886132
+William Saliba,FRA,DF,Nice,Ligue 1,19,31.48103328
+Alan Empereur,BRA,DF,Hellas Verona,Seria A,26,31.45940838
+Stanley N'Soki,FRA,DF,Nice,Ligue 1,21,31.45898162
+Loïc Bessile,TOG,DF,Bordeaux,Ligue 1,21,31.43847945
+Chris Smalling,ENG,DF,Roma,Seria A,30,31.36616796
+Germán Pezzella,ARG,DF,Fiorentina,Seria A,29,31.29071678
+Gaetano Berardi,SUI,DF,Leeds United,Premier League,31,31.23925757
+Giacomo Ricci,ITA,DF,Parma,Seria A,23,31.20577931
+Emre Can,GER,DFMF,Dortmund,Bundesliga,26,31.19289136
+Rayan Aït Nouri,FRA,DF,Wolves,Premier League,19,31.14542862
+Niall Huggins,WAL,DF,Leeds United,Premier League,19,31.1425988
+Douglas Costa,BRA,FWMF,Bayern Munich,Bundesliga,29,31.12375591
+Brandon Williams,ENG,DF,Manchester Utd,Premier League,19,31.10658595
+Nemanja Matić,SRB,MF,Manchester Utd,Premier League,31,31.09969013
+Jayden Braaf,NED,FW,Udinese,Seria A,17,31.09292852
+Christian Pastina,ITA,DF,Benevento,Seria A,19,31.08975983
+Philipp Bargfrede,GER,MF,Werder Bremen,Bundesliga,31,31.08594556
+Djavan Anderson,NED,DF,Lazio,Seria A,25,31.0816309
+Tuta,BRA,DF,Eint Frankfurt,Bundesliga,21,31.06211927
+Lukáš Hrádecký,FIN,GK,Leverkusen,Bundesliga,30,31.05368683
+Rubén Sobrino,ESP,MFFW,Valencia,La Liga,28,31.05297903
+Pablo Martinez,FRA,DF,Nîmes,Ligue 1,31,31.01536185
+Rayan Philippe,FRA,FW,Dijon,Ligue 1,19,30.99171861
+Rubén Pardo,ESP,MFFW,Bordeaux,Ligue 1,27,30.97832442
+Burgui,ESP,MF,Alavés,La Liga,26,30.93314833
+Stefan Ortega,GER,GK,Arminia,Bundesliga,27,30.88977789
+Mickaël Cuisance,FRA,MF,Marseille,Ligue 1,20,30.87403672
+Neco Williams,WAL,DF,Liverpool,Premier League,19,30.85427707
+Enzo Ebosse,FRA,DF,Angers,Ligue 1,21,30.84272779
+Gastón Silva,URU,DF,Huesca,La Liga,26,30.78885205
+Joan Jordán,ESP,MF,Sevilla,La Liga,26,30.74311442
+Bernardo,BRA,DFMF,Brighton,Premier League,25,30.72704279
+Jean Seri,CIV,MF,Bordeaux,Ligue 1,29,30.71673146
+Raphaël Guerreiro,POR,DF,Dortmund,Bundesliga,26,30.64568146
+Frenkie de Jong,NED,MFDF,Barcelona,La Liga,23,30.54617577
+Samy Benchama,FRA,MFDF,Montpellier,Ligue 1,20,30.53644337
+Aleksandar Radovanović,SRB,DF,Lens,Ligue 1,26,30.52322906
+Mitchel Bakker,NED,DF,Paris S-G,Ligue 1,20,30.49759573
+Adrián Marín,ESP,DFFW,Granada,La Liga,23,30.48454704
+Márton Dárdai,GER,DFMF,Hertha BSC,Bundesliga,18,30.42121372
+Jeroen Zoet,NED,GK,Spezia,Seria A,29,30.42096796
+Josep Martinez,ESP,GK,RB Leipzig,Bundesliga,22,30.34935966
+Ivan Provedel,ITA,GK,Spezia,Seria A,26,30.32517169
+Federico Ceccherini,ITA,DF,Hellas Verona,Seria A,28,30.31819534
+Jonas Michelbrink,GER,MF,Hertha BSC,Bundesliga,19,30.31397773
+Carney Chukwuemeka,ENG,FWMF,Aston Villa,Premier League,16,30.30339104
+Abdou Diallo,SEN,DF,Paris S-G,Ligue 1,24,30.29691542
+Vasilios Zagaritis,GRE,DF,Parma,Seria A,19,30.27086262
+Johannes Eggestein,GER,FWMF,Werder Bremen,Bundesliga,22,30.26900474
+Mahamadou Doucouré,MLI,FW,Nîmes,Ligue 1,20,30.25294487
+Clément Lenglet,FRA,DF,Barcelona,La Liga,25,30.2312527
+Federico Santander,PAR,FW,Bologna,Seria A,29,30.22810308
+Gerónimo Rulli,ARG,GK,Villarreal,La Liga,28,30.22599553
+Billy Gilmour,SCO,MF,Chelsea,Premier League,19,30.22477804
+Vincenzo Millico,ITA,FWMF,Torino,Seria A,19,30.2127397
+Samuel Moutoussamy,COD,FW,Nantes,Ligue 1,23,30.20691152
+Luca Siligardi,ITA,MF,Crotone,Seria A,32,30.206736
+Cristian Dell'Orco,ITA,DF,Spezia,Seria A,26,30.20165905
+Daan Dierckx,BEL,DF,Parma,Seria A,17,30.13565287
+Kiko Olivas,ESP,DFMF,Valladolid,La Liga,31,30.12839132
+Jerome Onguene,CMR,DF,Genoa,Seria A,22,30.08697046
+Rúnar Alex Rúnarsson,ISL,GK,Arsenal,Premier League,25,30.0841184
+Simone Rabbi,ITA,FW,Bologna,Seria A,18,30.08389527
+Georginio Rutter,FRA,FW,Hoffenheim,Bundesliga,18,30.03731852
+Thiago Alcántara,ESP,MF,Liverpool,Premier League,29,30.01916119
+Sergio Ramos,ESP,DF,Real Madrid,La Liga,34,30.01058794
+Moise Kean,ITA,FW,Everton,Premier League,20,29.98698907
+Mattia Caldara,ITA,DF,Atalanta,Seria A,26,29.97302306
+Manuel Sánchez,ESP,DF,Osasuna,La Liga,19,29.94622351
+Samuel Di Carmine,ITA,FW,Crotone,Seria A,31,29.93651664
+Tiago Dantas,POR,MF,Bayern Munich,Bundesliga,19,29.90914753
+Luca Kilian,GER,DF,Mainz 05,Bundesliga,20,29.88212995
+Zinédine Ould Khaled,FRA,MF,Angers,Ligue 1,20,29.78994588
+Elio Capradossi,ITA,DF,Spezia,Seria A,24,29.78141201
+Marek Suchý,CZE,DF,Augsburg,Bundesliga,32,29.77876034
+Joscha Wosz,GER,DFFW,RB Leipzig,Bundesliga,18,29.77613155
+Álvaro Tejero,ESP,DF,Eibar,La Liga,24,29.77235089
+Oliver Baumann,GER,GK,Hoffenheim,Bundesliga,30,29.75952734
+Islam Slimani,ALG,FW,Leicester City,Premier League,32,29.73712431
+Jack O'Connell,ENG,DF,Sheffield Utd,Premier League,26,29.71407182
+Angelo da Costa Júnior,BRA,GK,Bologna,Seria A,36,29.69805408
+Jean Lucas,BRA,MF,Lyon,Ligue 1,22,29.69742252
+Fabio Pisacane,ITA,DF,Cagliari,Seria A,34,29.69488141
+Kuki,ESP,MF,Valladolid,La Liga,22,29.6947406
+Ahmed Hegazi,EGY,DF,West Brom,Premier League,29,29.68626237
+Mateo Pavlović,BIH,DF,Angers,Ligue 1,30,29.64922886
+Guillermo Maripán,CHI,DF,Monaco,Ligue 1,26,29.6430437
+Roberto Navarro,ESP,MF,Real Sociedad,La Liga,18,29.54368942
+Niklas Lomb,GER,GK,Leverkusen,Bundesliga,27,29.54120566
+Joe Rodon,WAL,DF,Tottenham,Premier League,22,29.50601444
+Jan Morávek,CZE,MF,Augsburg,Bundesliga,30,29.47687259
+Issah Abbas,GHA,DFFW,Mainz 05,Bundesliga,21,29.44497396
+Santiago Arias,COL,DF,Leverkusen,Bundesliga,28,29.40758114
+Justin Kluivert,NED,FW,RB Leipzig,Bundesliga,21,29.33415252
+Sergio Arribas,ESP,FWDF,Real Madrid,La Liga,18,29.31550453
+Hicham Mahou,FRA,DF,Nice,Ligue 1,21,29.30267544
+Oussama Idrissi,MAR,FWMF,Sevilla,La Liga,24,29.19898518
+Sami Ben Amar,MAR,MF,Nîmes,Ligue 1,22,29.1939939
+Álex Martín,ESP,DF,Cádiz,La Liga,22,29.18690446
+Álvaro Bravo,ESP,MF,Granada,La Liga,22,29.17213472
+Mattia De Sciglio,ITA,DF,Lyon,Ligue 1,27,29.17081675
+Stanislav Lobotka,SVK,MF,Napoli,Seria A,25,29.16207231
+Djamel Benlamri,ALG,DF,Lyon,Ligue 1,30,29.1199605
+Danilo Pereira,POR,MFDF,Paris S-G,Ligue 1,28,29.06624992
+Yann Sommer,SUI,GK,M'Gladbach,Bundesliga,31,28.97258839
+Mats Hummels,GER,DF,Dortmund,Bundesliga,31,28.95239765
+Clément Vidal,FRA,DF,Montpellier,Ligue 1,20,28.94895004
+Francisco Reis Ferreira,POR,DF,Valencia,La Liga,23,28.94106882
+Exequiel Palacios,ARG,MF,Leverkusen,Bundesliga,21,28.92161229
+Kastriot Dermaku,ALB,DF,Parma,Seria A,28,28.90713397
+Junior Firpo,ESP,DF,Barcelona,La Liga,23,28.8741587
+Diego Llorente,ESP,DF,Real Sociedad,La Liga,26,28.86300751
+Yann Bodiger,FRA,MF,Cádiz,La Liga,25,28.85360445
+Paolo Faragò,ITA,DFMF,Cagliari,Seria A,27,28.78821937
+Joachim Andersen,DEN,DF,Fulham,Premier League,24,28.76805983
+Vasco Regini,ITA,DF,Sampdoria,Seria A,29,28.75604096
+Ahmad Ngouyamsa,CMR,DF,Dijon,Ligue 1,19,28.64382297
+Musa Juwara,GAM,DF,Bologna,Seria A,18,28.63604481
+Thomas Strakosha,ALB,GK,Lazio,Seria A,25,28.61704195
+Iliman Ndiaye,FRA,MF,Sheffield Utd,Premier League,21,28.61679679
+Sabit Abdulai,GHA,MF,Getafe,La Liga,21,28.59960504
+Tyron Tormin,FRA,MFFW,Saint-Étienne,Ligue 1,19,28.56916632
+Nano,ESP,FW,Cádiz,La Liga,25,28.40885739
+Robert Sánchez,ESP,GK,Brighton,Premier League,22,28.39205002
+Marvin,ESP,DFFW,Real Madrid,La Liga,20,28.38369041
+Lorenzo Colombo,ITA,FW,Milan,Seria A,18,28.35440558
+Hamadi Al Ghaddioui,MAR,FWMF,Stuttgart,Bundesliga,29,28.34746271
+Nicolò Armini,ITA,DF,Lazio,Seria A,19,28.30228944
+Tim Civeja,GER,MFDF,Augsburg,Bundesliga,18,28.23955337
+Caleb Watts,AUS,MFFW,Southampton,Premier League,18,28.22492285
+David García,ESP,DF,Osasuna,La Liga,26,28.1387441
+Koba Koindredi,FRA,MF,Valencia,La Liga,18,28.12481861
+Mikail Maden,NOR,FW,Schalke 04,Bundesliga,18,28.11285442
+Neil Taylor,WAL,DF,Aston Villa,Premier League,31,28.1036044
+Kevin Vogt,GER,DF,Hoffenheim,Bundesliga,28,28.07663801
+Ramon Azeez,NGA,MFDF,Granada,La Liga,27,27.97098501
+Giorgio Chiellini,ITA,DF,Juventus,Seria A,35,27.95172174
+Dario Maresic,AUT,DF,Reims,Ligue 1,20,27.95157462
+Marlon,BRA,DF,Sassuolo,Seria A,24,27.88132835
+Mark Flekken,NED,GK,Freiburg,Bundesliga,27,27.87578978
+Nehuén Pérez,ARG,DF,Granada,La Liga,20,27.86271838
+Terence Kongolo,NED,DF,Fulham,Premier League,26,27.85146086
+Elias Bördner,GER,GK,Eint Frankfurt,Bundesliga,18,27.82743942
+Jeff Reine-Adélaïde,FRA,FW,Lyon,Ligue 1,22,27.79374127
+Kepa Arrizabalaga,ESP,GK,Chelsea,Premier League,25,27.79056571
+Patrick Cutrone,ITA,FW,Valencia,La Liga,22,27.77316773
+Mathys Saban,FRA,FW,Saint-Étienne,Ligue 1,18,27.71056993
+Carlos Dominguez,ESP,DF,Celta Vigo,La Liga,19,27.68414766
+Lennart Grill,GER,GK,Leverkusen,Bundesliga,21,27.67981471
+Illan Meslier,FRA,GK,Leeds United,Premier League,20,27.66689485
+Gianluigi Buffon,ITA,GK,Juventus,Seria A,42,27.65189705
+Kevin Trapp,GER,GK,Eint Frankfurt,Bundesliga,30,27.61050076
+Mahame Siby,MLI,MFFW,Strasbourg,Ligue 1,24,27.59998826
+Miguel Ángel Rubio,ESP,DF,Valladolid,La Liga,22,27.59192586
+John Stones,ENG,DF,Manchester City,Premier League,26,27.58727253
+Robert Snodgrass,SCO,FWDF,West Ham,Premier League,32,27.57927299
+Rafael,BRA,GK,Spezia,Seria A,38,27.52641378
+Mathew Ryan,AUS,GK,Brighton,Premier League,28,27.51971509
+Alfred Duncan,GHA,MF,Fiorentina,Seria A,27,27.47923815
+Amir Abrashi,ALB,MFDF,Freiburg,Bundesliga,30,27.47178687
+Denis Vavro,SVK,DF,Lazio,Seria A,24,27.46406615
+Kevin Long,IRL,DF,Burnley,Premier League,29,27.39641607
+Augustus Kargbo,SLE,FW,Crotone,Seria A,20,27.38001859
+Batista Mendy,FRA,MF,Nantes,Ligue 1,20,27.33440154
+Sead Kolašinac,BIH,DF,Arsenal,Premier League,27,27.31959205
+Vitolo,ESP,MFFW,Atlético Madrid,La Liga,30,27.31655415
+Drissa Camara,CIV,MF,Parma,Seria A,18,27.3147766
+Phil Jagielka,ENG,DF,Sheffield Utd,Premier League,37,27.30343887
+Mamadou Coulibaly,SEN,MF,Udinese,Seria A,21,27.20480922
+Yoann Etienne,FRA,DF,Lorient,Ligue 1,23,27.20056525
+Matteo Scozzarella,ITA,MF,Parma,Seria A,32,27.19968338
+Davinson Sánchez,COL,DF,Tottenham,Premier League,24,27.16746606
+Manuel Perez,FRA,MF,Lens,Ligue 1,29,27.15400629
+Tomás Tavares,POR,MFDF,Alavés,La Liga,19,27.13639249
+Andrea Consigli,ITA,GK,Sassuolo,Seria A,33,27.12403894
+László Bénes,SVK,MF,M'Gladbach,Bundesliga,22,27.12328012
+Virgil van Dijk,NED,DF,Liverpool,Premier League,29,27.08061986
+Leif Davis,ENG,DF,Leeds United,Premier League,20,27.02447122
+Ronaldo Vieira,GNB,MFDF,Hellas Verona,Seria A,22,26.93745351
+Botond Balogh,HUN,DF,Parma,Seria A,18,26.90596741
+Fabio Depaoli,ITA,DF,Benevento,Seria A,23,26.90154858
+Aleix Vidal,ESP,DF,Sevilla,La Liga,30,26.90093776
+Romain Amalfitano,FRA,FWDF,Dijon,Ligue 1,30,26.88384447
+Gian Crespi,ITA,GK,Crotone,Seria A,19,26.82917521
+Baptiste Gabard,FRA,MF,Saint-Étienne,Ligue 1,20,26.81711197
+Unai Dufur,ESP,DF,Eibar,La Liga,21,26.81061826
+Rachid Alioui,MAR,FW,Angers,Ligue 1,28,26.76334251
+Péter Gulácsi,HUN,GK,RB Leipzig,Bundesliga,30,26.75901694
+Nieto,ESP,FWMF,Cádiz,La Liga,22,26.75734849
+Maximiliano Olivera,URU,DF,Fiorentina,Seria A,28,26.74802597
+Axel Tuanzebe,ENG,DF,Manchester Utd,Premier League,22,26.74050437
+Predrag Rajković,SRB,GK,Reims,Ligue 1,24,26.73351448
+Mattéo Tramoni,FRA,FWMF,Cagliari,Seria A,20,26.69113082
+Chrislain Matsima,FRA,DF,Monaco,Ligue 1,18,26.67317953
+Fabian Bredlow,GER,GK,Stuttgart,Bundesliga,25,26.66788425
+Frederik Rønnow,DEN,GK,Schalke 04,Bundesliga,27,26.64714252
+Alessandro Buongiorno,ITA,DF,Torino,Seria A,21,26.64238962
+Matteo Gabbia,ITA,DF,Milan,Seria A,20,26.63454219
+Giovanni Crociata,ITA,MFDF,Crotone,Seria A,22,26.63438067
+Maximilian Beier,GER,FWDF,Hoffenheim,Bundesliga,17,26.59217957
+John Donald,ESP,DFFW,Elche,La Liga,19,26.58384578
+Sergio Asenjo,ESP,GK,Villarreal,La Liga,31,26.5771507
+Raúl Navas,ESP,DF,Osasuna,La Liga,32,26.56495728
+Kyle Walker,ENG,DF,Manchester City,Premier League,30,26.55021035
+Luca Mack,GER,MF,Stuttgart,Bundesliga,20,26.53292098
+Oriol Rey,ESP,MF,Valladolid,La Liga,22,26.52414206
+Petar Mićin,SRB,MF,Udinese,Seria A,21,26.50924072
+Philipp Pentke,GER,GK,Hoffenheim,Bundesliga,35,26.47679482
+Sekou Mara,FRA,FW,Bordeaux,Ligue 1,18,26.44593757
+Sergi García,ESP,MF,Alavés,La Liga,21,26.44042075
+Thibaut Courtois,BEL,GK,Real Madrid,La Liga,28,26.41336942
+Édgar Badía,ESP,GK,Elche,La Liga,28,26.403068
+Erwan Belhadji,FRA,MF,Dijon,Ligue 1,19,26.39365313
+Marwin Hitz,SUI,GK,Dortmund,Bundesliga,32,26.37159719
+Federico Marchetti,ITA,GK,Genoa,Seria A,37,26.36598884
+Radosław Majecki,POL,GK,Monaco,Ligue 1,20,26.35489358
+Louis Beyer,GER,DF,M'Gladbach,Bundesliga,20,26.35058724
+Augusto Fernández,ARG,MF,Cádiz,La Liga,34,26.34320398
+Álvaro Fernández,ESP,GK,Huesca,La Liga,22,26.31649574
+Rubén Blanco,ESP,GK,Celta Vigo,La Liga,25,26.30247901
+Miguel Rodríguez,ESP,FWMF,Celta Vigo,La Liga,17,26.28360359
+Davide Angelo Ghislandi,ITA,DF,Atalanta,Seria A,19,26.21165336
+Neto,BRA,GK,Barcelona,La Liga,31,26.18911124
+Sami Khedira,GER,MF,Hertha BSC,Bundesliga,33,26.15644781
+Pablo Insua,ESP,DF,Huesca,La Liga,26,26.13895479
+Andreas Luthe,GER,GK,Union Berlin,Bundesliga,33,26.085933
+Sergio Postigo,ESP,DF,Levante,La Liga,31,26.0796503
+John Joe,IRL,MFDF,Getafe,La Liga,16,26.07910512
+Benjamin Lecomte,FRA,GK,Monaco,Ligue 1,29,26.05579401
+Roman Bürki,SUI,GK,Dortmund,Bundesliga,29,26.03252539
+Mauro Icardi,ARG,FW,Paris S-G,Ligue 1,27,26.02372948
+Jacob Barrett Laursen,DEN,DF,Arminia,Bundesliga,25,26.02305427
+Dale Stephens,ENG,MF,Burnley,Premier League,31,26.01120625
+Mateu Morey,ESP,DF,Dortmund,Bundesliga,20,26.008216
+Mateo Musacchio,ARG,DF,Lazio,Seria A,29,26.00415079
+Christian Oliva,URU,MF,Cagliari,Seria A,24,25.95823273
+Tobias Sippel,GER,GK,M'Gladbach,Bundesliga,32,25.95169347
+Odion Ighalo,NGA,FW,Manchester Utd,Premier League,31,25.94757465
+Karlo Letica,CRO,GK,Sampdoria,Seria A,23,25.9246215
+Carlo Pinsoglio,ITA,GK,Juventus,Seria A,30,25.91422741
+Federico Ravaglia,ITA,GK,Bologna,Seria A,20,25.9136875
+Romain Salin,FRA,GK,Rennes,Ligue 1,36,25.88915059
+Ruben Loftus-Cheek,ENG,FW,Chelsea,Premier League,24,25.88285016
+Pau López,ESP,GK,Roma,Seria A,25,25.874814
+Francis Coquelin,FRA,MF,Villarreal,La Liga,29,25.83788771
+Luka Jović,SRB,FWMF,Real Madrid,La Liga,22,25.82335004
+Pavao Pervan,AUT,GK,Wolfsburg,Bundesliga,32,25.79830393
+Ralf Fährmann,GER,GK,Schalke 04,Bundesliga,31,25.78602018
+Stephane Keller,CMR,DF,Alavés,La Liga,18,25.73828914
+Ridle Baku,GER,DF,Mainz 05,Bundesliga,22,25.71123436
+Jordan Pickford,ENG,GK,Everton,Premier League,26,25.70567047
+Oleksandr Zinchenko,UKR,DF,Manchester City,Premier League,23,25.70198724
+Urko González,ESP,MF,Real Sociedad,La Liga,19,25.66372554
+Yunus Mallı,TUR,MF,Wolfsburg,Bundesliga,28,25.66306773
+Tim Siersleben,GER,DF,Wolfsburg,Bundesliga,20,25.62044165
+Andrea Danzi,ITA,MFDF,Hellas Verona,Seria A,21,25.61177647
+Maxime Le Marchand,FRA,DF,Fulham,Premier League,30,25.59007391
+Riccardo Calafiori,ITA,DF,Roma,Seria A,18,25.54558307
+Josip Stanišić,CRO,DF,Bayern Munich,Bundesliga,20,25.52510692
+Valentin Antov,BUL,DF,Bologna,Seria A,19,25.48444994
+Jonjoe Kenny,ENG,DFFW,Everton,Premier League,23,25.48391784
+Vanja Milinković-Savić,SRB,GK,Torino,Seria A,23,25.47737458
+Łukasz Skorupski,POL,GK,Bologna,Seria A,29,25.46069158
+Sacha Boey,FRA,DF,Rennes,Ligue 1,19,25.4469008
+Flavius Daniliuc,AUT,DF,Nice,Ligue 1,19,25.43856023
+Mamadou Fofana,MLI,MFDF,Metz,Ligue 1,22,25.42363846
+Marc-André ter Stegen,GER,GK,Barcelona,La Liga,28,25.40655592
+Alexander Nübel,GER,GK,Bayern Munich,Bundesliga,23,25.39777684
+Andi Zeqiri,SUI,FWDF,Brighton,Premier League,21,25.39443787
+Frederik Sørensen,DEN,DFMF,Köln,Bundesliga,28,25.39019367
+Yoel,ESP,GK,Eibar,La Liga,31,25.32522715
+Marco Festa,ITA,GK,Crotone,Seria A,28,25.31397922
+Adrien Louveau,FRA,DF,Lens,Ligue 1,20,25.27542774
+Bernd Leno,GER,GK,Arsenal,Premier League,28,25.27078215
+Cárdenas,ESP,GK,Levante,La Liga,23,25.22094478
+Dimitry Bertaud,FRA,GK,Montpellier,Ligue 1,22,25.20210364
+Ron-Robert Zieler,GER,GK,Köln,Bundesliga,31,25.18094026
+Paolo Bartolomei,ITA,MF,Spezia,Seria A,30,25.17409072
+Jorge Meré,ESP,DF,Köln,Bundesliga,23,25.15927646
+Adrián,ESP,GK,Liverpool,Premier League,33,25.11975094
+Rober,ESP,DFMF,Levante,La Liga,25,25.10459894
+Faouzi Ghoulam,ALG,DFFW,Napoli,Seria A,29,25.06413342
+Josuha Guilavogui,FRA,MFDF,Wolfsburg,Bundesliga,29,24.93250037
+Mateo Musacchio,ARG,DF,Milan,Seria A,29,24.93161984
+Marcin Bułka,POL,GK,Paris S-G,Ligue 1,20,24.91810005
+Phil Bardsley,SCO,DF,Burnley,Premier League,35,24.83493631
+Aleksandr Kokorin,RUS,FWMF,Fiorentina,Seria A,29,24.8292497
+Aritz Arambarri,ESP,DF,Real Sociedad,La Liga,22,24.81886473
+Fraser Hornby,SCO,FW,Reims,Ligue 1,20,24.81505669
+Isma Ruiz,ESP,MF,Granada,La Liga,19,24.78145176
+James Tomkins,ENG,DF,Crystal Palace,Premier League,31,24.76591065
+Antonio Mirante,ITA,GK,Roma,Seria A,37,24.76546803
+Edgar Sevikyan,RUS,MF,Levante,La Liga,18,24.75930822
+Javi Sánchez,ESP,DF,Valladolid,La Liga,23,24.72088337
+Francesco Acerbi,ITA,DF,Lazio,Seria A,32,24.71891805
+Rune Jarstein,NOR,GK,Hertha BSC,Bundesliga,35,24.70410569
+Heriberto Tavares,POR,MFFW,Brest,Ligue 1,23,24.68145182
+Klauss,BRA,FWDF,Hoffenheim,Bundesliga,23,24.63464788
+Sergio González,ESP,MFDF,Cádiz,La Liga,23,24.63394862
+Pedro Alcalá,ESP,DF,Cádiz,La Liga,31,24.60079709
+Michael Hector,JAM,DF,Fulham,Premier League,28,24.55099404
+Emerson Palmieri,ITA,DF,Chelsea,Premier League,25,24.5213825
+Miguel Atienza,ESP,MF,Eibar,La Liga,21,24.52079624
+Brian Behrendt,GER,DF,Arminia,Bundesliga,28,24.45835917
+Ricard,ESP,DF,Atlético Madrid,La Liga,20,24.44862609
+Márk Kosznovszky,HUN,MF,Parma,Seria A,18,24.41776862
+Djibril Sidibé,FRA,DF,Monaco,Ligue 1,28,24.3543339
+Ederson,BRA,GK,Manchester City,Premier League,26,24.35207405
+Stefan Bajic,FRA,GK,Saint-Étienne,Ligue 1,18,24.31919134
+Bandiougou Fadiga,FRA,MF,Brest,Ligue 1,19,24.28737424
+Luismi,ESP,MFDF,Elche,La Liga,28,24.24404578
+Theo Corbeanu,CAN,FW,Wolves,Premier League,18,24.22717044
+Emil Audero,ITA,GK,Sampdoria,Seria A,23,24.2221853
+Marco Höger,GER,DFMF,Köln,Bundesliga,30,24.18345563
+Borja Mayoral,ESP,FW,Roma,Seria A,23,24.10134125
+Gabriel Veiga,ESP,MFDF,Celta Vigo,La Liga,18,24.10063307
+Walter Benítez,ARG,GK,Nice,Ligue 1,27,24.07944679
+William Smallbone,IRL,MF,Southampton,Premier League,20,24.00446197
+Tachi,ESP,DF,Alavés,La Liga,22,24.00386918
+Mattia Perin,ITA,GK,Genoa,Seria A,27,23.99073149
+Stefano Denswil,NED,DF,Bologna,Seria A,27,23.98091818
+Matthew Longstaff,ENG,MF,Newcastle Utd,Premier League,20,23.95675178
+Javi Moyano,ESP,DF,Valladolid,La Liga,34,23.93591846
+Chimuanya Ugochukwu,FRA,MF,Rennes,Ligue 1,16,23.92300085
+Ionuț Radu,ROU,GK,Inter,Seria A,23,23.91069918
+Rekeem Harper,ENG,MF,West Brom,Premier League,20,23.87129254
+Martin Dúbravka,SVK,GK,Newcastle Utd,Premier League,31,23.8687863
+Jake Vokins,ENG,DF,Southampton,Premier League,20,23.86139613
+Ebrima Darboe,GAM,MF,Roma,Seria A,19,23.85646843
+Florian Müller,GER,GK,Freiburg,Bundesliga,22,23.82692077
+Koen Casteels,BEL,GK,Wolfsburg,Bundesliga,28,23.82662867
+Aitor Fernández,ESP,GK,Levante,La Liga,29,23.75028131
+Nassim Chadli,FRA,FWMF,Nîmes,Ligue 1,19,23.72037297
+Vito Mannone,ITA,GK,Monaco,Ligue 1,32,23.69747317
+Percy Tau,RSA,FWMF,Brighton,Premier League,26,23.68118319
+Pepe Reina,ESP,GK,Lazio,Seria A,37,23.67941103
+Thiago Silva,BRA,DF,Chelsea,Premier League,35,23.62058851
+Emiliano Martínez,ARG,GK,Aston Villa,Premier League,27,23.60939456
+Nico Schulz,GER,DF,Dortmund,Bundesliga,27,23.58966889
+Luiz Felipe,BRA,DF,Lazio,Seria A,23,23.58011319
+Niklas Tauer,GER,MFDF,Mainz 05,Bundesliga,19,23.55316095
+Bilal Benkhedim,FRA,FW,Saint-Étienne,Ligue 1,19,23.52674193
+Demarai Gray,ENG,FW,Leicester City,Premier League,24,23.52504658
+Mamadou Sakho,FRA,DF,Crystal Palace,Premier League,30,23.51633181
+Habib Keita,MLI,MF,Lyon,Ligue 1,18,23.48450026
+Samir Handanović,SVN,GK,Inter,Seria A,36,23.46584161
+Alessandro Di Pardo,ITA,MFDF,Juventus,Seria A,21,23.46104717
+Abdallahi Mahmoud,MTN,MF,Alavés,La Liga,20,23.45887641
+Fabian Delph,ENG,MFDF,Everton,Premier League,30,23.44632471
+Luisinho,POR,DF,Huesca,La Liga,35,23.38876257
+Rafał Gikiewicz,POL,GK,Augsburg,Bundesliga,32,23.3838085
+Bouna Sarr,SEN,DF,Bayern Munich,Bundesliga,28,23.37895002
+Manuel Locatelli,ITA,MF,Sassuolo,Seria A,22,23.36501908
+Kiko Casilla,ESP,GK,Leeds United,Premier League,33,23.35115135
+Niccolò Manfredini,ITA,GK,Benevento,Seria A,32,23.26538135
+Sacha Delaye,FRA,MF,Montpellier,Ligue 1,18,23.24428295
+Dante,BRA,DF,Nice,Ligue 1,36,23.24083507
+Alfred Gomis,SEN,GK,Rennes,Ligue 1,26,23.22188593
+Nikola Maksimović,SRB,DF,Napoli,Seria A,28,23.22091105
+Loris Mouyokolo,CGO,DF,Lorient,Ligue 1,19,23.21613646
+Alberto Paleari,ITA,GK,Genoa,Seria A,27,23.1770106
+Baptiste Reynet,FRA,GK,Nîmes,Ligue 1,29,23.16162157
+Christophe Hérelle,MTQ,DF,Brest,Ligue 1,27,23.16002343
+Ismael Aaneba,FRA,FWDF,Strasbourg,Ligue 1,21,23.1510462
+Marco Bertini,ITA,MF,Lazio,Seria A,17,23.1510462
+Nathaniel Phillips,ENG,DF,Liverpool,Premier League,23,23.14409847
+Adrián Marín,ESP,DFMF,Alavés,La Liga,23,23.14164717
+Caoimhín Kelleher,IRL,GK,Liverpool,Premier League,21,23.12775729
+Tomáš Vaclík,CZE,GK,Sevilla,La Liga,31,23.12606619
+Jesús Vallejo,ESP,DF,Granada,La Liga,23,23.12222818
+Iñigo Córdoba,ESP,MF,Alavés,La Liga,23,23.11470102
+Alex Cordaz,ITA,GK,Crotone,Seria A,37,23.11313896
+Fede San Emeterio,ESP,MF,Valladolid,La Liga,23,23.10236805
+Edouard Mendy,SEN,GK,Chelsea,Premier League,28,23.09699811
+Tristan Dingomé,CMR,MF,Reims,Ligue 1,29,23.0916669
+Edoardo Vergani,ITA,FW,Bologna,Seria A,19,23.08601103
+Lautaro Valenti,ARG,DF,Parma,Seria A,21,23.08301293
+Hamza Mendyl,MAR,FWDF,Schalke 04,Bundesliga,22,23.05610226
+Ander Herrera,ESP,MF,Paris S-G,Ligue 1,30,23.02617718
+Jesé,ESP,FW,Paris S-G,Ligue 1,27,22.99791107
+Cenk Tosun,TUR,FW,Everton,Premier League,29,22.98666544
+Danilo,BRA,DF,Juventus,Seria A,29,22.96603671
+Manuel Neuer,GER,GK,Bayern Munich,Bundesliga,34,22.95816202
+Jonathan Tah,GER,DF,Leverkusen,Bundesliga,24,22.9260472
+Marcel Halstenberg,GER,DF,RB Leipzig,Bundesliga,28,22.91541334
+Nolan Roux,FRA,FW,Nîmes,Ligue 1,32,22.87669678
+Timo Horn,GER,GK,Köln,Bundesliga,27,22.86283581
+Luigi Sepe,ITA,GK,Parma,Seria A,29,22.83473579
+Daniel Fuzato,BRA,GK,Roma,Seria A,23,22.75641321
+Habib Diallo,SEN,FW,Metz,Ligue 1,25,22.74797867
+Daniele Rugani,ITA,DF,Cagliari,Seria A,26,22.68953176
+Tim Maciejewski,GER,MF,Union Berlin,Bundesliga,19,22.66041311
+Dominik Kohr,GER,MFFW,Eint Frankfurt,Bundesliga,26,22.65041629
+Jessy Moulin,FRA,GK,Saint-Étienne,Ligue 1,34,22.60148839
+José Antonio Miranda,EQG,MFDF,Getafe,La Liga,22,22.54019688
+Miguel Gutiérrez,ESP,DF,Real Madrid,La Liga,19,22.53158644
+Jorginho,ITA,MF,Chelsea,Premier League,28,22.5182828
+Michael Obafemi,IRL,FW,Southampton,Premier League,20,22.50965286
+Salvatore Sirigu,ITA,GK,Torino,Seria A,33,22.49199525
+Dan-Axel Zagadou,FRA,DF,Dortmund,Bundesliga,21,22.48716816
+Lorenzo Montipò,ITA,GK,Benevento,Seria A,24,22.48347854
+Víctor Ruiz,ESP,DF,Betis,La Liga,31,22.4163922
+Florian Flick,GER,MF,Schalke 04,Bundesliga,20,22.41603387
+Jan Luca Schuler,GER,FW,Schalke 04,Bundesliga,21,22.35299941
+Nishan Burkart,SUI,MF,Freiburg,Bundesliga,20,22.32949015
+Sidnei Tavares,POR,MF,Leicester City,Premier League,18,22.30256053
+Gregor Kobel,SUI,GK,Stuttgart,Bundesliga,22,22.28750229
+Fikayo Tomori,ENG,DF,Chelsea,Premier League,22,22.27708382
+Bingourou Kamara,SEN,GK,Strasbourg,Ligue 1,23,22.25965205
+Iván Villar,ESP,GK,Celta Vigo,La Liga,23,22.25797983
+Alfred Gomis,SEN,GK,Dijon,Ligue 1,26,22.24396036
+Marco Sportiello,ITA,GK,Atalanta,Seria A,28,22.20988688
+Juan Brunet,ARG,MF,Granada,La Liga,22,22.18248976
+Kamil Grosicki,POL,FWMF,West Brom,Premier League,32,22.16577745
+Sidnei,BRA,DF,Betis,La Liga,30,22.15103918
+Samir Ujkani,KVX,GK,Torino,Seria A,32,22.13953699
+Jordan Holsgrove,SCO,MF,Celta Vigo,La Liga,20,22.08623998
+Marc Cardona,ESP,FWMF,Osasuna,La Liga,25,22.08384057
+Panagiotis Retsos,GRE,DF,Saint-Étienne,Ligue 1,21,22.07108945
+Pablo Marí,ESP,DF,Arsenal,Premier League,26,22.06867318
+Finn Dahmen,GER,GK,Mainz 05,Bundesliga,22,22.03960429
+Aridane Hernández,EQG,DF,Osasuna,La Liga,31,22.03796757
+Marvin Tshibuabua,FRA,DF,Saint-Étienne,Ligue 1,18,22.03096769
+Unai García,ESP,DF,Osasuna,La Liga,28,21.93308575
+Joel Mumbongo,SWE,FW,Burnley,Premier League,21,21.92861151
+Emmanuel Amankwaa Akurugu,GHA,DF,Getafe,La Liga,18,21.9201095
+Héctor Herrera,MEX,MF,Atlético Madrid,La Liga,30,21.91562192
+Gautier Larsonneur,FRA,GK,Brest,Ligue 1,23,21.90883277
+Francesco Magnanelli,ITA,MF,Sassuolo,Seria A,35,21.90627938
+Alexander Schwolow,GER,GK,Hertha BSC,Bundesliga,28,21.89198441
+Christopher Scott,GER,FW,Bayern Munich,Bundesliga,18,21.82601967
+Zack Steffen,USA,GK,Manchester City,Premier League,25,21.81783004
+Cheick Souaré,FRA,MF,Marseille,Ligue 1,17,21.80785397
+David Ospina,COL,GK,Napoli,Seria A,31,21.76985811
+Víctor Chust,ESP,DF,Real Madrid,La Liga,20,21.7400805
+Giorgi Kochorashvili,GEO,MF,Levante,La Liga,21,21.73571121
+Kayne Ramsey,ENG,DF,Southampton,Premier League,19,21.63698768
+Ciprian Tătărușanu,ROU,GK,Milan,Seria A,34,21.63233001
+Gary Medel,CHI,DFMF,Bologna,Seria A,32,21.60494722
+Kevin Rüegg,SUI,DFMF,Hellas Verona,Seria A,21,21.50143377
+Bartłomiej Drągowski,POL,GK,Fiorentina,Seria A,22,21.39738808
+Alex Meret,ITA,GK,Napoli,Seria A,23,21.38409321
+Gianluigi Donnarumma,ITA,GK,Milan,Seria A,21,21.333469
+Steve Mandanda,FRA,GK,Marseille,Ligue 1,35,21.32661123
+Manuel Akanji,SUI,DF,Dortmund,Bundesliga,25,21.2198883
+Joel Robles,ESP,GK,Betis,La Liga,30,21.18287496
+Lauti,URU,MFFW,Celta Vigo,La Liga,19,21.1662401
+João Virgínia,POR,GK,Everton,Premier League,20,21.1463907
+Benoît Badiashile,FRA,DF,Monaco,Ligue 1,19,21.14189515
+Alphonse Areola,FRA,GK,Fulham,Premier League,27,21.13368209
+Nico Williams,ESP,MF,Athletic Club,La Liga,18,21.10790978
+Kenny Tete,NED,DF,Lyon,Ligue 1,24,20.98943109
+Ji Dong-won,KOR,FWDF,Mainz 05,Bundesliga,29,20.97556264
+Yassin Fortune,FRA,FW,Angers,Ligue 1,21,20.90030531
+Martin Ødegaard,NOR,MFFW,Real Madrid,La Liga,21,20.88752121
+Wojciech Szczęsny,POL,GK,Juventus,Seria A,30,20.82821336
+Wes Morgan,JAM,DF,Leicester City,Premier League,36,20.82575103
+Sergi Gómez,ESP,DF,Sevilla,La Liga,28,20.79601336
+Rocco Reitz,GER,MF,M'Gladbach,Bundesliga,18,20.7814725
+Sebastian Rudy,GER,DF,Schalke 04,Bundesliga,30,20.74668966
+Andrés Fernández,ESP,GK,Huesca,La Liga,33,20.73454472
+Fraser Forster,ENG,GK,Southampton,Premier League,32,20.72546626
+Edouard Mendy,SEN,GK,Rennes,Ligue 1,28,20.70095335
+Gerard Piqué,ESP,DF,Barcelona,La Liga,33,20.6651281
+Fernando Pacheco,ESP,GK,Alavés,La Liga,28,20.64283208
+Lee Peltier,ENG,DF,West Brom,Premier League,33,20.57319281
+Alessio Cragno,ITA,GK,Cagliari,Seria A,26,20.53470695
+Benoît Costil,FRA,GK,Bordeaux,Ligue 1,33,20.50696383
+Jasper Cillessen,NED,GK,Valencia,La Liga,31,20.50691225
+Marc Roca,ESP,MF,Bayern Munich,Bundesliga,23,20.46514286
+Michael Langer,AUT,GK,Schalke 04,Bundesliga,35,20.46402261
+Amad Diallo,CIV,MF,Atalanta,Seria A,18,20.42334827
+Jean-Louis Leca,FRA,GK,Lens,Ligue 1,34,20.40127325
+Lorenzo Del Pinto,ITA,MF,Benevento,Seria A,30,20.39026065
+Yehvann Diouf,FRA,GK,Reims,Ligue 1,20,20.33113281
+Simone Scuffet,ITA,GK,Udinese,Seria A,24,20.26141649
+Daniel Maldini,ITA,FWMF,Milan,Seria A,18,20.26133497
+Robin Olsen,SWE,GK,Everton,Premier League,30,20.26056622
+Lilian Egloff,GER,MF,Stuttgart,Bundesliga,17,20.21678309
+Xabier Etxeita,ESP,DF,Getafe,La Liga,32,20.16828011
+Alex McCarthy,ENG,GK,Southampton,Premier League,30,20.1114977
+Eliaquim Mangala,FRA,DF,Valencia,La Liga,29,20.09186963
+Jiří Pavlenka,CZE,GK,Werder Bremen,Bundesliga,28,20.07102716
+Omar Khailoti,ITA,DF,Bologna,Seria A,18,20.02565911
+Joshua Zirkzee,NED,FW,Bayern Munich,Bundesliga,19,20.01152396
+Christian Fuchs,AUT,DF,Leicester City,Premier League,34,19.99789878
+Aleksandar Kolarov,SRB,DF,Inter,Seria A,34,19.99280345
+Asier Illarramendi,ESP,MF,Real Sociedad,La Liga,30,19.9590205
+Jony Álamo,ESP,MF,Elche,La Liga,18,19.95818655
+Vedad Ibišević,BIH,FW,Schalke 04,Bundesliga,35,19.90813837
+Joshua Mees,GER,FW,Union Berlin,Bundesliga,24,19.84120947
+Robin Zentner,GER,GK,Mainz 05,Bundesliga,25,19.80354684
+Ludovic Baal,GUF,DFMF,Brest,Ligue 1,34,19.76442933
+Boubacar Traoré,MLI,MF,Metz,Ligue 1,18,19.74859004
+Rhys Williams,ENG,DF,Liverpool,Premier League,19,19.70149067
+Jordan Henderson,ENG,MFDF,Liverpool,Premier League,30,19.69489306
+Guglielmo Vicario,ITA,GK,Cagliari,Seria A,23,19.5547907
+Toni Kroos,GER,MF,Real Madrid,La Liga,30,19.51038204
+Dean Henderson,ENG,GK,Manchester Utd,Premier League,23,19.50347771
+Riccardo Saponara,ITA,FWMF,Fiorentina,Seria A,28,19.48094014
+Liam Delap,ENG,FW,Manchester City,Premier League,17,19.46620833
+Loris Karius,GER,GK,Union Berlin,Bundesliga,27,19.43877049
+Matz Sels,BEL,GK,Strasbourg,Ligue 1,28,19.41694843
+Radja Nainggolan,BEL,MF,Cagliari,Seria A,32,19.39699882
+Álex Remiro,ESP,GK,Real Sociedad,La Liga,25,19.28814523
+Mato Jajalo,BIH,MF,Udinese,Seria A,32,19.28264313
+Jonas Omlin,SUI,GK,Montpellier,Ligue 1,26,19.22783276
+Cheick Traoré,MLI,DF,Lens,Ligue 1,25,19.22134131
+Kingsley Fobi,GHA,DF,Granada,La Liga,21,19.21180965
+Saturnin Allagbé,BEN,GK,Dijon,Ligue 1,26,19.18517525
+Arthur Melo,BRA,MF,Juventus,Seria A,23,19.18327648
+Alban Lafont,FRA,GK,Nantes,Ligue 1,21,19.16117208
+Marek Rodák,SVK,GK,Fulham,Premier League,23,19.14771679
+Abdoulay Diaby,MLI,MF,Getafe,La Liga,29,19.13280208
+Simone Colombi,ITA,GK,Parma,Seria A,29,19.08493774
+Paulo Gazzaniga,ARG,GK,Elche,La Liga,28,19.0794266
+Yann M'Vila,FRA,MF,Saint-Étienne,Ligue 1,30,19.04685491
+Anthony Lopes,POR,GK,Lyon,Ligue 1,29,19.04435597
+Ajdin Hrustic,AUS,MFFW,Eint Frankfurt,Bundesliga,24,19.03903348
+Emrehan Gedikli,GER,FW,Leverkusen,Bundesliga,17,19.00637309
+Patrick Cutrone,ITA,FWMF,Fiorentina,Seria A,22,18.97753213
+Alisson,BRA,GK,Liverpool,Premier League,27,18.92333998
+Claudio Bravo,CHI,GK,Betis,La Liga,37,18.87249603
+Jaume Doménech,ESP,GK,Valencia,La Liga,29,18.82832206
+Koke Vegas,ESP,GK,Levante,La Liga,24,18.81618573
+Łukasz Fabiański,POL,GK,West Ham,Premier League,35,18.7914438
+Igor,BRA,DF,Fiorentina,Seria A,22,18.77931113
+Willy Caballero,ARG,GK,Chelsea,Premier League,38,18.65911975
+Pepe,ESP,DF,Granada,La Liga,20,18.65269519
+Sergi Roberto,ESP,DFMF,Barcelona,La Liga,28,18.63440899
+Amadou Diambo,GHA,FW,Benevento,Seria A,19,18.54439676
+Abdoulaye Sidibé,FRA,MF,Saint-Étienne,Ligue 1,18,18.54104285
+Yassine Bounou,MAR,GK,Sevilla,La Liga,29,18.53774739
+Bouna Sarr,SEN,DF,Marseille,Ligue 1,28,18.51822474
+Mathew Ryan,AUS,GK,Arsenal,Premier League,28,18.51661703
+Xherdan Shaqiri,SUI,MFFW,Liverpool,Premier League,28,18.50890846
+Sergio Rico,ESP,GK,Paris S-G,Ligue 1,26,18.50563394
+Pierluigi Gollini,ITA,GK,Atalanta,Seria A,25,18.42134348
+Etienne Green,FRA,GK,Saint-Étienne,Ligue 1,20,18.41512579
+Paul Bernardoni,FRA,GK,Angers,Ligue 1,23,18.3821386
+Henning Matriciani,GER,DF,Schalke 04,Bundesliga,20,18.31945336
+Sam Johnstone,ENG,GK,West Brom,Premier League,27,18.31488018
+Marc-Aurèle Caillard,FRA,GK,Metz,Ligue 1,26,18.30989289
+Paul Nardi,FRA,GK,Lorient,Ligue 1,26,18.25530476
+Léo Duarte,BRA,DF,Milan,Seria A,24,18.14792794
+Federico Peluso,ITA,DF,Sassuolo,Seria A,36,18.03652704
+Mitchell Weiser,GER,DF,Leverkusen,Bundesliga,26,18.02657199
+Nianzou Kouassi,FRA,DFMF,Bayern Munich,Bundesliga,18,17.94920171
+Juan Musso,ARG,GK,Udinese,Seria A,26,17.76776362
+Federico Bonazzoli,ITA,FW,Torino,Seria A,23,17.74965106
+David de Gea,ESP,GK,Manchester Utd,Premier League,29,17.73280241
+Jordi Masip,ESP,GK,Valladolid,La Liga,31,17.68576004
+Mattia Pagliuca,ITA,MF,Bologna,Seria A,18,17.62390092
+Juan Pérez,ESP,GK,Osasuna,La Liga,24,17.56571284
+Jokin Ezkieta,ESP,GK,Athletic Club,La Liga,23,17.49780791
+Javier Pastore,ARG,FWMF,Roma,Seria A,31,17.48924979
+Cheikh Tidiane Sabaly,SEN,MF,Metz,Ligue 1,21,17.31165923
+Rubén Yáñez,ESP,GK,Getafe,La Liga,26,17.21949686
+Vicente Guaita,ESP,GK,Crystal Palace,Premier League,33,17.17199024
+Unai Simón,ESP,GK,Athletic Club,La Liga,23,17.1593578
+Eiji Kawashima,JPN,GK,Strasbourg,Ligue 1,37,17.1529741
+Joel Pohjanpalo,FIN,MF,Leverkusen,Bundesliga,25,17.05567108
+Mike Maignan,FRA,GK,Lille,Ligue 1,25,17.03167171
+Anthony Racioppi,SUI,GK,Dijon,Ligue 1,21,17.01540384
+Daniele Padelli,ITA,GK,Inter,Seria A,34,17.0026404
+Anthony Modeste,FRA,FW,Saint-Étienne,Ligue 1,32,16.93212053
+Kenan Kodro,BIH,FWMF,Valladolid,La Liga,26,16.91678389
+Yohann Pelé,FRA,GK,Marseille,Ligue 1,37,16.8389412
+John Ruddy,ENG,GK,Wolves,Premier League,33,16.83533382
+Alexandre Oukidja,ALG,GK,Metz,Ligue 1,32,16.79404889
+Chaka Traorè,CIV,FWMF,Parma,Seria A,15,16.78652934
+Nathan Aké,NED,DF,Manchester City,Premier League,25,16.6081245
+Aarón Escandell,ESP,GK,Granada,La Liga,24,16.59687236
+Nícolas Andrade,BRA,GK,Udinese,Seria A,32,16.47066563
+Aleksandar Dragović,AUT,DF,Leverkusen,Bundesliga,29,16.44160724
+Unai Arietaleanizbeaskoa,ESP,FWMF,Eibar,La Liga,21,16.40568201
+Matthieu Dreyer,FRA,GK,Lorient,Ligue 1,31,16.37476697
+Keylor Navas,CRC,GK,Paris S-G,Ligue 1,33,16.28223187
+Pietro Terracciano,ITA,GK,Fiorentina,Seria A,30,16.25260243
+Nick Pope,ENG,GK,Burnley,Premier League,28,16.21881178
+Hugo Lloris,FRA,GK,Tottenham,Premier League,33,16.14293113
+Clément Depres,FRA,MF,Nîmes,Ligue 1,25,16.08165993
+Roberto,ESP,GK,Valladolid,La Liga,34,15.76573322
+Félix Correia,POR,MF,Juventus,Seria A,19,15.76328591
+Ivor Pandur,CRO,GK,Hellas Verona,Seria A,20,15.70254037
+Ángel,ESP,GK,Granada,La Liga,18,15.56842652
+Rui Silva,POR,GK,Granada,La Liga,26,15.42168304
+Ansou Sow,FRA,MF,Lens,Ligue 1,20,15.36099185
+Wuilker Faríñez,VEN,GK,Lens,Ligue 1,22,15.35341354
+Gianluca Pegolo,ITA,GK,Sassuolo,Seria A,39,15.33027873
+Mateo Kovačić,CRO,MF,Chelsea,Premier League,26,15.14710789
+Javi Martínez,ESP,DFMF,Bayern Munich,Bundesliga,31,15.11712128
+Theo Walcott,ENG,FW,Everton,Premier League,31,15.1132419
+Sofian Chakla,MAR,DF,Getafe,La Liga,26,15.08136895
+David Soria,ESP,GK,Getafe,La Liga,27,15.04491716
+Karl Darlow,ENG,GK,Newcastle Utd,Premier League,29,14.9234527
+Álvaro Bastida,ESP,MF,Cádiz,La Liga,16,14.78398977
+Rui Patrício,POR,GK,Wolves,Premier League,32,14.71027025
+David Button,ENG,GK,West Brom,Premier League,31,14.65855813
+Tin Jedvaj,CRO,DF,Leverkusen,Bundesliga,24,14.5771184
+Danilo Barbosa,BRA,DF,Nice,Ligue 1,24,14.54221686
+Bryan,ESP,FW,Sevilla,La Liga,19,14.51759421
+Marko Dmitrović,SRB,GK,Eibar,La Liga,28,14.46708411
+Bailey Peacock-Farrell,NIR,GK,Burnley,Premier League,23,14.40109989
+Moïse Sakava,CMR,MF,Reims,Ligue 1,19,14.39831076
+Alberto Cifuentes,ESP,GK,Cádiz,La Liga,41,14.38346129
+Oskar Buur,DEN,DF,Wolves,Premier League,22,14.36769476
+Shola Shoretire,ENG,FW,Manchester Utd,Premier League,16,14.29258083
+Eduard Löwen,GER,MFDF,Hertha BSC,Bundesliga,23,14.28386966
+Darío Poveda,ESP,FW,Getafe,La Liga,23,14.15268379
+Giulian Biancone,FRA,DFMF,Monaco,Ligue 1,20,14.12522547
+Andy Diouf,FRA,FW,Rennes,Ligue 1,18,14.00138548
+Wesley Moraes,BRA,MFFW,Aston Villa,Premier League,23,13.9513992
+Jan Oblak,SVN,GK,Atlético Madrid,La Liga,27,13.91749539
+Antonio Mazzotta,ITA,DF,Crotone,Seria A,30,13.8380107
+Will Norris,ENG,GK,Burnley,Premier League,26,13.78267459
+Mattia Sprocati,ITA,FW,Parma,Seria A,27,13.78073475
+Rodri,ESP,MF,Manchester City,Premier League,24,13.76591103
+Martin Palumbo,NOR,MF,Udinese,Seria A,18,13.73928994
+Mohamed Sankoh,NED,FW,Stuttgart,Bundesliga,16,13.71562134
+Arne Maier,GER,MF,Hertha BSC,Bundesliga,21,13.60528951
+Marco Silvestri,ITA,GK,Hellas Verona,Seria A,29,13.56562605
+Adama Soumaoro,FRA,DF,Lille,Ligue 1,28,13.45890745
+Jonas Michel Dirkner,GER,MF,Hertha BSC,Bundesliga,18,13.33534919
+Barcia,ESP,DF,Granada,La Liga,19,13.29074559
+Blanco,ESP,MFDF,Real Madrid,La Liga,20,12.67447338
+Arturo Calabresi,ITA,DF,Bologna,Seria A,24,12.57032254
+Scott Carson,ENG,GK,Manchester City,Premier League,34,12.53112268
+Samuel Umtiti,FRA,DF,Barcelona,La Liga,26,12.44572084
+Nicola Zalewski,POL,MF,Roma,Seria A,18,12.39804968
+Rayan Souici,FRA,DF,Saint-Étienne,Ligue 1,22,12.17738503
+Aaron Ramsdale,ENG,GK,Sheffield Utd,Premier League,22,12.11171295
+Hannibal Mejbri,TUN,MF,Manchester Utd,Premier League,17,12.02408455
+Fernando Marçal,BRA,DF,Lyon,Ligue 1,31,11.93675682
+Tony Jantschke,GER,DF,M'Gladbach,Bundesliga,30,11.87348072
+Alessandro Berardi,ITA,GK,Hellas Verona,Seria A,29,11.8492042
+Abdoulaye Sylla,GUI,DF,Nantes,Ligue 1,20,11.84240418
+Darren Randolph,IRL,GK,West Ham,Premier League,33,11.73598355
+Tyrese Francois,AUS,DF,Fulham,Premier League,20,11.64508107
+Antonio Sivera,ESP,GK,Alavés,La Liga,23,11.55524775
+Eñaut Mendía,ESP,FW,Eibar,La Liga,21,11.53771369
+Bamba Dieng,SEN,FWDF,Marseille,Ligue 1,20,11.5138994
+Edmond Tapsoba,BFA,DF,Leverkusen,Bundesliga,21,11.41066769
+Wilfried Kanga,FRA,FW,Angers,Ligue 1,22,11.39049712
+Jean-Kévin Augustin,FRA,FW,Nantes,Ligue 1,23,11.35847192
+Antonio Palumbo,ITA,MF,Sampdoria,Seria A,23,11.35621793
+Maxime Lopez,FRA,MF,Sassuolo,Seria A,22,11.27883623
+Kays Ruiz,MAR,FWMF,Paris S-G,Ligue 1,17,10.89690746
+Hugo Duro,ESP,FW,Real Madrid,La Liga,20,10.81850472
+Steven Nzonzi,FRA,MF,Rennes,Ligue 1,31,10.77783123
+Jeremías Ledesma,ARG,GK,Cádiz,La Liga,27,10.74758939
+Antwoine Hackford,ENG,FWDF,Sheffield Utd,Premier League,16,10.65170119
+Arturo Calabresi,ITA,DF,Cagliari,Seria A,24,10.32702916
+Jérémy Pied,FRA,DF,Lille,Ligue 1,31,10.21481915
+Siriki Sanogo,CIV,MF,Benevento,Seria A,18,10.02354919
+Waniss Taibi,FRA,MF,Angers,Ligue 1,18,9.592800619
+Aymeric Laporte,ESP,DF,Manchester City,Premier League,26,9.323795845
+Eric García,ESP,DF,Manchester City,Premier League,19,9.159447932
+Roli Pereira de Sa,FRA,MFFW,Nantes,Ligue 1,23,9.107779211
+Ryder Matos,BRA,MF,Udinese,Seria A,27,8.9876838
+Kristoffer Askildsen,NOR,MF,Sampdoria,Seria A,19,8.880718835
+Sergio Busquets,ESP,MF,Barcelona,La Liga,32,8.684853392
+Juan Jesus,BRA,DF,Roma,Seria A,29,8.316956857
+David Gil,ESP,GK,Cádiz,La Liga,26,8.307283823
+Idrissa Gana Gueye,SEN,MF,Paris S-G,Ligue 1,30,8.245396846
+Timothy Fosu-Mensah,NED,DF,Manchester Utd,Premier League,22,8.191040742
+Khanya Leshabela,RSA,MF,Leicester City,Premier League,20,8.014991982
+Marc Baró,ESP,DF,Cádiz,La Liga,20,7.474062015
+Levent Mercan,GER,FW,Schalke 04,Bundesliga,19,7.372996918
+Dennis Borkowski,GER,MFFW,RB Leipzig,Bundesliga,18,6.738852141
+Joe Gomez,ENG,DF,Liverpool,Premier League,23,6.603224895
+Kostas Tsimikas,GRE,DFFW,Liverpool,Premier League,24,6.443804588
+Kacper Urbanski,POL,MF,Bologna,Seria A,15,6.197485641
+Nicolás Schiappacasse,URU,MF,Sassuolo,Seria A,21,6.123689357
+Dani Plomer,ESP,FW,Granada,La Liga,21,5.784493315
+Lucas Buadés,FRA,MF,Nîmes,Ligue 1,22,5.098370931
+Felipe Anderson,BRA,FWMF,West Ham,Premier League,27,4.558019195
+Evann Guessand,FRA,FW,Nice,Ligue 1,19,4.546770615
+Carles Aleñá,ESP,MF,Barcelona,La Liga,22,4.067202689
+Marcin Kamiński,POL,DF,Stuttgart,Bundesliga,28,4.048044314
+Yanis Lhery,FRA,MFFW,Saint-Étienne,Ligue 1,17,3.751048317
+Christopher Rocchia,FRA,DF,Marseille,Ligue 1,22,3.735303979
+Alexandre Jankewitz,SUI,MF,Southampton,Premier League,18,3.613425727
+Leandro Paredes,ARG,MF,Paris S-G,Ligue 1,26,3.572164807
+Jimmy Kaparos,GER,MF,Schalke 04,Bundesliga,18,3.243802782
+Chris Richards,USA,DF,Bayern Munich,Bundesliga,20,2.269300115
+Patrick Erras,GER,MFFW,Werder Bremen,Bundesliga,25,1.925032756
+Cristóbal Montiel,ESP,DFFW,Fiorentina,Seria A,20,1.726851582
+Federico Ricci,ITA,FW,Sassuolo,Seria A,26,1.098221957
+Jack Butland,ENG,GK,Crystal Palace,Premier League,27,0.3025075541
+Andrea Conti,ITA,DF,Milan,Seria A,26,0.1926440587
+Tomislav Gomelt,CRO,MF,Crotone,Seria A,25,-0.1466509675
+Wisdom Amey,ITA,DF,Bologna,Seria A,14,-0.1521487538
+Xavi Simons,NED,MF,Paris S-G,Ligue 1,17,-0.2445295266
+Viktor Kovalenko,UKR,FW,Atalanta,Seria A,24,-0.2854012307
+Martin Kelly,ENG,DF,Crystal Palace,Premier League,30,-1.205541844
+Giacomo Vrioni,ALB,MF,Juventus,Seria A,21,-1.233481122
+Jaden Philogene Bidace,ENG,FW,Aston Villa,Premier League,18,-1.255921802
+Lukas Petkov,GER,MF,Augsburg,Bundesliga,19,-1.578352517
+Isaac Karamoko,FRA,DF,Sassuolo,Seria A,18,-1.578352517
+Nathan Broadhead,WAL,MF,Everton,Premier League,22,-1.698808253
+Federico Mattiello,ITA,DF,Spezia,Seria A,25,-1.978731606
+Yaya Soumaré,FRA,FW,Lyon,Ligue 1,20,-1.99687103
+Manuel Gasparini,ITA,GK,Udinese,Seria A,18,-2.220162884
+Elliot Anderson,SCO,MF,Newcastle Utd,Premier League,17,-2.506398337
+Radu Drăgușin,ROU,DF,Juventus,Seria A,18,-2.506398337
+Manu Emmanuel Gyabuaa,ITA,MF,Atalanta,Seria A,18,-2.506398337
+Kenny Nagera,FRA,FW,Paris S-G,Ligue 1,18,-2.92736128
+Florent da Silva,FRA,FW,Lyon,Ligue 1,17,-3.023112455
+Assane Dioussé,SEN,DF,Saint-Étienne,Ligue 1,22,-3.023112455
+Malo Gusto,FRA,DFMF,Lyon,Ligue 1,17,-3.445452776
+Matondo-Merveille Papela,GER,DF,Mainz 05,Bundesliga,19,-3.445452776
+Vasileios Pavlidis,GRE,FW,Schalke 04,Bundesliga,17,-3.445452776
+Omar Marmoush,EGY,FW,Wolfsburg,Bundesliga,21,-3.445452776
+Shkodran Mustafi,GER,DF,Arsenal,Premier League,28,-4.695184703
+Salim Ben Seghir,FRA,DF,Nice,Ligue 1,17,-4.698616992
+Racine Coly,SEN,DF,Nice,Ligue 1,24,-5.529909031
+Iñigo Vicente,ESP,FWMF,Athletic Club,La Liga,22,-6.96438052
+Ante Palaversa,CRO,MF,Getafe,La Liga,20,-8.449396955
+Miralem Pjanić,BIH,MF,Barcelona,La Liga,30,-10.5753544
+Riqui Puig,ESP,MF,Barcelona,La Liga,20,-10.92759305
+Raúl Moro,ESP,MF,Lazio,Seria A,17,-11.61434361
+Thomas Partey,GHA,MF,Atlético Madrid,La Liga,27,-12.90783941
+Marco Verratti,ITA,MF,Paris S-G,Ligue 1,27,-14.01149328
+Kiril Despodov,BUL,FW,Cagliari,Seria A,23,-15.89547748
+Andrea Adorante,ITA,FW,Parma,Seria A,20,-15.93861177
+Nicolò Fagioli,ITA,MF,Juventus,Seria A,19,-19.34421519
+Allan Tchaptchet,FRA,DF,Southampton,Premier League,18,-21.67892874
+Philip Ankhrah,GHA,MF,Hellas Verona,Seria A,17,-21.72001356
+Reda Khadra,GER,FW,Brighton,Premier League,19,-21.9162077
+José Izquierdo,COL,DF,Brighton,Premier League,28,-22.37275718
+Lewis Richardson,ENG,FWMF,Burnley,Premier League,17,-26.88089573
+Strahinja Pavlović,SRB,DF,Monaco,Ligue 1,19,-27.55846385
+William,BRA,FW,Wolfsburg,Bundesliga,25,-27.62508257
+Jayson Molumby,IRL,MF,Brighton,Premier League,20,-28.04046899
+Marten Winkler,GER,FW,Hertha BSC,Bundesliga,17,-28.04046899
+William Thomas Fish,ENG,DF,Manchester Utd,Premier League,17,-28.04046899
+Alejandro Millán,ESP,FW,Villarreal,La Liga,20,-28.38053474
+Antonio Raimondo,ITA,FW,Bologna,Seria A,16,-28.38053474
+Sebastian Müller,GER,MFDF,Arminia,Bundesliga,19,-28.38053474
+Antonio Cioffi,ITA,FW,Napoli,Seria A,17,-28.75081242
+Charles Costes,FRA,MF,Dijon,Ligue 1,17,-28.75551716
+Sergio Benito,ESP,FW,Valladolid,La Liga,21,-28.77250949
+Patrick Burner,MTQ,DF,Nice,Ligue 1,24,-28.77648698
+Sergio Cubero Ezcurra,ESP,MF,Eibar,La Liga,20,-28.77926891
+Ramón Folch,ESP,MF,Elche,La Liga,30,-28.80124883
+Femi Seriki,ENG,DF,Sheffield Utd,Premier League,18,-28.80124883
+Ilia Gruev,BUL,FW,Werder Bremen,Bundesliga,20,-28.80124883
+Dane Scarlett,ENG,FW,Tottenham,Premier League,16,-28.80124883
+Edouard Michut,FRA,MF,Paris S-G,Ligue 1,17,-28.80124883
+Hugo Sotelo,ESP,MF,Celta Vigo,La Liga,16,-28.80124883
+Joshua Brenet,NED,DF,Hoffenheim,Bundesliga,26,-29.895406
+Matthis Abline,FRA,FW,Rennes,Ligue 1,17,-30.32076465
+Kenny Tete,NED,DF,Fulham,Premier League,24,-33.42601658
+Jean-Philippe Gbamin,CIV,MF,Everton,Premier League,24,-40.78072205
+Edoardo Bove,ITA,MF,Roma,Seria A,18,-43.96792316
+Jon Pacheco,ESP,DF,Real Sociedad,La Liga,19,-54.990992
+Alejandro Blesa,ESP,MF,Levante,La Liga,18,-56.75903834

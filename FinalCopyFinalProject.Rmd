@@ -1,0 +1,156 @@
+---
+title: "Project"
+output: html_notebook
+---
+#Tobias Rodriguez Brindicci
+#St. Thomas University
+#K-Nearest Neighbor Analysis to find Kylian Mbappe's Replacement 
+#All data from FBRef.com 
+
+
+#Libraries
+```{r echo=FALSE}
+library(tidyverse)
+library(readr)
+library(caTools)
+library(shiny)
+library(dplyr)
+library(lsa)
+library(RANN)
+library(formattable)
+```
+
+#Import data
+```{r}
+#read CSV's
+
+general <- read.csv("standard.csv", header = TRUE)
+shooting <- read.csv("shooting.csv", header = TRUE)
+posession <- read.csv("posession.csv", header = TRUE)
+passing_types <- read.csv("pass_types.csv", header = TRUE)
+passing <- read.csv("passing.csv", header = TRUE)
+goal_shot_creation <- read.csv("goal_creation.csv", header = TRUE)
+```
+
+##Data Cleaning
+```{r}
+#Removing repeated columns by subsetting 
+general <- subset(general, select=-c(Rk,Matches))
+passing <- subset(passing, select=-c(Rk, Player, Nation, Pos, Squad, Comp, Age, Born, Matches))
+passing_types <- subset(passing_types, select=-c(Rk, Player, Nation, Pos, Squad, Comp, Age, Born, Matches))
+posession <- subset(posession, select=-c(Rk, Player, Nation, Pos, Squad, Comp, Age, Born, Matches))
+shooting <- subset(shooting, select=-c(Rk, Player, Nation, Pos, Squad, Comp, Age, Born, Matches))
+goal_shot_creation <- subset(goal_shot_creation, select=-c(Rk, Player, Nation, Pos, Squad, Comp, Age, Born, Matches))
+```
+
+```{r}
+#Merge all dataframes
+grand <- dplyr::bind_cols(general, shooting, passing, passing_types, posession, goal_shot_creation)
+head(grand)
+```
+
+```{r}
+# Replace all NA values with 0
+grand[is.na(grand)] = 0
+class(grand[8:93]) = 'Numeric'
+
+#Removing player names after '\'
+grand$Player <- gsub("\\\\..*","",grand$Player)
+
+#Removing Country and Competition lower case name
+grand$Nation <- gsub(".* ","",grand$Nation)
+
+#Remove GKDF and MFGK
+grand <- subset(grand, Pos != "GKDF")
+grand <- subset(grand, Pos != "GKMF")
+
+#Cleaning Age column
+grand$Age <- gsub("-.*","",grand$Age)
+
+
+#Removing Country and Competition lower case name
+grand$Nation <- gsub(".* ","",grand$Nation)
+
+#Cleaning Competition names
+grand[grand == "eng Premier League"] <- "Premier League"
+grand[grand == "fr Ligue 1"] <- "Ligue 1"
+grand[grand == "de Bundesliga"] <- "Bundesliga"
+grand[grand == "it Serie A"] <- "Seria A"
+grand[grand == "es La Liga"] <- "La Liga"
+head(grand)
+```
+##Graphic analysis
+```{r}
+ggplot(as.data.frame(grand), aes(Pos,fill = Comp)) +
+  geom_bar(position = 'dodge') + 
+  theme(axis.text.x = element_text(size=5)) + 
+  theme_minimal() + 
+  scale_fill_manual(values=c("#F4EDCA", 
+                "#D16103", "#C3D7A4", "#52854C", "#4E84C4")) +
+  labs(title = "Position Distribution by Leagues",
+       caption = "Source: FBRef.com")
+```
+```{r}
+ggplot(as.data.frame(grand), aes(Age)) +
+  geom_bar(fill = "#4E84C4") + 
+  theme(axis.text.x = element_text(size=5)) +
+  theme_minimal() + 
+  labs(title = "Age Distribution",
+       caption = "Source: FBRef.com")
+```
+
+#Nearest neighbor
+```{r}
+#Create df with only statistic values
+df1 <- grand[which(grand$Player != "Kylian Mbappé"),]
+df <- df1[c(8:93)]
+
+#Dataframe with Mbappe to be compared
+mbappe1 <- grand[which(grand$Player == "Kylian Mbappé"),]
+mbappe <- mbappe1[c(8:93)]
+```
+
+```{r}
+#analysis
+nnResults <- nn2(df, mbappe, k=min(10,nrow(data)),treetype=c("kd","bd"),
+    searchtype=c("standard","priority","radius"),radius=0.0,eps=0.0)
+
+## Convert the results to arrays to use
+PlayerSelection <- unlist(t(nnResults$nn.idx))[,1]
+CloseMatch <- 100 - unlist(t(nnResults$nn.dists))[,1] # take away the distance from 100 to get a similarity score... the higher the better. 
+
+FinalResults <- df1[PlayerSelection,]
+FinalResults <- FinalResults[1:7] # trim unneeded columns
+FinalResults$SimilarityScore <- CloseMatch # Add the similarity score 
+formattable(FinalResults) # display 
+
+#THIS KNN ANALYSIS IS RAN USING ALL AVAILABLE VARIABLES THEREFORE THE RESULTS
+```
+
+```{r}
+#Keeping columns relevant to Mbappe's position
+write_xlsx(df,"/Users/tobiasrodriguezbrindicci/Desktop/Project/df.xlsx") #Downlaod CSV as excel to check column number easier
+
+
+posSpec <- df[c(5,6,15,17,20,21,22,30,32,38,40,64,66,68,71,76,77,79,83,84)]
+mbappePS <- mbappe[c(5,6,15,17,20,21,22,30,32,38,40,64,66,68,71,76,77,79,83,84)]
+
+# Run Analaysis 
+nnResults <- nn2(posSpec, mbappePS, k=min(2820,nrow(data)),treetype=c("kd","bd"),
+    searchtype=c("standard","priority","radius"),radius=0.0,eps=0.0)
+
+# Convert the results to arrays to use
+PlayerSelection2 <- unlist(t(nnResults$nn.idx))[,1]
+CloseMatch2 <- 100 - unlist(t(nnResults$nn.dists))[,1]
+
+# Create summary data of the Top 25
+FinalResultsPS <- df1[PlayerSelection2,]
+FinalResultsPS1 <- FinalResultsPS[1:6]
+FinalResultsPS1$SimilarityScore <- CloseMatch2
+formattable(FinalResultsPS1)
+```
+
+```{r}
+write_xlsx(FinalResultsPS,"/Users/tobiasrodriguezbrindicci/Desktop/Project/FinalResultPS.xlsx") #Downlaod CSV as excel to check column number easier
+```
+
